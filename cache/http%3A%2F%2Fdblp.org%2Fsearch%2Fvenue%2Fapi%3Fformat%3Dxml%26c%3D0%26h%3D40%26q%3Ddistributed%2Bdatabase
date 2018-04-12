@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="9697">distributed* database*</query>
+<status code="200">OK</status>
+<time unit="msecs">0.56</time>
+<completions total="2" computed="2" sent="0">
+</completions>
+<hits total="4" computed="4" sent="4" first="0">
+<hit score="2" id="2895">
+<info><venue>International Symposium on Databases in Parallel and Distributed Systems  (DPDS)</venue><acronym>DPDS</acronym><type>Conference or Workshop</type><url>http://dblp.org/db/conf/dpds/</url></info>
+<url>URL#2895</url>
+</hit>
+<hit score="2" id="4538">
+<info><venue>International Workshop on Grid and Peer-to Peer Computing Impacts on Large Scale Heterogeneous Distributed Database Systems (GLOBE @ DEXA)</venue><acronym>GLOBE</acronym><type>Conference or Workshop</type><url>http://dblp.org/db/conf/dexa/</url></info>
+<url>URL#4538</url>
+</hit>
+<hit score="2" id="4603">
+<info><venue>International Symposium on Objects and Databases (SODB)</venue><acronym>SODB</acronym><type>Conference or Workshop</type><url>http://dblp.org/db/conf/oodbs/</url></info>
+<url>URL#4603</url>
+</hit>
+<hit score="2" id="6558">
+<info><venue>Distributed and Parallel Databases</venue><type>Journal</type><url>http://dblp.org/db/journals/dpd/</url></info>
+<url>URL#6558</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<dblpperson name="John P. Smith" n="3">
+<person key="homepages/93/2386" mdate="2013-04-25">
+<author>John P. Smith</author>
+</person>
+<r><inproceedings key="conf/bmvc/MatuszewskiSSV03" mdate="2017-05-21">
+<author>Bogdan J. Matuszewski</author>
+<author>Lik-Kwan Shark</author>
+<author>John P. Smith</author>
+<author>Martin R. Varley</author>
+<title>Error Equalisation for Sparse Image Mosaic Construction.</title>
+<pages>1-10</pages>
+<year>2003</year>
+<booktitle>BMVC</booktitle>
+<ee>https://doi.org/10.5244/C.17.52</ee>
+<crossref>conf/bmvc/2003</crossref>
+<url>db/conf/bmvc/bmvc2003.html#MatuszewskiSSV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sip/MatuszewskiSSV99" mdate="2013-04-25">
+<author>Bogdan J. Matuszewski</author>
+<author>Lik-Kwan Shark</author>
+<author>John P. Smith</author>
+<author>Martin R. Varley</author>
+<title>Automatic Registration of Ultrasound Images with Wire-Frame CAD Models.</title>
+<pages>134-138</pages>
+<year>1999</year>
+<crossref>conf/sip/1999</crossref>
+<booktitle>SIP</booktitle>
+<url>db/conf/sip/sip1999.html#MatuszewskiSSV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sip/SharkMS99" mdate="2013-04-25">
+<author>Lik-Kwan Shark</author>
+<author>Bogdan J. Matuszewski</author>
+<author>John P. Smith</author>
+<title>Automatic Mosaicing and Construction of Three-Dimensional Shearographic Surface Images.</title>
+<pages>183-187</pages>
+<year>1999</year>
+<crossref>conf/sip/1999</crossref>
+<booktitle>SIP</booktitle>
+<url>db/conf/sip/sip1999.html#SharkMS99</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="m/Matuszewski:Bogdan_J=">Bogdan J. Matuszewski</na></co>
+<co c="0"><na f="s/Shark:Lik=Kwan">Lik-Kwan Shark</na></co>
+<co c="0"><na f="v/Varley:Martin_R=">Martin R. Varley</na></co>
+</coauthors>
+</dblpperson>
+

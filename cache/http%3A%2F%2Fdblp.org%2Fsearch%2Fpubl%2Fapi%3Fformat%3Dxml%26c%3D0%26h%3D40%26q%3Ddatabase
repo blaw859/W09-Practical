@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="62061">database*</query>
+<status code="200">OK</status>
+<time unit="msecs">17.11</time>
+<completions total="12" computed="12" sent="0">
+</completions>
+<hits total="46715" computed="100" sent="40" first="0">
+<hit score="4" id="3614101">
+<info><authors><author>Burkhard Freitag</author><author>Hendrik Decker</author><author>Michael Kifer</author><author>Andrei Voronkov</author></authors><title>Transactions and Change in Logic Databases, International Seminar on Logic Databases and the Meaning of Change, Schloss Dagstuhl, Germany, September 23-27, 1996 and ILPS &apos;97 Post-Conference Workshop on (Trans)Actions and Change in Logic Programming and Deductive Databases, (DYNAMICS&apos;97) Port Jefferson, NY, USA, October 17, 1997, Invited Surveys and Selected Papers</title><venue>Transactions and Change in Logic Databases</venue><venue>Lecture Notes in Computer Science</venue><volume>1472</volume><publisher>Springer</publisher><year>1998</year><type>Editorship</type><key>conf/dagstuhl/1998change</key><doi>10.1007/BFB0055493</doi><ee>https://doi.org/10.1007/BFb0055493</ee><url>http://dblp.org/rec/conf/dagstuhl/1998change</url></info>
+<url>URL#3614101</url>
+</hit>
+<hit score="4" id="3704839">
+<info><authors><author>Joseph Fong</author><author>Paul Chitson</author></authors><title>Translating Database Update Statements from Relational to Object-Oriented Database Systems for Database Reengineering.</title><venue>International Hong Kong Computer Society Database Workshop</venue><pages>189-209</pages><year>1996</year><type>Conference and Workshop Papers</type><key>conf/idw/FongC96</key><url>http://dblp.org/rec/conf/idw/FongC96</url></info>
+<url>URL#3704839</url>
+</hit>
+<hit score="4" id="3758286">
+<info><authors><author>Hendrik Decker</author><author>Ulrich Geske</author><author>Antonis C. Kakas</author><author>Chiaki Sakama</author><author>Dietmar Seipel</author><author>Toni Urpí</author></authors><title>Deductive Databases and Logic Programming, Abduction in Deductive Databases and Knowledge-Based Systems, Proceedings of the ICLP&apos;95 Joint Workshop, Shonan Village Center, Japan, June 17, 1995</title><venue>Deductive Databases / Abduction in Deductive Databases</venue><venue>GMD-Studien</venue><volume>266</volume><publisher>Gesellschaft für Mathematik und Datenverarbeitung MbH</publisher><year>1995</year><type>Editorship</type><key>conf/deductive/1995</key><url>http://dblp.org/rec/conf/deductive/1995</url></info>
+<url>URL#3758286</url>
+</hit>
+<hit score="3" id="15454">
+<info><authors><author>Molly A. Bogue</author><author>Stephen C. Grubb</author><author>David O. Walton</author><author>Vivek M. Philip</author><author>Georgi Kolishovski</author><author>Tim Stearns</author><author>Matthew H. Dunn</author><author>Daniel A. Skelly</author><author>Beena Kadakkuzha</author><author>Gregg TeHennepe</author><author>Govindarajan Kunde-Ramamoorthy</author><author>Elissa J. Chesler</author></authors><title>Mouse Phenome Database - an integrative database and analysis suite for curated empirical phenotype data from laboratory mice.</title><venue>Nucleic Acids Research</venue><volume>46</volume><number>Database-Issue</number><pages>D843-D850</pages><year>2018</year><type>Journal Articles</type><key>journals/nar/BogueGWPKSDSKTK18</key><doi>10.1093/NAR/GKX1082</doi><ee>https://doi.org/10.1093/nar/gkx1082</ee><url>http://dblp.org/rec/journals/nar/BogueGWPKSDSKTK18</url></info>
+<url>URL#15454</url>
+</hit>
+<hit score="3" id="15511">
+<info><authors><author>Terje Klemetsen</author><author>Inge Alexander Raknes</author><author>Juan Fu</author><author>Alexander Agafonov</author><author>Sudhagar V. Balasundaram</author><author>Giacomo Tartari</author><author>Espen Mikal Robertsen</author><author>Nils Peder Willassen</author></authors><title>The MAR databases - development and implementation of databases specific for marine metagenomics.</title><venue>Nucleic Acids Research</venue><volume>46</volume><number>Database-Issue</number><pages>D692-D699</pages><year>2018</year><type>Journal Articles</type><key>journals/nar/KlemetsenRFABTR18</key><doi>10.1093/NAR/GKX1036</doi><ee>https://doi.org/10.1093/nar/gkx1036</ee><url>http://dblp.org/rec/journals/nar/KlemetsenRFABTR18</url></info>
+<url>URL#15511</url>
+</hit>
+<hit score="3" id="15564">
+<info><authors><author>Neil D. Rawlings</author><author>Alan J. Barrett</author><author>Paul D. Thomas</author><author>Xiaosong Huang</author><author>Alex Bateman</author><author>Robert D. Finn</author></authors><title>The MEROPS database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the PANTHER database.</title><venue>Nucleic Acids Research</venue><volume>46</volume><number>Database-Issue</number><pages>D624-D632</pages><year>2018</year><type>Journal Articles</type><key>journals/nar/RawlingsBTHBF18</key><doi>10.1093/NAR/GKX1134</doi><ee>https://doi.org/10.1093/nar/gkx1134</ee><url>http://dblp.org/rec/journals/nar/RawlingsBTHBF18</url></info>
+<url>URL#15564</url>
+</hit>
+<hit score="3" id="15566">
+<info><authors><author>Daniel J. Rigden</author><author>Xosé M. Fernández-Suárez</author></authors><title>The 2018 Nucleic Acids Research database issue and the online molecular biology database collection.</title><venue>Nucleic Acids Research</venue><volume>46</volume><number>Database-Issue</number><pages>D1-D7</pages><year>2018</year><type>Journal Articles</type><key>journals/nar/RigdenF18</key><doi>10.1093/NAR/GKX1235</doi><ee>https://doi.org/10.1093/nar/gkx1235</ee><url>http://dblp.org/rec/journals/nar/RigdenF18</url></info>
+<url>URL#15566</url>
+</hit>
+<hit score="3" id="15583">
+<info><authors><author>Cynthia L. Smith</author><author>Judith A. Blake</author><author>James A. Kadin</author><author>Joel E. Richardson</author><author>Carol J. Bult</author><author>The Mouse Genome Database Group</author></authors><title>Mouse Genome Database (MGD)-2018 - knowledgebase for the laboratory mouse.</title><venue>Nucleic Acids Research</venue><volume>46</volume><number>Database-Issue</number><pages>D836-D842</pages><year>2018</year><type>Journal Articles</type><key>journals/nar/SmithBKRBG18</key><doi>10.1093/NAR/GKX1006</doi><ee>https://doi.org/10.1093/nar/gkx1006</ee><url>http://dblp.org/rec/journals/nar/SmithBKRBG18</url></info>
+<url>URL#15583</url>
+</hit>
+<hit score="3" id="110752">
+<info><authors><author>Judith A. Blake</author><author>Janan T. Eppig</author><author>James A. Kadin</author><author>Joel E. Richardson</author><author>Cynthia L. Smith</author><author>Carol J. Bult</author><author>The Mouse Genome Database Group</author></authors><title>Mouse Genome Database (MGD)-2017 - community knowledge resource for the laboratory mouse.</title><venue>Nucleic Acids Research</venue><volume>45</volume><number>Database-Issue</number><pages>D723-D729</pages><year>2017</year><type>Journal Articles</type><key>journals/nar/BlakeEKRSBG17</key><doi>10.1093/NAR/GKW1040</doi><ee>https://doi.org/10.1093/nar/gkw1040</ee><url>http://dblp.org/rec/journals/nar/BlakeEKRSBG17</url></info>
+<url>URL#110752</url>
+</hit>
+<hit score="3" id="110754">
+<info><authors><author>Kai Blin</author><author>Marnix H. Medema</author><author>Renzo Kottmann</author><author>Sang Yup Lee</author><author>Tilmann Weber</author></authors><title>The antiSMASH database, a comprehensive database of microbial secondary metabolite biosynthetic gene clusters.</title><venue>Nucleic Acids Research</venue><volume>45</volume><number>Database-Issue</number><pages>D555-D559</pages><year>2017</year><type>Journal Articles</type><key>journals/nar/BlinMKLW17</key><doi>10.1093/NAR/GKW960</doi><ee>https://doi.org/10.1093/nar/gkw960</ee><url>http://dblp.org/rec/journals/nar/BlinMKLW17</url></info>
+<url>URL#110754</url>
+</hit>
+<hit score="3" id="110936">
+<info><authors><author>Emmanouil Viennas</author><author>Angeliki Komianou</author><author>Clint Mizzi</author><author>Maja Stojiljkovic</author><author>Christina Mitropoulou</author><author>Juha Muilu</author><author>Mauno Vihinen</author><author>Panagiota Grypioti</author><author>Styliani Papadaki</author><author>Cristiana Pavlidis</author><author>Branka Zukic</author><author>Theodora Katsila</author><author>Peter J. van der Spek</author><author>Sonja Pavlovic</author><author>Giannis Tzimas</author><author>George P. Patrinos</author></authors><title>Expanded national database collection and data coverage in the FINDbase worldwide database for clinically relevant genomic variation allele frequencies.</title><venue>Nucleic Acids Research</venue><volume>45</volume><number>Database-Issue</number><pages>D846-D853</pages><year>2017</year><type>Journal Articles</type><key>journals/nar/ViennasKMSMMVGP17</key><doi>10.1093/NAR/GKW949</doi><ee>https://doi.org/10.1093/nar/gkw949</ee><url>http://dblp.org/rec/journals/nar/ViennasKMSMMVGP17</url></info>
+<url>URL#110936</url>
+</hit>
+<hit score="3" id="330385">
+<info><authors><author>Rayda Ben Ayed</author><author>Hanen Ben Hassen</author><author>Karim Ennouri</author><author>Riadh Ben Marzoug</author><author>Ahmed Rebai</author></authors><title>OGDD (Olive Genetic Diversity Database) - a microsatellite markers&apos; genotypes database of worldwide olive trees for cultivar identification and virgin olive oil traceability.</title><venue>Database</venue><volume>2016</volume><year>2016</year><type>Journal Articles</type><key>journals/biodb/AyedHEMR16</key><doi>10.1093/DATABASE/BAV090</doi><ee>https://doi.org/10.1093/database/bav090</ee><url>http://dblp.org/rec/journals/biodb/AyedHEMR16</url></info>
+<url>URL#330385</url>
+</hit>
+<hit score="3" id="394117">
+<info><authors><author>Ron Caspi</author><author>Richard Billington</author><author>Luciana Ferrer</author><author>Hartmut Foerster</author><author>Carol A. Fulcher</author><author>Ingrid M. Keseler</author><author>Anamika Kothari</author><author>Markus Krummenacker</author><author>Mario Latendresse</author><author>Lukas A. Mueller</author><author>Quang Ong</author><author>Suzanne M. Paley</author><author>Pallavi Subhraveti</author><author>Daniel S. Weaver</author><author>Peter D. Karp</author></authors><title>The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases.</title><venue>Nucleic Acids Research</venue><volume>44</volume><number>Database-Issue</number><pages>471-480</pages><year>2016</year><type>Journal Articles</type><key>journals/nar/CaspiBFFFKKKLMO16</key><doi>10.1093/NAR/GKV1164</doi><ee>https://doi.org/10.1093/nar/gkv1164</ee><url>http://dblp.org/rec/journals/nar/CaspiBFFFKKKLMO16</url></info>
+<url>URL#394117</url>
+</hit>
+<hit score="3" id="394278">
+<info><authors><author>Daniel J. Rigden</author><author>Xosé M. Fernández-Suárez</author><author>Michael Y. Galperin</author></authors><title>The 2016 database issue of Nucleic Acids Research and an updated molecular biology database collection.</title><venue>Nucleic Acids Research</venue><volume>44</volume><number>Database-Issue</number><pages>1-6</pages><year>2016</year><type>Journal Articles</type><key>journals/nar/RigdenFG16</key><doi>10.1093/NAR/GKV1356</doi><ee>https://doi.org/10.1093/nar/gkv1356</ee><url>http://dblp.org/rec/journals/nar/RigdenFG16</url></info>
+<url>URL#394278</url>
+</hit>
+<hit score="3" id="615815">
+<info><authors><author>Matyas F. Cserhati</author><author>Sanjit Pandey</author><author>James J. Beaudoin</author><author>Lorena Baccaglini</author><author>Chittibabu Guda</author><author>Howard S. Fox</author></authors><title>The National NeuroAIDS Tissue Consortium (NNTC) Database - an integrated database for HIV-related studies.</title><venue>Database</venue><volume>2015</volume><year>2015</year><type>Journal Articles</type><key>journals/biodb/CserhatiPBBGF15</key><doi>10.1093/DATABASE/BAV074</doi><ee>https://doi.org/10.1093/database/bav074</ee><url>http://dblp.org/rec/journals/biodb/CserhatiPBBGF15</url></info>
+<url>URL#615815</url>
+</hit>
+<hit score="3" id="676317">
+<info><authors><author>Kenneth L. Abbott</author><author>Erik T. Nyre</author><author>Juan Abrahante</author><author>Yen-Yi Ho</author><author>Rachel Isaksson Vogel</author><author>Timothy K. Starr</author></authors><title>The Candidate Cancer Gene Database - a database of cancer driver genes from forward genetic screens in mice.</title><venue>Nucleic Acids Research</venue><volume>43</volume><number>Database-Issue</number><pages>844-848</pages><year>2015</year><type>Journal Articles</type><key>journals/nar/AbbottNAHVS15</key><doi>10.1093/NAR/GKU770</doi><ee>https://doi.org/10.1093/nar/gku770</ee><url>http://dblp.org/rec/journals/nar/AbbottNAHVS15</url></info>
+<url>URL#676317</url>
+</hit>
+<hit score="3" id="676380">
+<info><authors><author>Michael Y. Galperin</author><author>Daniel J. Rigden</author><author>Xosé M. Fernández-Suárez</author></authors><title>The 2015 Nucleic Acids Research Database Issue and Molecular Biology Database Collection.</title><venue>Nucleic Acids Research</venue><volume>43</volume><number>Database-Issue</number><pages>1-5</pages><year>2015</year><type>Journal Articles</type><key>journals/nar/GalperinRF15</key><doi>10.1093/NAR/GKU1241</doi><ee>https://doi.org/10.1093/nar/gku1241</ee><url>http://dblp.org/rec/journals/nar/GalperinRF15</url></info>
+<url>URL#676380</url>
+</hit>
+<hit score="3" id="676477">
+<info><authors><author>Richa Mudgal</author><author>Sankaran Sandhya</author><author>Gayatri Kumar</author><author>Ramanathan Sowdhamini</author><author>Nagasuma R. Chandra</author><author>Narayanaswamy Srinivasan</author></authors><title>NrichD database - sequence databases enriched with computationally designed protein-like sequences aid in remote homology detection.</title><venue>Nucleic Acids Research</venue><volume>43</volume><number>Database-Issue</number><pages>300-305</pages><year>2015</year><type>Journal Articles</type><key>journals/nar/MudgalSKSCS15</key><doi>10.1093/NAR/GKU888</doi><ee>https://doi.org/10.1093/nar/gku888</ee><url>http://dblp.org/rec/journals/nar/MudgalSKSCS15</url></info>
+<url>URL#676477</url>
+</hit>
+<hit score="3" id="676506">
+<info><authors><author>James Robinson</author><author>Jason A. Halliwell</author><author>James D. Hayhurst</author><author>Paul Flicek</author><author>Peter Parham</author><author>Steven G. E. Marsh</author></authors><title>The IPD and IMGT/HLA database - allele variant databases.</title><venue>Nucleic Acids Research</venue><volume>43</volume><number>Database-Issue</number><pages>423-431</pages><year>2015</year><type>Journal Articles</type><key>journals/nar/RobinsonHHFPM15</key><doi>10.1093/NAR/GKU1161</doi><ee>https://doi.org/10.1093/nar/gku1161</ee><url>http://dblp.org/rec/journals/nar/RobinsonHHFPM15</url></info>
+<url>URL#676506</url>
+</hit>
+<hit score="3" id="893415">
+<info><authors><author>Qingzhou Zhang</author><author>Bo Yang</author><author>Xujiao Chen</author><author>Jing Xu</author><author>Changlin Mei</author><author>Zhiguo Mao</author></authors><title>Renal Gene Expression Database (RGED) - a relational database of gene expression profiles in kidney disease.</title><venue>Database</venue><volume>2014</volume><year>2014</year><type>Journal Articles</type><key>journals/biodb/ZhangYCXMM14</key><doi>10.1093/DATABASE/BAU092</doi><ee>https://doi.org/10.1093/database/bau092</ee><url>http://dblp.org/rec/journals/biodb/ZhangYCXMM14</url></info>
+<url>URL#893415</url>
+</hit>
+<hit score="3" id="954134">
+<info><authors><author>Ron Caspi</author><author>Tomer Altman</author><author>Richard Billington</author><author>Kate Dreher</author><author>Hartmut Foerster</author><author>Carol A. Fulcher</author><author>Timothy A. Holland</author><author>Ingrid M. Keseler</author><author>Anamika Kothari</author><author>Aya Kubo</author><author>Markus Krummenacker</author><author>Mario Latendresse</author><author>Lukas A. Mueller</author><author>Quang Ong</author><author>Suzanne M. Paley</author><author>Pallavi Subhraveti</author><author>Daniel S. Weaver</author><author>Deepika Weerasinghe</author><author>Peifen Zhang</author><author>Peter D. Karp</author></authors><title>The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of Pathway/Genome Databases.</title><venue>Nucleic Acids Research</venue><volume>42</volume><number>Database-Issue</number><pages>459-471</pages><year>2014</year><type>Journal Articles</type><key>journals/nar/CaspiABDFFHKKKKLMOPSWWZK14</key><doi>10.1093/NAR/GKT1103</doi><ee>https://doi.org/10.1093/nar/gkt1103</ee><url>http://dblp.org/rec/journals/nar/CaspiABDFFHKKKKLMOPSWWZK14</url></info>
+<url>URL#954134</url>
+</hit>
+<hit score="3" id="954162">
+<info><authors><author>Xosé M. Fernández-Suárez</author><author>Daniel J. Rigden</author><author>Michael Y. Galperin</author></authors><title>The 2014 Nucleic Acids Research Database Issue and an updated NAR online Molecular Biology Database Collection.</title><venue>Nucleic Acids Research</venue><volume>42</volume><number>Database-Issue</number><pages>1-6</pages><year>2014</year><type>Journal Articles</type><key>journals/nar/Fernandez-SuarezRG14</key><doi>10.1093/NAR/GKT1282</doi><ee>https://doi.org/10.1093/nar/gkt1282</ee><url>http://dblp.org/rec/journals/nar/Fernandez-SuarezRG14</url></info>
+<url>URL#954162</url>
+</hit>
+<hit score="3" id="1164616">
+<info><authors><author>Kate Evans</author><author>Sook Jung</author><author>Taein Lee</author><author>Lisa Brutcher</author><author>Ilhyung Cho</author><author>Cameron Peace</author><author>Dorrie Main</author></authors><title>Addition of a breeding database in the Genome Database for Rosaceae.</title><venue>Database</venue><volume>2013</volume><year>2013</year><type>Journal Articles</type><key>journals/biodb/EvansJLBCPM13</key><doi>10.1093/DATABASE/BAT078</doi><ee>https://doi.org/10.1093/database/bat078</ee><url>http://dblp.org/rec/journals/biodb/EvansJLBCPM13</url></info>
+<url>URL#1164616</url>
+</hit>
+<hit score="3" id="1164618">
+<info><authors><author>Pascale Gaudet</author><author>Monica C. Munoz-Torres</author><author>Marc Robinson-Rechavi</author><author>Teresa K. Attwood</author><author>Alex Bateman</author><author>J. Michael Cherry</author><author>Renate Kania</author><author>Claire O&apos;Donovan</author><author>Chisato Yamasaki</author></authors><title>DATABASE, The Journal of Biological Databases and Curation, is now the official journal of the International Society for Biocuration.</title><venue>Database</venue><volume>2013</volume><year>2013</year><type>Journal Articles</type><key>journals/biodb/GaudetMRABCKOY13</key><doi>10.1093/DATABASE/BAT077</doi><ee>https://doi.org/10.1093/database/bat077</ee><url>http://dblp.org/rec/journals/biodb/GaudetMRABCKOY13</url></info>
+<url>URL#1164618</url>
+</hit>
+<hit score="3" id="1164642">
+<info><authors><author>Stephen L. Mathias</author><author>Jarrett Hines-Kay</author><author>Jeremy J. Yang</author><author>Gergely Zahoránszky-Köhalmi</author><author>Cristian Bologa</author><author>Oleg Ursu</author><author>Tudor I. Oprea</author></authors><title>The CARLSBAD Database - A Confederated Database of Chemical Bioactivities.</title><venue>Database</venue><volume>2013</volume><year>2013</year><type>Journal Articles</type><key>journals/biodb/MathiasHYZBUO13</key><doi>10.1093/DATABASE/BAT044</doi><ee>https://doi.org/10.1093/database/bat044</ee><url>http://dblp.org/rec/journals/biodb/MathiasHYZBUO13</url></info>
+<url>URL#1164642</url>
+</hit>
+<hit score="3" id="1222470">
+<info><authors><author>Xosé M. Fernández-Suárez</author><author>Michael Y. Galperin</author></authors><title>The 2013 Nucleic Acids Research Database Issue and the online Molecular Biology Database Collection.</title><venue>Nucleic Acids Research</venue><volume>41</volume><number>Database-Issue</number><pages>1-7</pages><year>2013</year><type>Journal Articles</type><key>journals/nar/Fernandez-SuarezG13</key><doi>10.1093/NAR/GKS1297</doi><ee>https://doi.org/10.1093/nar/gks1297</ee><url>http://dblp.org/rec/journals/nar/Fernandez-SuarezG13</url></info>
+<url>URL#1222470</url>
+</hit>
+<hit score="3" id="1222478">
+<info><authors><author>Fengli Fu</author><author>Daniel F. Voytas</author></authors><title>Zinc Finger Database (ZiFDB) v2.0 - a comprehensive database of C2H2 zinc fingers and engineered zinc finger arrays.</title><venue>Nucleic Acids Research</venue><volume>41</volume><number>Database-Issue</number><pages>452-455</pages><year>2013</year><type>Journal Articles</type><key>journals/nar/FuV13</key><doi>10.1093/NAR/GKS1167</doi><ee>https://doi.org/10.1093/nar/gks1167</ee><url>http://dblp.org/rec/journals/nar/FuV13</url></info>
+<url>URL#1222478</url>
+</hit>
+<hit score="3" id="1222513">
+<info><authors><author>Sunhwan Jo</author><author>Wonpil Im</author></authors><title>Glycan fragment database - a database of PDB-based glycan 3D structures.</title><venue>Nucleic Acids Research</venue><volume>41</volume><number>Database-Issue</number><pages>470-474</pages><year>2013</year><type>Journal Articles</type><key>journals/nar/JoI13</key><doi>10.1093/NAR/GKS987</doi><ee>https://doi.org/10.1093/nar/gks987</ee><url>http://dblp.org/rec/journals/nar/JoI13</url></info>
+<url>URL#1222513</url>
+</hit>
+<hit score="3" id="1426136">
+<info><authors><author>Nicholas A. Stover</author><author>Ravinder S. Punia</author><author>Michael S. Bowen</author><author>Steven B. Dolins</author><author>Theodore G. Clark</author></authors><title>Tetrahymena genome database Wiki - a community-maintained model organism database.</title><venue>Database</venue><volume>2012</volume><year>2012</year><type>Journal Articles</type><key>journals/biodb/StoverPBDC12</key><doi>10.1093/DATABASE/BAS007</doi><ee>https://doi.org/10.1093/database/bas007</ee><url>http://dblp.org/rec/journals/biodb/StoverPBDC12</url></info>
+<url>URL#1426136</url>
+</hit>
+<hit score="3" id="1482047">
+<info><authors><author>Dan M. Bolser</author><author>Pierre-Yves Chibon</author><author>Nicolas Palopoli</author><author>Sungsam Gong</author><author>Daniel Jacob</author><author>Victoria Dominguez Del Angel</author><author>Daniel Swan</author><author>Sebastian Bassi</author><author>Virginia González</author><author>Prashanth Suravajhala</author><author>Seungwoo Hwang</author><author>Paolo Romano 0001</author><author>Rob Edwards</author><author>Bryan Bishop</author><author>John Eargle</author><author>Timur Shtatland</author><author>Nicholas J. Provart</author><author>Dave Clements</author><author>Daniel P. Renfro</author><author>Daeui Bhak</author><author>Jong Bhak</author></authors><title>MetaBase - the wiki-database of biological databases.</title><venue>Nucleic Acids Research</venue><volume>40</volume><number>Database-Issue</number><pages>1250-1254</pages><year>2012</year><type>Journal Articles</type><key>journals/nar/BolserCPGJASBGSHREBESPCRBB12</key><doi>10.1093/NAR/GKR1099</doi><ee>https://doi.org/10.1093/nar/gkr1099</ee><url>http://dblp.org/rec/journals/nar/BolserCPGJASBGSHREBESPCRBB12</url></info>
+<url>URL#1482047</url>
+</hit>
+<hit score="3" id="1482058">
+<info><authors><author>Ron Caspi</author><author>Tomer Altman</author><author>Kate Dreher</author><author>Carol A. Fulcher</author><author>Pallavi Subhraveti</author><author>Ingrid M. Keseler</author><author>Anamika Kothari</author><author>Markus Krummenacker</author><author>Mario Latendresse</author><author>Lukas A. Mueller</author><author>Quang Ong</author><author>Suzanne M. Paley</author><author>Anuradha Pujar</author><author>Alexander Glennon Shearer</author><author>Michael Travers</author><author>Deepika Weerasinghe</author><author>Peifen Zhang</author><author>Peter D. Karp</author></authors><title>The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases.</title><venue>Nucleic Acids Research</venue><volume>40</volume><number>Database-Issue</number><pages>742-753</pages><year>2012</year><type>Journal Articles</type><key>journals/nar/CaspiADFSKKKLMOPPSTWZK12</key><doi>10.1093/NAR/GKR1014</doi><ee>https://doi.org/10.1093/nar/gkr1014</ee><url>http://dblp.org/rec/journals/nar/CaspiADFSKKKLMOPPSTWZK12</url></info>
+<url>URL#1482058</url>
+</hit>
+<hit score="3" id="1482098">
+<info><authors><author>Michael Y. Galperin</author><author>Xosé M. Fernández-Suárez</author></authors><title>The 2012 Nucleic Acids Research Database Issue and the online Molecular Biology Database Collection.</title><venue>Nucleic Acids Research</venue><volume>40</volume><number>Database-Issue</number><pages>1-8</pages><year>2012</year><type>Journal Articles</type><key>journals/nar/GalperinF12</key><doi>10.1093/NAR/GKR1196</doi><ee>https://doi.org/10.1093/nar/gkr1196</ee><url>http://dblp.org/rec/journals/nar/GalperinF12</url></info>
+<url>URL#1482098</url>
+</hit>
+<hit score="3" id="1482306">
+<info><authors><author>Joshua SungWoo Yang</author><author>Ji-han Kim</author><author>Sangho Oh</author><author>Gukjeong Han</author><author>Sanghyuk Lee</author><author>Jinhyuk Lee</author></authors><title>STAP Refinement of the NMR database - a database of 2405 refined solution NMR structures.</title><venue>Nucleic Acids Research</venue><volume>40</volume><number>Database-Issue</number><pages>525-530</pages><year>2012</year><type>Journal Articles</type><key>journals/nar/YangKOHLL12</key><doi>10.1093/NAR/GKR1021</doi><ee>https://doi.org/10.1093/nar/gkr1021</ee><url>http://dblp.org/rec/journals/nar/YangKOHLL12</url></info>
+<url>URL#1482306</url>
+</hit>
+<hit score="3" id="1675135">
+<info><authors><author>Augusto F. Vellozo</author><author>Amélie S. Véron</author><author>Patrice Baa-Puyoulet</author><author>Jaime Huerta-Cepas</author><author>Ludovic Cottret</author><author>Gérard Febvay</author><author>Federica Calevro</author><author>Yvan Rahbé</author><author>Angela E. Douglas</author><author>Toni Gabaldón</author><author>Marie-France Sagot</author><author>Hubert Charles</author><author>Stefano Colella</author></authors><title>CycADS - an annotation database system to ease the development and update of BioCyc databases.</title><venue>Database</venue><volume>2011</volume><year>2011</year><type>Journal Articles</type><key>journals/biodb/VellozoVBHCFCRDGSCC11</key><doi>10.1093/DATABASE/BAR008</doi><ee>https://doi.org/10.1093/database/bar008</ee><url>http://dblp.org/rec/journals/biodb/VellozoVBHCFCRDGSCC11</url></info>
+<url>URL#1675135</url>
+</hit>
+<hit score="3" id="1728558">
+<info><authors><author>Michael Y. Galperin</author><author>Guy Cochrane</author></authors><title>The 2011 Nucleic Acids Research Database Issue and the online Molecular Biology Database Collection.</title><venue>Nucleic Acids Research</venue><volume>39</volume><number>Database-Issue</number><pages>1-6</pages><year>2011</year><type>Journal Articles</type><key>journals/nar/GalperinC11</key><doi>10.1093/NAR/GKQ1243</doi><ee>https://doi.org/10.1093/nar/gkq1243</ee><url>http://dblp.org/rec/journals/nar/GalperinC11</url></info>
+<url>URL#1728558</url>
+</hit>
+<hit score="3" id="1728757">
+<info><authors><author>Young-Cheul Shin</author><author>Soo-Yong Shin</author><author>Insuk So</author><author>Dongseop Kwon</author><author>Ju-Hong Jeon</author></authors><title>TRIP Database - a manually curated database of protein-protein interactions for mammalian TRP channels.</title><venue>Nucleic Acids Research</venue><volume>39</volume><number>Database-Issue</number><pages>356-361</pages><year>2011</year><type>Journal Articles</type><key>journals/nar/ShinSSKJ11</key><doi>10.1093/NAR/GKQ814</doi><ee>https://doi.org/10.1093/nar/gkq814</ee><url>http://dblp.org/rec/journals/nar/ShinSSKJ11</url></info>
+<url>URL#1728757</url>
+</hit>
+<hit score="3" id="1728799">
+<info><authors><author>Qifang Xu</author><author>Roland L. Dunbrack Jr.</author></authors><title>The protein common interface database (ProtCID) - a comprehensive database of interactions of homologous proteins in multiple crystal forms.</title><venue>Nucleic Acids Research</venue><volume>39</volume><number>Database-Issue</number><pages>761-770</pages><year>2011</year><type>Journal Articles</type><key>journals/nar/XuD11</key><doi>10.1093/NAR/GKQ1059</doi><ee>https://doi.org/10.1093/nar/gkq1059</ee><url>http://dblp.org/rec/journals/nar/XuD11</url></info>
+<url>URL#1728799</url>
+</hit>
+<hit score="3" id="1911049">
+<info><authors><author>Michael Zouberakis</author><author>Christina Chandras</author><author>Morris A. Swertz</author><author>Damian Smedley</author><author>Michael Gruenberger</author><author>Jonathan B. L. Bard</author><author>Klaus Schughart</author><author>Nadia A. Rosenthal</author><author>John M. Hancock</author><author>Paul N. Schofield</author><author>George Kollias</author><author>Vassilis Aidinis</author></authors><title>Mouse Resource Browser - a database of mouse databases.</title><venue>Database</venue><volume>2010</volume><year>2010</year><type>Journal Articles</type><key>journals/biodb/ZouberakisCSSGBSRHSKA10</key><doi>10.1093/DATABASE/BAQ010</doi><ee>https://doi.org/10.1093/database/baq010</ee><url>http://dblp.org/rec/journals/biodb/ZouberakisCSSGBSRHSKA10</url></info>
+<url>URL#1911049</url>
+</hit>
+<hit score="3" id="1961562">
+<info><authors><author>Ron Caspi</author><author>Tomer Altman</author><author>Joseph M. Dale</author><author>Kate Dreher</author><author>Carol A. Fulcher</author><author>Fred Gilham</author><author>Pallavi Kaipa</author><author>Athikkattuvalasu S. Karthikeyan</author><author>Anamika Kothari</author><author>Markus Krummenacker</author><author>Mario Latendresse</author><author>Lukas A. Mueller</author><author>Suzanne M. Paley</author><author>Liviu Popescu</author><author>Anuradha Pujar</author><author>Alexander Glennon Shearer</author><author>Peifen Zhang</author><author>Peter D. Karp</author></authors><title>The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases.</title><venue>Nucleic Acids Research</venue><volume>38</volume><number>Database-Issue</number><pages>473-479</pages><year>2010</year><type>Journal Articles</type><key>journals/nar/CaspiADDFGKKKKLMPPPSZK10</key><doi>10.1093/NAR/GKP875</doi><ee>https://doi.org/10.1093/nar/gkp875</ee><url>http://dblp.org/rec/journals/nar/CaspiADDFGKKKKLMPPPSZK10</url></info>
+<url>URL#1961562</url>
+</hit>
+<hit score="3" id="1961569">
+<info><authors><author>Guy Cochrane</author><author>Michael Y. Galperin</author></authors><title>The 2010 Nucleic Acids Research Database Issue and online Database Collection - a community of data resources.</title><venue>Nucleic Acids Research</venue><volume>38</volume><number>Database-Issue</number><pages>1-4</pages><year>2010</year><type>Journal Articles</type><key>journals/nar/CochraneG10</key><doi>10.1093/NAR/GKP1077</doi><ee>https://doi.org/10.1093/nar/gkp1077</ee><url>http://dblp.org/rec/journals/nar/CochraneG10</url></info>
+<url>URL#1961569</url>
+</hit>
+</hits>
+</result>

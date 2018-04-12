@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="23333">john* r* smith*</query>
+<status code="200">OK</status>
+<time unit="msecs">20.19</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="3" computed="3" sent="3" first="0">
+<hit score="3" id="1664840">
+<info><author>John R. Smith</author><notes><note type="affiliation">IBM Research</note></notes><url>http://dblp.org/pid/s/JohnRSmith</url></info>
+<url>URL#1664840</url>
+</hit>
+<hit score="3" id="1664841">
+<info><author>John R. Smith Jr.</author><url>http://dblp.org/pid/178/3870</url></info>
+<url>URL#1664841</url>
+</hit>
+<hit score="3" id="1665436">
+<info><author>Owen John Robert Smith</author><notes><note type="affiliation">Queen's University Belfast, UK</note></notes><url>http://dblp.org/pid/187/1520</url></info>
+<url>URL#1665436</url>
+</hit>
+</hits>
+</result>
