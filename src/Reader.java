@@ -1,7 +1,4 @@
-import javax.json.Json;
-import javax.json.JsonArray;
-import javax.json.JsonObject;
-import javax.json.JsonReader;
+import javax.json.*;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -98,7 +95,9 @@ public class Reader {
   private static void readPublicationData(JsonObject jsonData) {
     JsonArray hits = jsonData.getJsonObject("result").getJsonObject("hits").getJsonArray("hit");
     for (int i = 0; i < hits.size(); i++) {
-      outputString.append(hits.getJsonObject(i).getJsonObject("info").getString("venue")+"\n");
+      JsonObject authorArray = hits.getJsonObject(i).getJsonObject("info");
+      int authorNum = authorArray.getJsonObject("authors").getJsonObject("author").size()/*getJsonArray("author").getString(0)*/;
+      outputString.append(hits.getJsonObject(i).getJsonObject("info").getString("title")+" (number of authors: "+ authorNum +" )\n");
     }
     /*if (line.contains("<title>") && line.contains("</title>")) {
       outputString.append(line.substring(line.indexOf("<title>")+7, line.indexOf("</title>")));
