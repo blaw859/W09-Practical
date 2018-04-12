@@ -15,14 +15,14 @@ public class W09Practical {
         validateArgs();
         initializeCache();
         try {
-            System.out.println(Reader.readXML(formatQueryURL(),argumentMap.get("--search")));
+            System.out.println(Reader.read(formatQueryURL(),argumentMap.get("--search")));
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
     private static String formatQueryURL() {
-        String outputString = "http://dblp.org/search/" + argumentMap.get("--search") + "/api?q=" + argumentMap.get("--query").replace(" ","%20") + "/";
+        String outputString = "http://dblp.org/search/" + argumentMap.get("--search") + "/api?q=" + argumentMap.get("--query").replace(" ","%20") + "&format=json";
       System.out.println(outputString);
         return outputString;
     }
@@ -31,11 +31,12 @@ public class W09Practical {
       File newCacheFile;
       try {
         BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream(), Charset.forName("UTF-8")));
-        if (queryURL.substring(queryURL.length()-4,queryURL.length()).equals(".xml")) {
+        if (queryURL.substring(queryURL.length()-4,queryURL.length()).equals(".xml") || queryURL.contains("&format=json")) {
           newCacheFile = new File(cache, URLEncoder.encode(queryURL, "UTF-8"));
+          System.out.println("here");
         } else {
           newCacheFile = new File(cache, URLEncoder.encode(queryURL, "UTF-8")+".xml");
-
+          System.out.println("In the place you dont want to be");
         }
         newCacheFile.createNewFile();
         BufferedWriter writer = new BufferedWriter(new FileWriter(newCacheFile));

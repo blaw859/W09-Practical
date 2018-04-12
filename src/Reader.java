@@ -1,3 +1,7 @@
+import javax.json.Json;
+import javax.json.JsonArray;
+import javax.json.JsonObject;
+import javax.json.JsonReader;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -12,10 +16,10 @@ public class Reader {
   private static StringBuilder outputString;
   private static int authorCount;
 
-  public static String readXML(String queryURL,String searchType) throws Exception{
+  public static String read(String queryURL, String searchType) throws Exception{
   outputString = new StringBuilder();
     StringBuilder result = new StringBuilder();
-    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8")+".xml");
+    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8"));
     BufferedReader rd;
     if (!fileInCache.exists()) {
       URL url = new URL(queryURL);
@@ -23,9 +27,21 @@ public class Reader {
       conn.setRequestMethod("GET");
       W09Practical.addFileToCache(conn,queryURL);
     }
-    rd = new BufferedReader(new FileReader(fileInCache));
-    String line;
-    while ((line = rd.readLine()) != null) {
+    JsonReader reader = Json.createReader(new BufferedReader(new FileReader(fileInCache)));
+    JsonObject jo = reader.readObject();
+    System.out.println(jo.getJsonObject("result").getString("query"));
+    switch (searchType) {
+      case "venue" :
+        readVenueData(jo);
+        break;
+      case "publ" :
+        readPublicationData(jo);
+        break;
+      case "author" :
+        //readAuthorData(line);
+        break;
+    }
+    /*while ((line = rd.readLine()) != null) {
       result.append(line+"\n");
       switch (searchType) {
         case "venue" :
@@ -39,7 +55,7 @@ public class Reader {
           break;
       }
     }
-    rd.close();
+    rd.close();*/
     return outputString.toString();
   }
 
@@ -69,17 +85,25 @@ public class Reader {
     return outputData;
   }
 
-  private static void readVenueData(String line) {
-    if (line.contains("<venue>") && line.contains("</venue>")) {
-      outputString.append(line.substring(line.indexOf("<venue>")+7, line.indexOf("</venue>")) + "\n");
+  private static void readVenueData(JsonObject jsonData) {
+    JsonArray hits = jsonData.getJsonObject("result").getJsonObject("hits").getJsonArray("hit");
+    for (int i = 0; i < hits.size(); i++) {
+      outputString.append(hits.getJsonObject(i).getJsonObject("info").getString("venue")+"\n");
     }
+    /*if (line.contains("<venue>") && line.contains("</venue>")) {
+      outputString.append(line.substring(line.indexOf("<venue>")+7, line.indexOf("</venue>")) + "\n");
+    }*/
   }
 
-  private static void readPublicationData(String line) {
-    if (line.contains("<title>") && line.contains("</title>")) {
+  private static void readPublicationData(JsonObject jsonData) {
+    JsonArray hits = jsonData.getJsonObject("result").getJsonObject("hits").getJsonArray("hit");
+    for (int i = 0; i < hits.size(); i++) {
+      outputString.append(hits.getJsonObject(i).getJsonObject("info").getString("venue")+"\n");
+    }
+    /*if (line.contains("<title>") && line.contains("</title>")) {
       outputString.append(line.substring(line.indexOf("<title>")+7, line.indexOf("</title>")));
       outputString.append(" (number of authors: " + countNumberOfAuthors(line) + ")\n");
-    }
+    }*/
   }
 
   public static int countNumberOfAuthors(String line) {
