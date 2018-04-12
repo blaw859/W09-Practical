@@ -1,7 +1,10 @@
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.net.URLEncoder;
 import java.nio.charset.Charset;
 
 public class XMLReader {
@@ -12,10 +15,15 @@ public class XMLReader {
   public static String readXML(String queryURL,String searchType) throws Exception{
   outputString = new StringBuilder();
     StringBuilder result = new StringBuilder();
-    URL url = new URL(queryURL);
-    HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-    conn.setRequestMethod("GET");
-    BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream(), Charset.forName("UTF-8")));
+    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8")+".xml");
+    BufferedReader rd;
+    if (!fileInCache.exists()) {
+      URL url = new URL(queryURL);
+      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+      conn.setRequestMethod("GET");
+      W09Practical.addFileToCache(conn,queryURL);
+    }
+    rd = new BufferedReader(new FileReader(fileInCache));
     String line;
     while ((line = rd.readLine()) != null) {
       result.append(line+"\n");
@@ -23,7 +31,7 @@ public class XMLReader {
         case "venue" :
           readVenueData(line);
           break;
-        case "publication" :
+        case "publ" :
           readPublicationData(line);
           break;
         case "author" :
@@ -38,17 +46,22 @@ public class XMLReader {
   public static int[] readAuthorXML(String queryURL) throws Exception{
     int[] outputData = new int[2];
     StringBuilder result = new StringBuilder();
-    URL url = new URL(queryURL);
-    HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-    conn.setRequestMethod("GET");
-    BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream(), Charset.forName("UTF-8")));
+    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8"));
+    BufferedReader rd;
+    if (!fileInCache.exists()) {
+      URL url = new URL(queryURL);
+      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+      conn.setRequestMethod("GET");
+      W09Practical.addFileToCache(conn,queryURL);
+    }
+    rd = new BufferedReader(new FileReader(fileInCache));
     String line;
     while ((line = rd.readLine()) != null) {
       result.append(line+"\n");
       if (line.contains("<title>") && line.contains("</title>")) {
         outputData[0]++;
       }
-      if (line.contains("<co") && line.contains("</co>")) {
+      if (line.contains("<co>") && line.contains("</co>")) {
         outputData[1]++;
       }
     }
@@ -63,14 +76,25 @@ public class XMLReader {
   }
 
   private static void readPublicationData(String line) {
-    if (line.contains("<author>") && line.contains("</author>")) {
-      authorCount++;
-    }
     if (line.contains("<title>") && line.contains("</title>")) {
-      outputString.insert(0, line.substring(line.indexOf("<title>")+7, line.indexOf("</title>")));
-      outputString.append(" (number of authors: " + authorCount + ")\n");
-      authorCount = 0;
+      outputString.append(line.substring(line.indexOf("<title>")+7, line.indexOf("</title>")));
+      outputString.append(" (number of authors: " + countNumberOfAuthors(line) + ")\n");
     }
+  }
+
+  public static int countNumberOfAuthors(String line) {
+    int lastIndex = 0;
+    int count = 0;
+
+    while (lastIndex != -1) {
+      lastIndex = line.indexOf("<author>",lastIndex);
+
+      if (lastIndex != -1) {
+        count++;
+        lastIndex += "<author>".length();
+      }
+    }
+    return count;
   }
 
   private static void readAuthorData(String line) {
