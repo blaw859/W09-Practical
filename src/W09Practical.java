@@ -14,7 +14,6 @@ public class W09Practical {
    * @param args Should be of the form --cache x --search y --query z in any order
    */
   public static void main(String[] args) {
-
     argumentsMalformed = false;
     argumentToMap(args);
     validateArgs();

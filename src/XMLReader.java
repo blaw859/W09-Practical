@@ -10,11 +10,8 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.net.UnknownHostException;
 
-
 public class XMLReader {
-  private static String searchType;
   private static StringBuilder outputString;
-  private static int authorCount;
   private static String queryURL;
 
   /**
@@ -58,8 +55,8 @@ public class XMLReader {
   private static void parseVenueXML(Document doc) {
     NodeList infoNodes = doc.getElementsByTagName("info");
       for (int i = 0; i < infoNodes.getLength(); i++) {
-        Element eElement = (Element) infoNodes.item(i);
-        outputString.append(eElement.getElementsByTagName("venue").item(0).getTextContent()+"\n");
+        Element element = (Element) infoNodes.item(i);
+        outputString.append(element.getElementsByTagName("venue").item(0).getTextContent()+"\n");
       }
 
   }
@@ -86,14 +83,14 @@ public class XMLReader {
   private static void parseAuthorXML(Document doc) {
     NodeList infoNodes = doc.getElementsByTagName("info");
     for (int i = 0; i < infoNodes.getLength(); i++) {
-      Element eElement = (Element) infoNodes.item(i);
+      Element element = (Element) infoNodes.item(i);
       int[] authorData = new int[2];
       try {
-        authorData = getAuthorData(eElement.getElementsByTagName("url").item(0).getTextContent()+".xml");
+        authorData = getAuthorData(element.getElementsByTagName("url").item(0).getTextContent()+".xml");
       } catch (Exception e) {
         System.out.println("Unable to get author data");
       }
-      outputString.append(eElement.getElementsByTagName("author").item(0).getTextContent()+ " - " + authorData[0] + " publications with " + authorData[1] + " co-authors.\n");
+      outputString.append(element.getElementsByTagName("author").item(0).getTextContent()+ " - " + authorData[0] + " publications with " + authorData[1] + " co-authors.\n");
      }
   }
 
