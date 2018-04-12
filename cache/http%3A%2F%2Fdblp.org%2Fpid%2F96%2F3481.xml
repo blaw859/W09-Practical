@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<dblpperson name="John Smith" n="21">
+<person key="homepages/96/3481" mdate="2009-06-10">
+<author>John Smith</author>
+</person>
+<r><article key="journals/neuroimage/EssenSGEDDRCH17" mdate="2017-05-27">
+<author>David C. Van Essen</author>
+<author>John Smith</author>
+<author>Matthew F. Glasser</author>
+<author>Jennifer Stine Elam</author>
+<author>Chad J. Donahue</author>
+<author>Donna L. Dierker</author>
+<author>Erin Reid</author>
+<author>Timothy S. Coalson</author>
+<author>John W. Harwell</author>
+<title>The Brain Analysis Library of Spatial maps and Atlases (BALSA) database.</title>
+<pages>270-274</pages>
+<year>2017</year>
+<volume>144</volume>
+<journal>NeuroImage</journal>
+<ee>https://doi.org/10.1016/j.neuroimage.2016.04.002</ee>
+<url>db/journals/neuroimage/neuroimage144.html#EssenSGEDDRCH17</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/BallesterHBSQ17" mdate="2017-12-14">
+<author orcid="0000-0002-6885-0883">Carlos Ballester</author>
+<author>John Hornbuckle</author>
+<author orcid="0000-0002-0721-2458">James Brinkhoff</author>
+<author>John Smith</author>
+<author>Wendy Quayle</author>
+<title>Assessment of In-Season Cotton Nitrogen Status and Lint Yield Prediction from Unmanned Aerial System Imagery.</title>
+<pages>1149</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>Remote Sensing</journal>
+<number>11</number>
+<ee>https://doi.org/10.3390/rs9111149</ee>
+<url>db/journals/remotesensing/remotesensing9.html#BallesterHBSQ17</url>
+</article>
+</r>
+<r><article key="journals/pma/WadeHSW16" mdate="2017-07-26">
+<author>Laura Wade</author>
+<author>Noel N. N. Hanna</author>
+<author>John Smith</author>
+<author>Joe Wolfe</author>
+<title>Soprano singing, with and without resonances.</title>
+<year>2016</year>
+<volume>28</volume>
+<journal>Proc. Meetings on Acoustics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1121/2.0000354</ee>
+<url>db/journals/pma/pma28.html#WadeHSW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cogsci/DuffyCS16" mdate="2018-01-14">
+<author>Sean Duffy</author>
+<author>L. Elizabeth Crawford</author>
+<author>John Smith</author>
+<title>Relative influence of anchoring and centering biases in reconstructive memory.</title>
+<year>2016</year>
+<booktitle>CogSci</booktitle>
+<ee>https://mindmodeling.org/cogsci2016/papers/0657/index.html</ee>
+<crossref>conf/cogsci/2016</crossref>
+<url>db/conf/cogsci/cogsci2016.html#DuffyCS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/FanBS16" mdate="2017-05-26">
+<author>Quanfu Fan</author>
+<author>Lisa M. Brown</author>
+<author>John Smith</author>
+<title>A closer look at Faster R-CNN for vehicle detection.</title>
+<pages>124-129</pages>
+<year>2016</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2016.7535375</ee>
+<crossref>conf/ivs/2016</crossref>
+<url>db/conf/ivs/ivs2016.html#FanBS16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icimcs/2015" mdate="2015-09-16">
+<editor>Ramesh Jain</editor>
+<editor>Shuqiang Jiang</editor>
+<editor>John Smith</editor>
+<editor>Jitao Sang</editor>
+<editor>Guohui Li</editor>
+<title>Proceedings of the 7th International Conference on Internet Multimedia Computing and Service, ICIMCS 2015, Zhangjiajie, Hunan, China, August 19-21, 2015</title>
+<publisher>ACM</publisher>
+<year>2015</year>
+<isbn>978-1-4503-3528-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2808492</ee>
+<url>db/conf/icimcs/icimcs2015.html</url>
+<booktitle>ICIMCS</booktitle>
+</proceedings>
+</r>
+<r><inproceedings key="conf/chiplay/SmithJ14" mdate="2015-06-22">
+<author>John Smith</author>
+<author>Kazuhiro Jo</author>
+<title>&#34;Toru&#34;: a game that reverses the wisdom of age using mosquito sound.</title>
+<pages>375-378</pages>
+<year>2014</year>
+<booktitle>CHI PLAY</booktitle>
+<ee>http://doi.acm.org/10.1145/2658537.2662973</ee>
+<crossref>conf/chiplay/2014</crossref>
+<url>db/conf/chiplay/chiplay2014.html#SmithJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/CharltonSCBA14" mdate="2017-11-24">
+<author>Peter Charlton</author>
+<author>John Smith</author>
+<author>Luigi Camporota</author>
+<author>Richard Beale</author>
+<author>Jordi Alastruey</author>
+<title>Optimising the Windkessel model for cardiac output monitoring during changes in vascular tone.</title>
+<pages>3759-3762</pages>
+<year>2014</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2014.6944441</ee>
+<crossref>conf/embc/2014</crossref>
+<url>db/conf/embc/embc2014.html#CharltonSCBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccve/Sauras-PerezTS14" mdate="2017-05-24">
+<author>Pablo Sauras-Perez</author>
+<author>Joachim Taiber</author>
+<author>John Smith</author>
+<title>Variability analysis of in-car gesture interaction.</title>
+<pages>777-780</pages>
+<year>2014</year>
+<booktitle>ICCVE</booktitle>
+<ee>https://doi.org/10.1109/ICCVE.2014.7297657</ee>
+<crossref>conf/iccve/2014</crossref>
+<url>db/conf/iccve/iccve2014.html#Sauras-PerezTS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bqgt/Smith10" mdate="2016-02-12">
+<author>John Smith</author>
+<title>Not so cheap talk: a model of advice with communication costs.</title>
+<pages>16:1</pages>
+<year>2010</year>
+<booktitle>BQGT</booktitle>
+<ee>http://doi.acm.org/10.1145/1807406.1807422</ee>
+<crossref>conf/bqgt/2010</crossref>
+<url>db/conf/bqgt/bqgt2010.html#Smith10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/GarnierWHS08" mdate="2011-03-02">
+<author>Maeva Garnier</author>
+<author>Joe Wolfe</author>
+<author>Nathalie Henrich</author>
+<author>John Smith</author>
+<title>Interrelationship between vocal effort and vocal tract acoustics: a pilot study.</title>
+<pages>2302-2305</pages>
+<year>2008</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/interspeech_2008/i08_2302.html</ee>
+<crossref>conf/interspeech/2008</crossref>
+<url>db/conf/interspeech/interspeech2008.html#GarnierWHS08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/elpub/2001" mdate="2008-04-30">
+<editor>Arved C. H&#252;bler</editor>
+<editor>Peter Linde</editor>
+<editor>John Smith</editor>
+<title>Electronic Publishing '01, 2001 in the Digital Publishing Odyssey: 5th ICCC/IFIP conference held at the University of Kent - ELPUB 2001, Canterbury, UK, July 5-7, 2001. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>2001</year>
+<isbn>1-58603-191-0</isbn>
+<publisher>IOS Press</publisher>
+<url>db/conf/elpub/elpub2001.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/2000" mdate="2008-04-30">
+<editor>Peter Linde</editor>
+<editor>John Smith</editor>
+<editor>Elena Emilianova</editor>
+<title>Electronic Publishing 2000, Electronic Publishing in the Third Millenium: 4th ICCC/IFIP conference held at Kaliningrad/Svetlogorsk - ELPUB 2000, Kaliningrad, Russia, August 17-19, 2000. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>2000</year>
+<isbn>1-891365-07-X</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub2000.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/1999" mdate="2008-04-30">
+<editor>John Smith</editor>
+<editor>Anders Ard&#246;</editor>
+<editor>Peter Linde</editor>
+<title>Electronic Publishing '99, Redefining the Information Chain - New Ways and Voices: 3rd ICCC/IFIP conference held at the University of Karlskrona/Ronneby - ELPUB 1999, Karlskrona, Sweden, May 10-12, 1999. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>1999</year>
+<isbn>1-891365-04-5</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub1999.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/1998" mdate="2008-04-30">
+<editor>Fytton Rowland</editor>
+<editor>John Smith</editor>
+<title>2nd ICCC/IFIP Conference &#34;Towards the Information Rich Society&#34; held at the Central European University, Budapest - ELPUB 1998, Budapest, Hungary, April 20-22, 1998. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>1998</year>
+<isbn>1-891365-02-9</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub1998.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cira/SugiharaS97" mdate="2017-05-23">
+<author>Kazuo Sugihara</author>
+<author>John Smith</author>
+<title>Genetic algorithms for adaptive motion planning of an autonomous mobile robot.</title>
+<pages>138-143</pages>
+<year>1997</year>
+<booktitle>CIRA</booktitle>
+<ee>https://doi.org/10.1109/CIRA.1997.613850</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIRA.1997.613850</ee>
+<crossref>conf/cira/1997</crossref>
+<url>db/conf/cira/cira1997.html#SugiharaS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/EppsDSW97" mdate="2011-03-27">
+<author>Julien Epps</author>
+<author>Annette Dowd</author>
+<author>John Smith</author>
+<author>Joe Wolfe</author>
+<title>Real time measurements of the vocal tract resonances during speech.</title>
+<year>1997</year>
+<booktitle>EUROSPEECH</booktitle>
+<ee>http://www.isca-speech.org/archive/eurospeech_1997/e97_0721.html</ee>
+<crossref>conf/interspeech/1997</crossref>
+<url>db/conf/interspeech/eurospeech1997.html#EppsDSW97</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/elpub/1997" mdate="2008-04-29">
+<editor>John Smith</editor>
+<title>1st ICCC/IFIP conference held at the University of Kent - ELPUB1997, Canterbury, UK, April 14-16, 1997. Proceedings</title>
+<booktitle>ELPUB 1997</booktitle>
+<year>1997</year>
+<url>db/conf/elpub/elpub1997.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/dl/DewanJSSO95" mdate="2012-09-18">
+<author>Prasun Dewan</author>
+<author>Kevin Jeffay</author>
+<author>John Smith</author>
+<author>P. David Stotts</author>
+<author>William Oliver</author>
+<title>Early Prototypes of the Repository for Patterned Injury Data.</title>
+<year>1995</year>
+<crossref>conf/dl/95</crossref>
+<booktitle>DL</booktitle>
+<url>db/conf/dl/dl95.html#DewanJSSO95</url>
+<ee>http://www.csdl.tamu.edu/DL95/papers/dewan/dewan.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/BairdEKSS89" mdate="2012-09-17">
+<ee>http://doi.acm.org/10.1145/74224.74260</ee>
+<author>Patricia Baird</author>
+<author>Dennis E. Egan</author>
+<author>Walter Kintsch</author>
+<author>John Smith</author>
+<author>Norbert A. Streitz</author>
+<title>Cognitive Aspects of Designing Hypertext Systems.</title>
+<pages>397</pages>
+<cdrom>HT1989/P397.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/ht/89</crossref>
+<booktitle>Hypertext</booktitle>
+<url>db/conf/ht/ht89.html#BairdEKSS89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/ThompsonKRRSB80" mdate="2012-03-01">
+<author>Edward W. Thompson</author>
+<author>Patrick G. Karger</author>
+<author>W. R. Read Jr.</author>
+<author>Don Ross</author>
+<author>John Smith</author>
+<author>Richard von Blucher</author>
+<title>The incorporation of functional level element routines into an existing digital simulation system.</title>
+<pages>394-401</pages>
+<year>1980</year>
+<booktitle>DAC</booktitle>
+<ee>http://doi.acm.org/10.1145/800139.804561</ee>
+<crossref>conf/dac/1980</crossref>
+<url>db/conf/dac/dac1980.html#ThompsonKRRSB80</url>
+</inproceedings>
+</r>
+<coauthors n="53" nc="12">
+<co c="6"><na f="a/Alastruey:Jordi">Jordi Alastruey</na></co>
+<co c="5"><na f="a/Ard=ouml=:Anders">Anders Ard&#246;</na></co>
+<co c="8"><na f="b/Baird:Patricia">Patricia Baird</na></co>
+<co c="7"><na f="b/Ballester:Carlos">Carlos Ballester</na></co>
+<co c="6"><na f="b/Beale:Richard">Richard Beale</na></co>
+<co c="2"><na f="b/Blucher:Richard_von">Richard von Blucher</na></co>
+<co c="7"><na f="b/Brinkhoff:James">James Brinkhoff</na></co>
+<co c="9"><na f="b/Brown:Lisa_M=">Lisa M. Brown</na></co>
+<co c="6"><na f="c/Camporota:Luigi">Luigi Camporota</na></co>
+<co c="6"><na f="c/Charlton:Peter">Peter Charlton</na></co>
+<co c="0"><na f="c/Coalson:Timothy_S=">Timothy S. Coalson</na></co>
+<co c="11"><na f="c/Crawford:L=_Elizabeth">L. Elizabeth Crawford</na></co>
+<co c="3"><na f="d/Dewan:Prasun">Prasun Dewan</na></co>
+<co c="0"><na f="d/Dierker:Donna_L=">Donna L. Dierker</na></co>
+<co c="0"><na f="d/Donahue:Chad_J=">Chad J. Donahue</na></co>
+<co c="1"><na f="d/Dowd:Annette">Annette Dowd</na></co>
+<co c="11"><na f="d/Duffy:Sean">Sean Duffy</na></co>
+<co c="8"><na f="e/Egan:Dennis_E=">Dennis E. Egan</na></co>
+<co c="0"><na f="e/Elam:Jennifer_Stine">Jennifer Stine Elam</na></co>
+<co c="5"><na f="e/Emilianova:Elena">Elena Emilianova</na></co>
+<co c="1"><na f="e/Epps:Julien">Julien Epps</na></co>
+<co c="0"><na f="e/Essen:David_C=_Van">David C. Van Essen</na></co>
+<co c="9"><na f="f/Fan:Quanfu">Quanfu Fan</na></co>
+<co c="1"><na f="g/Garnier:Maeva">Maeva Garnier</na></co>
+<co c="0"><na f="g/Glasser:Matthew_F=">Matthew F. Glasser</na></co>
+<co c="1"><na f="h/Hanna:Noel_N=_N=">Noel N. N. Hanna</na></co>
+<co c="0"><na f="h/Harwell:John_W=">John W. Harwell</na></co>
+<co c="1"><na f="h/Henrich:Nathalie">Nathalie Henrich</na></co>
+<co c="7"><na f="h/Hornbuckle:John">John Hornbuckle</na></co>
+<co c="5"><na f="h/H=uuml=bler:Arved_C=">Arved C. H&#252;bler</na></co>
+<co c="4"><na f="j/Jain:Ramesh">Ramesh Jain</na></co>
+<co c="3"><na f="j/Jeffay:Kevin">Kevin Jeffay</na></co>
+<co c="4"><na f="j/Jiang:Shuqiang">Shuqiang Jiang</na></co>
+<co c="-1"><na f="j/Jo:Kazuhiro">Kazuhiro Jo</na></co>
+<co c="2"><na f="k/Karger:Patrick_G=">Patrick G. Karger</na></co>
+<co c="8"><na f="k/Kintsch:Walter">Walter Kintsch</na></co>
+<co c="4"><na f="l/Li:Guohui">Guohui Li</na></co>
+<co c="5"><na f="l/Linde:Peter">Peter Linde</na></co>
+<co c="3"><na f="o/Oliver:William">William Oliver</na></co>
+<co c="7"><na f="q/Quayle:Wendy">Wendy Quayle</na></co>
+<co c="2"><na f="r/Read_Jr=:W=_R=">W. R. Read Jr.</na></co>
+<co c="0"><na f="r/Reid:Erin">Erin Reid</na></co>
+<co c="2"><na f="r/Ross:Don">Don Ross</na></co>
+<co c="-1"><na f="r/Rowland:Fytton">Fytton Rowland</na></co>
+<co c="4"><na f="s/Sang:Jitao">Jitao Sang</na></co>
+<co c="10"><na f="s/Sauras=Perez:Pablo">Pablo Sauras-Perez</na></co>
+<co c="3"><na f="s/Stotts:P=_David">P. David Stotts</na></co>
+<co c="8"><na f="s/Streitz:Norbert_A=">Norbert A. Streitz</na></co>
+<co c="-1"><na f="s/Sugihara:Kazuo">Kazuo Sugihara</na></co>
+<co c="10"><na f="t/Taiber:Joachim">Joachim Taiber</na></co>
+<co c="2"><na f="t/Thompson:Edward_W=">Edward W. Thompson</na></co>
+<co c="1"><na f="w/Wade:Laura">Laura Wade</na></co>
+<co c="1"><na f="w/Wolfe:Joe">Joe Wolfe</na></co>
+</coauthors>
+</dblpperson>
+

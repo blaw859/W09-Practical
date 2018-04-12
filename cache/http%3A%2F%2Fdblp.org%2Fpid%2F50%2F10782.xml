@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<dblpperson name="John Smith Jones" n="1">
+<person key="homepages/50/10782" mdate="2012-01-21">
+<author>John Smith Jones</author>
+</person>
+<r><inproceedings key="journals/jmlr/GrunwaldJWS11" mdate="2013-11-25">
+<author>Peter Gr&#252;nwald</author>
+<author>John Smith Jones</author>
+<author>Jane de Winter</author>
+<author>&#201;louise Smith</author>
+<title>Safe Learning: bridging the gap between Bayes, MDL and statistical learning theory via empirical convexity.</title>
+<pages>397-420</pages>
+<booktitle>COLT</booktitle>
+<year>2011</year>
+<crossref>conf/colt/2011</crossref>
+<ee>http://www.jmlr.org/proceedings/papers/v19/grunwald11a/grunwald11a.pdf</ee>
+<url>db/journals/jmlr/jmlrp19.html#GrunwaldJWS11</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="g/Gr=uuml=nwald:Peter">Peter Gr&#252;nwald</na></co>
+<co c="0"><na f="s/Smith:=Eacute=louise">&#201;louise Smith</na></co>
+<co c="0"><na f="w/Winter:Jane_de">Jane de Winter</na></co>
+</coauthors>
+</dblpperson>
+

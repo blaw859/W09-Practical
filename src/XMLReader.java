@@ -1,3 +1,10 @@
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.DocumentBuilder;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -11,107 +18,106 @@ public class XMLReader {
   private static String searchType;
   private static StringBuilder outputString;
   private static int authorCount;
+  private static String queryURL;
 
+  /**
+   * Reads the XML data for the specific query, the cache is always checked first and then if no file is found a new
+   * cache file is created and that is what is used. A switch statement is used depending on the searchType to see
+   * what
+   * @param queryURL
+   * @param searchType
+   * @return
+   * @throws Exception
+   */
   public static String readXML(String queryURL,String searchType) throws Exception{
-  outputString = new StringBuilder();
-    StringBuilder result = new StringBuilder();
-    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8")+".xml");
-    BufferedReader rd;
-    if (!fileInCache.exists()) {
-      URL url = new URL(queryURL);
-      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-      conn.setRequestMethod("GET");
-      W09Practical.addFileToCache(conn,queryURL);
-    }
-    rd = new BufferedReader(new FileReader(fileInCache));
-    String line;
-    while ((line = rd.readLine()) != null) {
-      result.append(line+"\n");
-      switch (searchType) {
-        case "venue" :
-          readVenueData(line);
-          break;
-        case "publ" :
-          readPublicationData(line);
-          break;
-        case "author" :
-          readAuthorData(line);
-          break;
-      }
-    }
-    rd.close();
-    return outputString.toString();
-  }
-
-  public static int[] readAuthorXML(String queryURL) throws Exception{
-    int[] outputData = new int[2];
+    XMLReader.queryURL = queryURL;
+    outputString = new StringBuilder();
     StringBuilder result = new StringBuilder();
     File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(queryURL,"UTF-8"));
     BufferedReader rd;
     if (!fileInCache.exists()) {
-      URL url = new URL(queryURL);
-      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-      conn.setRequestMethod("GET");
-      W09Practical.addFileToCache(conn,queryURL);
+      query(queryURL);
     }
-    rd = new BufferedReader(new FileReader(fileInCache));
-    String line;
-    while ((line = rd.readLine()) != null) {
-      result.append(line+"\n");
-      if (line.contains("<title>") && line.contains("</title>")) {
-        outputData[0]++;
+    DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+    DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+    Document doc = dBuilder.parse(fileInCache);
+    doc.getDocumentElement().normalize();
+    switch (searchType) {
+      case "venue" :
+        parseVenueXML(doc);
+        break;
+      case "publ" :
+        parsePublicationXML(doc);
+        break;
+      case "author" :
+        parseAuthorXML(doc);
+        break;
+    }
+    return outputString.toString();
+  }
+
+  private static void parseVenueXML(Document doc) {
+    NodeList infoNodes = doc.getElementsByTagName("info");
+      for (int i = 0; i < infoNodes.getLength(); i++) {
+        Element eElement = (Element) infoNodes.item(i);
+        outputString.append(eElement.getElementsByTagName("venue").item(0).getTextContent()+"\n");
       }
-      if (line.contains("<co>") && line.contains("</co>")) {
-        outputData[1]++;
-      }
-    }
-    rd.close();
-    return outputData;
+
   }
 
-  private static void readVenueData(String line) {
-    if (line.contains("<venue>") && line.contains("</venue>")) {
-      outputString.append(line.substring(line.indexOf("<venue>")+7, line.indexOf("</venue>")) + "\n");
-    }
-  }
+  private static void parsePublicationXML(Document doc) {
+    NodeList infoNodes = doc.getElementsByTagName("info");
 
-  private static void readPublicationData(String line) {
-    if (line.contains("<title>") && line.contains("</title>")) {
-      outputString.append(line.substring(line.indexOf("<title>")+7, line.indexOf("</title>")));
-      outputString.append(" (number of authors: " + countNumberOfAuthors(line) + ")\n");
+      for (int i = 0; i < infoNodes.getLength(); i++) {
+        Element eElement = (Element) infoNodes.item(i);
+        int authorCount = eElement.getElementsByTagName("author").getLength();
+        outputString.append(eElement.getElementsByTagName("title").item(0).getTextContent() + " (number of authors: " + authorCount + ")\n");
     }
   }
 
-  public static int countNumberOfAuthors(String line) {
-    int lastIndex = 0;
-    int count = 0;
-
-    while (lastIndex != -1) {
-      lastIndex = line.indexOf("<author>",lastIndex);
-
-      if (lastIndex != -1) {
-        count++;
-        lastIndex += "<author>".length();
-      }
-    }
-    return count;
-  }
-
-  private static void readAuthorData(String line) {
-
-    if (line.contains("<author>") && line.contains("</author>")) {
-      outputString.append(line.substring(line.indexOf("<author>")+8, line.indexOf("</author>")));
-    }
-    if (line.contains("<url>") && line.contains("</url>") && line.contains("http://dblp.org/pid/")) {
-       int[] pubAndCoAuth = new int[2];
-
+  private static void parseAuthorXML(Document doc) {
+    NodeList infoNodes = doc.getElementsByTagName("info");
+    for (int i = 0; i < infoNodes.getLength(); i++) {
+      Element eElement = (Element) infoNodes.item(i);
+      int[] authorData = new int[2];
       try {
-        pubAndCoAuth = readAuthorXML(line.substring(line.indexOf("<url>")+5, line.indexOf("</url>")) + ".xml");
+        authorData = getAuthorData(eElement.getElementsByTagName("url").item(0).getTextContent()+".xml");
       } catch (Exception e) {
-        e.printStackTrace();
+        System.out.println("");
       }
-      outputString.append(" - " + pubAndCoAuth[0] + " publications with " + pubAndCoAuth[1] + " co-authors.\n");
-    }
+      outputString.append(eElement.getElementsByTagName("author").item(0).getTextContent()+ " - " + authorData[0] + " publications with " + authorData[1] + " co-authors.\n");
+     }
   }
 
+  private static int[] getAuthorData(String authorURL) throws Exception{
+    int[] outputArray = new int[2];
+    File fileInCache = new File(W09Practical.getCache(), URLEncoder.encode(authorURL,"UTF-8"));
+    if (!fileInCache.exists()) {
+      query(authorURL);
+    }
+    DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+    DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+    Document doc = dBuilder.parse(fileInCache);
+    doc.getDocumentElement().normalize();
+    NodeList publicationsList = doc.getElementsByTagName("dblpperson");
+    NodeList coAuthorList = doc.getElementsByTagName("coauthors");
+    Node publications = publicationsList.item(0);
+    if (coAuthorList.getLength() >= 1) {
+      Node coAuthors = coAuthorList.item(0);
+      Element coAuthorsElement = (Element) coAuthors;
+      outputArray[1] = Integer.parseInt(coAuthorsElement.getAttribute("n"));
+    } else {
+      outputArray[1] = 0;
+    }
+    Element publicationsElement = (Element) publications;
+    outputArray[0] = Integer.parseInt(publicationsElement.getAttribute("n"));
+    return outputArray;
+  }
+
+  private static void query(String queryURL) throws Exception{
+    URL url = new URL(queryURL);
+    HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+    conn.setRequestMethod("GET");
+    W09Practical.addFileToCache(conn,queryURL);
+  }
 }

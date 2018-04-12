@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dblpperson name="John Maynard Smith" n="1">
+<person key="homepages/153/4265" mdate="2014-11-05">
+<author>John Maynard Smith</author>
+</person>
+<r><book key="books/daglib/0033878" mdate="2014-11-05">
+<author>John Maynard Smith</author>
+<author>E&#246;rs Szathm&#225;ry</author>
+<title>The Major Transitions in Evolution.</title>
+<publisher>Oxford University Press</publisher>
+<year>1997</year>
+<isbn>978-0-19-850294-4</isbn>
+<ee>http://ukcatalogue.oup.com/product/9780198502944.do</ee>
+</book>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="s/Szathm=aacute=ry:E=ouml=rs">E&#246;rs Szathm&#225;ry</na></co>
+</coauthors>
+</dblpperson>
+

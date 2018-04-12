@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<dblpperson name="Jack Cole" n="6">
+<person key="homepages/14/891" mdate="2009-06-09">
+<author>Jack Cole</author>
+</person>
+<r><inproceedings key="conf/imf/Cole08" mdate="2011-05-31">
+<author>Jack Cole</author>
+<title>Incident Management and Forensics Put in Context (Invited).</title>
+<pages>15-16</pages>
+<year>2008</year>
+<booktitle>IMF</booktitle>
+<crossref>conf/imf/2008</crossref>
+<url>db/conf/imf/imf2008.html#Cole08</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings140/article2291.html</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/Cole05a" mdate="2017-05-17">
+<author>Jack Cole</author>
+<title>Security in Storage: A Call for Participation.</title>
+<pages>103-105</pages>
+<year>2005</year>
+<volume>38</volume>
+<journal>IEEE Computer</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MC.2005.311</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2005.311</ee>
+<url>db/journals/computer/computer38.html#Cole05a</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/TheilhaberUMCXNHBB04" mdate="2017-05-26">
+<author>Joachim Theilhaber</author>
+<author>Anatoly Ulyanov</author>
+<author>Anish Malanthara</author>
+<author>Jack Cole</author>
+<author>Dapeng Xu</author>
+<author>Robert Nahf</author>
+<author>Michael Heuer</author>
+<author>Christoph Brockel</author>
+<author>Steven Bushnell</author>
+<title>GECKO: a complete large-scale gene expression analysis platform.</title>
+<pages>195</pages>
+<year>2004</year>
+<volume>5</volume>
+<journal>BMC Bioinformatics</journal>
+<ee>https://doi.org/10.1186/1471-2105-5-195</ee>
+<url>db/journals/bmcbi/bmcbi5.html#TheilhaberUMCXNHBB04</url>
+</article>
+</r>
+<r><article key="journals/computer/Cole04" mdate="2017-05-17">
+<author>Jack Cole</author>
+<title>Raising the Bar.</title>
+<pages>112-113</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>IEEE Computer</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MC.2004.142</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2004.142</ee>
+<url>db/journals/computer/computer37.html#Cole04</url>
+</article>
+</r>
+<r><article key="journals/computer/HughesC03" mdate="2017-05-17">
+<author>Jim Hughes</author>
+<author>Jack Cole</author>
+<title>Security in Storage.</title>
+<pages>124-125</pages>
+<year>2003</year>
+<volume>36</volume>
+<journal>IEEE Computer</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MC.2003.1160064</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2003.1160064</ee>
+<url>db/journals/computer/computer36.html#HughesC03</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/BushnellBCCDKCMSMU99" mdate="2017-05-28">
+<author>Steven Bushnell</author>
+<author>J. Budde</author>
+<author>T. Catino</author>
+<author>Jack Cole</author>
+<author>A. Derti</author>
+<author>R. Kelso</author>
+<author>M. L. Collins</author>
+<author>G. Molino</author>
+<author>P. Sheridan</author>
+<author>J. Monahan</author>
+<author>M. Urdea</author>
+<title>ProbeDesigner: for the design of probesets for branched DNA (bDNA) signal amplification assays.</title>
+<pages>348-355</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>Bioinformatics</journal>
+<number>5</number>
+<url>db/journals/bioinformatics/bioinformatics15.html#BushnellBCCDKCMSMU99</url>
+<ee>https://doi.org/10.1093/bioinformatics/15.5.348</ee>
+</article>
+</r>
+<coauthors n="18" nc="1">
+<co c="0"><na f="b/Brockel:Christoph">Christoph Brockel</na></co>
+<co c="0"><na f="b/Budde:J=">J. Budde</na></co>
+<co c="0"><na f="b/Bushnell:Steven">Steven Bushnell</na></co>
+<co c="0"><na f="c/Catino:T=">T. Catino</na></co>
+<co c="0"><na f="c/Collins:M=_L=">M. L. Collins</na></co>
+<co c="0"><na f="d/Derti:A=">A. Derti</na></co>
+<co c="0"><na f="h/Heuer:Michael">Michael Heuer</na></co>
+<co c="-1"><na f="h/Hughes:Jim">Jim Hughes</na></co>
+<co c="0"><na f="k/Kelso:R=">R. Kelso</na></co>
+<co c="0"><na f="m/Malanthara:Anish">Anish Malanthara</na></co>
+<co c="0"><na f="m/Molino:G=">G. Molino</na></co>
+<co c="0"><na f="m/Monahan:J=">J. Monahan</na></co>
+<co c="0"><na f="n/Nahf:Robert">Robert Nahf</na></co>
+<co c="0"><na f="s/Sheridan:P=">P. Sheridan</na></co>
+<co c="0"><na f="t/Theilhaber:Joachim">Joachim Theilhaber</na></co>
+<co c="0"><na f="u/Ulyanov:Anatoly">Anatoly Ulyanov</na></co>
+<co c="0"><na f="u/Urdea:M=">M. Urdea</na></co>
+<co c="0"><na f="x/Xu:Dapeng">Dapeng Xu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="23337">john* smith*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.05</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="2" id="811908">
+<info><author>John Smith Jones</author><url>http://dblp.org/pid/50/10782</url></info>
+<url>URL#811908</url>
+</hit>
+<hit score="2" id="1664300">
+<info><author>Derek John Smith</author><url>http://dblp.org/pid/21/7119</url></info>
+<url>URL#1664300</url>
+</hit>
+<hit score="2" id="1664825">
+<info><author>John Smith</author><url>http://dblp.org/pid/96/3481</url></info>
+<url>URL#1664825</url>
+</hit>
+<hit score="2" id="1664826">
+<info><author>John A. Smith</author><url>http://dblp.org/pid/72/1096</url></info>
+<url>URL#1664826</url>
+</hit>
+<hit score="2" id="1664827">
+<info><author>John A. S. Smith</author><url>http://dblp.org/pid/59/6822</url></info>
+<url>URL#1664827</url>
+</hit>
+<hit score="2" id="1664828">
+<info><author>John B. Smith</author><notes><note type="affiliation">University of North Carolina at Chapel Hill, USA</note></notes><url>http://dblp.org/pid/s/JohnBSmith</url></info>
+<url>URL#1664828</url>
+</hit>
+<hit score="2" id="1664829">
+<info><author>John D. Smith</author><url>http://dblp.org/pid/35/478</url></info>
+<url>URL#1664829</url>
+</hit>
+<hit score="2" id="1664830">
+<info><author>John F. Smith</author><url>http://dblp.org/pid/193/1318</url></info>
+<url>URL#1664830</url>
+</hit>
+<hit score="2" id="1664831">
+<info><author>John G. Smith</author><url>http://dblp.org/pid/51/3237</url></info>
+<url>URL#1664831</url>
+</hit>
+<hit score="2" id="1664832">
+<info><author>John H. Smith</author><url>http://dblp.org/pid/79/4777</url></info>
+<url>URL#1664832</url>
+</hit>
+<hit score="2" id="1664833">
+<info><author>John Howard Smith</author><url>http://dblp.org/pid/73/11256</url></info>
+<url>URL#1664833</url>
+</hit>
+<hit score="2" id="1664834">
+<info><author>John Kei Smith</author><url>http://dblp.org/pid/162/7823</url></info>
+<url>URL#1664834</url>
+</hit>
+<hit score="2" id="1664835">
+<info><author>John L. Smith</author><url>http://dblp.org/pid/82/2689</url></info>
+<url>URL#1664835</url>
+</hit>
+<hit score="2" id="1664836">
+<info><author>John M. Smith</author><url>http://dblp.org/pid/91/4205</url></info>
+<url>URL#1664836</url>
+</hit>
+<hit score="2" id="1664837">
+<info><author>John Maynard Smith</author><url>http://dblp.org/pid/153/4265</url></info>
+<url>URL#1664837</url>
+</hit>
+<hit score="2" id="1664838">
+<info><author>John Miles Smith</author><url>http://dblp.org/pid/35/3801</url></info>
+<url>URL#1664838</url>
+</hit>
+<hit score="2" id="1664839">
+<info><author>John P. Smith</author><url>http://dblp.org/pid/93/2386</url></info>
+<url>URL#1664839</url>
+</hit>
+<hit score="2" id="1664840">
+<info><author>John R. Smith</author><notes><note type="affiliation">IBM Research</note></notes><url>http://dblp.org/pid/s/JohnRSmith</url></info>
+<url>URL#1664840</url>
+</hit>
+<hit score="2" id="1664841">
+<info><author>John R. Smith Jr.</author><url>http://dblp.org/pid/178/3870</url></info>
+<url>URL#1664841</url>
+</hit>
+<hit score="2" id="1664842">
+<info><author>John V. Smith</author><url>http://dblp.org/pid/22/10421</url></info>
+<url>URL#1664842</url>
+</hit>
+<hit score="2" id="1664843">
+<info><author>John W. Smith</author><url>http://dblp.org/pid/64/6778</url></info>
+<url>URL#1664843</url>
+</hit>
+<hit score="2" id="1664844">
+<info><author>John W. T. Smith</author><url>http://dblp.org/pid/30/1406</url></info>
+<url>URL#1664844</url>
+</hit>
+<hit score="2" id="1665315">
+<info><author>Michael John Sebastian Smith</author><url>http://dblp.org/pid/54/2419</url></info>
+<url>URL#1665315</url>
+</hit>
+<hit score="2" id="1665436">
+<info><author>Owen John Robert Smith</author><notes><note type="affiliation">Queen's University Belfast, UK</note></notes><url>http://dblp.org/pid/187/1520</url></info>
+<url>URL#1665436</url>
+</hit>
+</hits>
+</result>

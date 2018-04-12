@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblpperson name="Derek John Smith" n="1">
+<person key="homepages/21/7119" mdate="2009-07-02">
+<author>Derek John Smith</author>
+</person>
+<r><article key="journals/bmcbi/MadhumalarSV08" mdate="2017-06-05">
+<author orcid="0000-0001-5314-7194">Arumugam Madhumalar</author>
+<author>Derek John Smith</author>
+<author>Chandra Verma</author>
+<title>Stability of the core domain of p53: insights from computer simulations.</title>
+<year>2008</year>
+<volume>9</volume>
+<journal>BMC Bioinformatics</journal>
+<number>S-1</number>
+<ee>https://doi.org/10.1186/1471-2105-9-S1-S17</ee>
+<url>db/journals/bmcbi/bmcbi9S.html#MadhumalarSV08</url>
+</article>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="m/Madhumalar:Arumugam">Arumugam Madhumalar</na></co>
+<co c="0"><na f="v/Verma:Chandra">Chandra Verma</na></co>
+</coauthors>
+</dblpperson>
+

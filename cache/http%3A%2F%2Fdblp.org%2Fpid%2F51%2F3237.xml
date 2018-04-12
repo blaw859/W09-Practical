@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<dblpperson name="John G. Smith" n="3">
+<person key="homepages/51/3237" mdate="2009-06-09">
+<author>John G. Smith</author>
+</person>
+<r><inproceedings key="conf/chi/MullerMSWWDR93" mdate="2006-11-07">
+<author>Michael J. Muller</author>
+<author>David S. Miller</author>
+<author>John G. Smith</author>
+<author>Daniel M. Wildman</author>
+<author>Ellen A. White</author>
+<author>Tom Dayton</author>
+<author>Robert W. Root</author>
+<title>Assessing a groupware implementation of a manual participatory design process.</title>
+<pages>105-106</pages>
+<year>1993</year>
+<crossref>conf/chi/1993c</crossref>
+<booktitle>INTERCHI Adjunct Proceedings</booktitle>
+<ee>http://doi.acm.org/10.1145/259964.260132</ee>
+<url>db/conf/chi/chi1993c.html#MullerMSWWDR93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/SmithMM92" mdate="2015-07-03">
+<author>John G. Smith</author>
+<author>David S. Miller</author>
+<author>Michael J. Muller</author>
+<title>TelePICTIVE groupware for collaborative GUI design.</title>
+<pages>41</pages>
+<year>1992</year>
+<booktitle>CHI Posters and Short Talks</booktitle>
+<ee>http://doi.acm.org/10.1145/1125021.1125059</ee>
+<crossref>conf/chi/1992p</crossref>
+<url>db/conf/chi/chi1992p.html#SmithMM92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uist/MillerSM92" mdate="2015-11-17">
+<author>David S. Miller</author>
+<author>John G. Smith</author>
+<author>Michael J. Muller</author>
+<title>TelePICTIVE: Computer-supported Collaborative GUI Design for Designers with Diverse Expertise.</title>
+<pages>151-160</pages>
+<year>1992</year>
+<crossref>conf/uist/1992</crossref>
+<booktitle>ACM Symposium on User Interface Software and Technology</booktitle>
+<ee>http://doi.acm.org/10.1145/142621.142643</ee>
+<url>db/conf/uist/uist1992.html#MillerSM92</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="d/Dayton:Tom">Tom Dayton</na></co>
+<co c="0"><na f="m/Miller:David_S=">David S. Miller</na></co>
+<co c="0"><na f="m/Muller:Michael_J=">Michael J. Muller</na></co>
+<co c="0"><na f="r/Root:Robert_W=">Robert W. Root</na></co>
+<co c="0"><na f="w/White:Ellen_A=">Ellen A. White</na></co>
+<co c="0"><na f="w/Wildman:Daniel_M=">Daniel M. Wildman</na></co>
+</coauthors>
+</dblpperson>
+

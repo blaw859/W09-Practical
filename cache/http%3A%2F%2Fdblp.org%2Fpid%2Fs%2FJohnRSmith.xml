@@ -1,0 +1,3510 @@
+<?xml version="1.0"?>
+<dblpperson name="John R. Smith" n="226">
+<person key="homepages/s/JohnRSmith" mdate="2016-02-09">
+<author>John R. Smith</author>
+<note type="affiliation">IBM Research</note>
+<url>http://domino.research.ibm.com/comm/research_people.nsf/pages/jsmith.index.html</url>
+</person>
+<r><article key="journals/ibmrd/BhattacharjeeHW17" mdate="2018-01-04">
+<author>B. Bhattacharjee</author>
+<author>Matthew L. Hill</author>
+<author>H. Wu</author>
+<author>P. S. Chandakkar</author>
+<author>John R. Smith</author>
+<author>M. N. Wegman</author>
+<title>Distributed learning of deep feature embeddings for visual recognition tasks.</title>
+<pages>4</pages>
+<year>2017</year>
+<volume>61</volume>
+<journal>IBM Journal of Research and Development</journal>
+<number>4</number>
+<ee>http://ieeexplore.ieee.org/document/8030315/</ee>
+<url>db/journals/ibmrd/ibmrd61.html#BhattacharjeeHW17</url>
+</article>
+</r>
+<r><article key="journals/ibmrd/CodellaNPGHHS17" mdate="2018-01-04">
+<author>Noel C. F. Codella</author>
+<author>Quoc-Bao Nguyen</author>
+<author>Sharath Pankanti</author>
+<author>David Gutman</author>
+<author>Brian Helba</author>
+<author>Alan Halpern</author>
+<author>John R. Smith</author>
+<title>Deep learning ensembles for melanoma recognition in dermoscopy images.</title>
+<pages>5</pages>
+<year>2017</year>
+<volume>61</volume>
+<journal>IBM Journal of Research and Development</journal>
+<number>4</number>
+<ee>http://ieeexplore.ieee.org/document/8030303/</ee>
+<url>db/journals/ibmrd/ibmrd61.html#CodellaNPGHHS17</url>
+</article>
+</r>
+<r><article key="journals/ivc/WangGMCRSK17" mdate="2017-05-28">
+<author>Xiaolong Wang</author>
+<author>Guodong Guo</author>
+<author>Michele Merler</author>
+<author>Noel C. F. Codella</author>
+<author>M. V. Rohith</author>
+<author>John R. Smith</author>
+<author>Chandra Kambhamettu</author>
+<title>Leveraging multiple cues for recognizing family photos.</title>
+<pages>61-75</pages>
+<year>2017</year>
+<volume>58</volume>
+<journal>Image Vision Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2016.07.006</ee>
+<url>db/journals/ivc/ivc58.html#WangGMCRSK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/MerlerJNHKSF17" mdate="2017-09-07">
+<author>Michele Merler</author>
+<author>Dhiraj Joshi</author>
+<author>Quoc-Bao Nguyen</author>
+<author>Stephen Hammer</author>
+<author>John Kent</author>
+<author>John R. Smith</author>
+<author>Rog&#233;rio Schmidt Feris</author>
+<title>Automatic Curation of Golf Highlights Using Multimodal Excitement Features.</title>
+<pages>57-65</pages>
+<year>2017</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2017.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2017.14</ee>
+<crossref>conf/cvpr/2017w</crossref>
+<url>db/conf/cvpr/cvprw2017.html#MerlerJNHKSF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/JoshiMNHKSF17" mdate="2017-10-20">
+<author>Dhiraj Joshi</author>
+<author>Michele Merler</author>
+<author>Quoc-Bao Nguyen</author>
+<author>Stephen Hammer</author>
+<author>John Kent</author>
+<author>John R. Smith</author>
+<author>Rog&#233;rio Schmidt Feris</author>
+<title>IBM High-Five: Highlights From Intelligent Video Engine.</title>
+<pages>1249-1250</pages>
+<year>2017</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3123266.3127924</ee>
+<crossref>conf/mm/2017</crossref>
+<url>db/conf/mm/mm2017.html#JoshiMNHKSF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SmithJHHC17" mdate="2017-10-20">
+<author>John R. Smith</author>
+<author>Dhiraj Joshi</author>
+<author>Benoit Huet</author>
+<author>Winston H. Hsu</author>
+<author>Jozef Cota</author>
+<title>Harnessing A.I. for Augmenting Creativity: Application to Movie Trailer Creation.</title>
+<pages>1799-1808</pages>
+<year>2017</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3123266.3127906</ee>
+<crossref>conf/mm/2017</crossref>
+<url>db/conf/mm/mm2017.html#SmithJHHC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MerlerJNHKSF17" mdate="2017-08-05">
+<author>Michele Merler</author>
+<author>Dhiraj Joshi</author>
+<author>Quoc-Bao Nguyen</author>
+<author>Stephen Hammer</author>
+<author>John Kent</author>
+<author>John R. Smith</author>
+<author>Rog&#233;rio Schmidt Feris</author>
+<title>Automatic Curation of Golf Highlights using Multimodal Excitement Features.</title>
+<year>2017</year>
+<volume>abs/1707.07075</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1707.07075</ee>
+<url>db/journals/corr/corr1707.html#MerlerJNHKSF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/YaoBCSB16" mdate="2017-04-05">
+<author>Li Yao</author>
+<author>Nicolas Ballas</author>
+<author>Kyunghyun Cho</author>
+<author>John R. Smith</author>
+<author>Yoshua Bengio</author>
+<title>Oracle Performance for Visual Captioning.</title>
+<year>2016</year>
+<booktitle>BMVC</booktitle>
+<ee>http://www.bmva.org/bmvc/2016/papers/paper141/index.html</ee>
+<crossref>conf/bmvc/2016</crossref>
+<url>db/conf/bmvc/bmvc2016.html#YaoBCSB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/AbediniCCGGHS16" mdate="2017-05-17">
+<author>Mani Abedini</author>
+<author>Noel C. F. Codella</author>
+<author>Rajib Chakravorty</author>
+<author>Rahil Garnavi</author>
+<author>David Gutman</author>
+<author>Brian Helba</author>
+<author>John R. Smith</author>
+<title>Multi-scale classification based lesion segmentation for dermoscopic images.</title>
+<pages>1361-1364</pages>
+<year>2016</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2016.7590960</ee>
+<crossref>conf/embc/2016</crossref>
+<url>db/conf/embc/embc2016.html#AbediniCCGGHS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/MerlerWUNS16" mdate="2017-03-28">
+<author>Michele Merler</author>
+<author>Hui Wu</author>
+<author>Rosario Uceda-Sosa</author>
+<author>Quoc-Bao Nguyen</author>
+<author>John R. Smith</author>
+<title>Snap, Eat, RepEat: A Food Recognition Engine for Dietary Logging.</title>
+<pages>31-40</pages>
+<year>2016</year>
+<booktitle>MADiMa @ ACM Multimedia</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2986036</ee>
+<crossref>conf/mm/2016madima</crossref>
+<url>db/conf/mm/madima2016.html#MerlerWUNS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WuMUS16" mdate="2016-10-27">
+<author>Hui Wu</author>
+<author>Michele Merler</author>
+<author>Rosario Uceda-Sosa</author>
+<author>John R. Smith</author>
+<title>Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition.</title>
+<pages>172-176</pages>
+<year>2016</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2964284.2967205</ee>
+<crossref>conf/mm/2016</crossref>
+<url>db/conf/mm/mm2016.html#WuMUS16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mir/2016" mdate="2016-07-14">
+<editor>John R. Kender</editor>
+<editor>John R. Smith</editor>
+<editor>Jiebo Luo</editor>
+<editor>Susanne Boll</editor>
+<editor>Winston H. Hsu</editor>
+<title>Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval, ICMR 2016, New York, New York, USA, June 6-9, 2016</title>
+<booktitle>ICMR</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4359-6</isbn>
+<ee>http://doi.acm.org/10.1145/2911996</ee>
+<url>db/conf/mir/icmr2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/CodellaNPGHHS16" mdate="2017-06-07">
+<author>Noel C. F. Codella</author>
+<author>Quoc-Bao Nguyen</author>
+<author>Sharath Pankanti</author>
+<author>David Gutman</author>
+<author>Brian Helba</author>
+<author>Allan Halpern</author>
+<author>John R. Smith</author>
+<title>Deep Learning Ensembles for Melanoma Recognition in Dermoscopy Images.</title>
+<year>2016</year>
+<volume>abs/1610.04662</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1610.04662</ee>
+<url>db/journals/corr/corr1610.html#CodellaNPGHHS16</url>
+</article>
+</r>
+<r><article key="journals/ibmrd/AbediniCCGMPSS15" mdate="2017-05-20">
+<author>Mani Abedini</author>
+<author>Noel C. F. Codella</author>
+<author>Jonathan H. Connell</author>
+<author>Rahil Garnavi</author>
+<author>Michele Merler</author>
+<author>Sharath Pankanti</author>
+<author>John R. Smith</author>
+<author>Tanveer F. Syeda-Mahmood</author>
+<title>A generalized framework for medical image classification and recognition.</title>
+<year>2015</year>
+<volume>59</volume>
+<journal>IBM Journal of Research and Development</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1147/JRD.2015.2390017</ee>
+<url>db/journals/ibmrd/ibmrd59.html#AbediniCCGMPSS15</url>
+</article>
+</r>
+<r><article key="journals/ibmrd/LinPAPS15" mdate="2017-05-20">
+<author>Chung-Ching Lin</author>
+<author>Sharath Pankanti</author>
+<author>Gal Ashour</author>
+<author>Dror Porat</author>
+<author>John R. Smith</author>
+<title>Moving camera analytics: Emerging scenarios, challenges, and applications.</title>
+<year>2015</year>
+<volume>59</volume>
+<journal>IBM Journal of Research and Development</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1147/JRD.2015.2394515</ee>
+<url>db/journals/ibmrd/ibmrd59.html#LinPAPS15</url>
+</article>
+</r>
+<r><article key="journals/ibmrd/SmithCCHMNPU15" mdate="2017-05-20">
+<author>John R. Smith</author>
+<author>Liangliang Cao</author>
+<author>Noel C. F. Codella</author>
+<author>Matthew L. Hill</author>
+<author>Michele Merler</author>
+<author>Quoc-Bao Nguyen</author>
+<author>E. Pring</author>
+<author>Rosario A. Uceda-Sosa</author>
+<title>Massive-scale learning of image and video semantic concepts.</title>
+<year>2015</year>
+<volume>59</volume>
+<journal>IBM Journal of Research and Development</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1147/JRD.2015.2398590</ee>
+<url>db/journals/ibmrd/ibmrd59.html#SmithCCHMNPU15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuMJMSC15" mdate="2016-05-30">
+<author>Wei Liu 0005</author>
+<author>Cun Mu</author>
+<author>Rongrong Ji</author>
+<author>Shiqian Ma</author>
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Low-Rank Similarity Metric Learning in High Dimensions.</title>
+<pages>2792-2799</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9997</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#LiuMJMSC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/SongLJMS15" mdate="2017-05-24">
+<author>Dongjin Song</author>
+<author>Wei Liu 0005</author>
+<author>Rongrong Ji</author>
+<author>David A. Meyer</author>
+<author>John R. Smith</author>
+<title>Top Rank Supervised Binary Coding for Visual Search.</title>
+<pages>1922-1930</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.223</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICCV.2015.223</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#SongLJMS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/MerlerCS15" mdate="2017-05-25">
+<author>Michele Merler</author>
+<author>Liangliang Cao</author>
+<author>John R. Smith</author>
+<title>You are what you tweet...pic! gender prediction based on semantic analysis of social media images.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2015.7177499</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2015.7177499</ee>
+<crossref>conf/icmcs/2015</crossref>
+<url>db/conf/icmcs/icme2015.html#MerlerCS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/CodellaCAGHS15" mdate="2017-05-23">
+<author>Noel C. F. Codella</author>
+<author>Junjie Cai</author>
+<author>Mani Abedini</author>
+<author>Rahil Garnavi</author>
+<author>Alan Halpern</author>
+<author>John R. Smith</author>
+<title>Deep Learning, Sparse Coding, and SVM for Melanoma Recognition in Dermoscopy Images.</title>
+<pages>118-126</pages>
+<year>2015</year>
+<booktitle>MLMI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24888-2_15</ee>
+<crossref>conf/miccai/2015mlmi</crossref>
+<url>db/conf/miccai/mlmi2015.html#CodellaCAGHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mir/CaoYS15" mdate="2015-07-29">
+<author>Liangliang Cao</author>
+<author>Zhicheng Yan</author>
+<author>John R. Smith</author>
+<title>Multi-facet Learning using Deep Convolutional Neural Network for Person-Related Categories in Photos.</title>
+<pages>567-570</pages>
+<year>2015</year>
+<booktitle>ICMR</booktitle>
+<ee>http://doi.acm.org/10.1145/2671188.2749356</ee>
+<crossref>conf/mir/2015</crossref>
+<url>db/conf/mir/icmr2015.html#CaoYS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YaoBCSB15" mdate="2017-06-07">
+<author>Li Yao</author>
+<author>Nicolas Ballas</author>
+<author>KyungHyun Cho</author>
+<author>John R. Smith</author>
+<author>Yoshua Bengio</author>
+<title>Trainable performance upper bounds for image and video captioning.</title>
+<year>2015</year>
+<volume>abs/1511.04590</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1511.04590</ee>
+<url>db/journals/corr/corr1511.html#YaoBCSB15</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith14" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>How Many Visual Concepts?</title>
+<pages>2-3</pages>
+<year>2014</year>
+<volume>21</volume>
+<journal>IEEE MultiMedia</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2014.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2014.8</ee>
+<url>db/journals/ieeemm/ieeemm21.html#Smith14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aipr/LinPS14" mdate="2017-05-26">
+<author>Chung-Ching Lin</author>
+<author>Sharath Pankanti</author>
+<author>John R. Smith</author>
+<title>Accurate coverage summarization of UAV videos.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>AIPR</booktitle>
+<ee>https://doi.org/10.1109/AIPR.2014.7041923</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AIPR.2014.7041923</ee>
+<crossref>conf/aipr/2014</crossref>
+<url>db/conf/aipr/aipr2014.html#LinPS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiuHS14" mdate="2017-05-25">
+<author>Wei Liu 0005</author>
+<author>Gang Hua</author>
+<author>John R. Smith</author>
+<title>Unsupervised One-Class Learning for Automatic Outlier Removal.</title>
+<pages>3826-3833</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.483</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2014.483</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#LiuHS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/CodellaCPMS14" mdate="2017-05-23">
+<author>Noel C. F. Codella</author>
+<author>Jonathan H. Connell</author>
+<author>Sharath Pankanti</author>
+<author>Michele Merler</author>
+<author>John R. Smith</author>
+<title>Automated Medical Image Modality Recognition by Fusion of Visual and Text Information.</title>
+<pages>487-495</pages>
+<year>2014</year>
+<booktitle>MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10470-6_61</ee>
+<crossref>conf/miccai/2014-2</crossref>
+<url>db/conf/miccai/miccai2014-2.html#CodellaCPMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YuCMCCSC14" mdate="2014-11-02">
+<author>Felix X. Yu</author>
+<author>Liangliang Cao</author>
+<author>Michele Merler</author>
+<author>Noel C. F. Codella</author>
+<author>Tao Chen</author>
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Modeling Attributes from Category-Attribute Proportions.</title>
+<pages>977-980</pages>
+<year>2014</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2647868.2654993</ee>
+<crossref>conf/mm/2014</crossref>
+<url>db/conf/mm/mm2014.html#YuCMCCSC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/Smith13" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Just the Facets.</title>
+<pages>92</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>IEEE MultiMedia</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2013.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2013.4</ee>
+<url>db/journals/ieeemm/ieeemm20.html#Smith13</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith13a" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Reconstructing Events.</title>
+<pages>2-3</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2013.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2013.27</ee>
+<url>db/journals/ieeemm/ieeemm20.html#Smith13a</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith13b" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Lessons in Learning.</title>
+<pages>2-3</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2013.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2013.39</ee>
+<url>db/journals/ieeemm/ieeemm20.html#Smith13b</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith13c" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Herding Cats.</title>
+<pages>2-3</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2013.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2013.56</ee>
+<url>db/journals/ieeemm/ieeemm20.html#Smith13c</url>
+</article>
+</r>
+<r><article key="journals/tmm/XieNHKHS13" mdate="2017-05-28">
+<author>Lexing Xie</author>
+<author>Apostol Natsev</author>
+<author>Xuming He</author>
+<author>John R. Kender</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Tracking Large-Scale Video Remix in Real-World Events.</title>
+<pages>1244-1254</pages>
+<year>2013</year>
+<volume>15</volume>
+<journal>IEEE Trans. Multimedia</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TMM.2013.2264929</ee>
+<url>db/journals/tmm/tmm15.html#XieNHKHS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/YuCFSC13" mdate="2017-05-25">
+<author>Felix X. Yu</author>
+<author>Liangliang Cao</author>
+<author>Rog&#233;rio Schmidt Feris</author>
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Designing Category-Level Attributes for Discriminative Visual Recognition.</title>
+<pages>771-778</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.105</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.105</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#YuCFSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiCLHCS13" mdate="2017-05-25">
+<author>Zhen Li</author>
+<author>Shiyu Chang</author>
+<author>Feng Liang</author>
+<author>Thomas S. Huang</author>
+<author>Liangliang Cao</author>
+<author>John R. Smith</author>
+<title>Learning Locally-Adaptive Decision Functions for Person Verification.</title>
+<pages>3610-3617</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.463</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPR.2013.463</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#LiCLHCS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ZhuLYS13" mdate="2017-06-15">
+<author>Junhuan Zhu</author>
+<author>Jiebo Luo</author>
+<author orcid="0000-0003-3608-0607">Quanzeng You</author>
+<author>John R. Smith</author>
+<title>Towards Understanding the Effectiveness of Election Related Images in Social Media.</title>
+<pages>421-425</pages>
+<year>2013</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2013.112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDMW.2013.112</ee>
+<crossref>conf/icdm/2013w</crossref>
+<url>db/conf/icdm/icdmw2013.html#ZhuLYS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CodellaHCMGHS13" mdate="2017-05-25">
+<author>Noel C. F. Codella</author>
+<author>Gang Hua</author>
+<author>Liangliang Cao</author>
+<author>Michele Merler</author>
+<author>Leiguang Gong</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Large-scale video event classification using dynamic temporal pyramid matching of visual semantics.</title>
+<pages>2877-2881</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2013.6738592</ee>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#CodellaHCMGHS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/CaoGKCS13" mdate="2017-05-25">
+<author>Liangliang Cao</author>
+<author>Leiguang Gong</author>
+<author>John R. Kender</author>
+<author>Noel C. F. Codella</author>
+<author>John R. Smith</author>
+<title>Learning by focusing: A new framework for concept recognition and feature selection.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2013.6607609</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2013.6607609</ee>
+<crossref>conf/icmcs/2013</crossref>
+<url>db/conf/icmcs/icme2013.html#CaoGKCS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/Smith13" mdate="2016-05-17">
+<author>John R. Smith</author>
+<title>What happens where?</title>
+<pages>3-4</pages>
+<year>2013</year>
+<booktitle>GeoMM@ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2509230.2509232</ee>
+<crossref>conf/mm/2013geomm</crossref>
+<url>db/conf/mm/geomm2013.html#Smith13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SmithC13a" mdate="2013-10-25">
+<author>John R. Smith</author>
+<author>Liangliang Cao</author>
+<title>Massive-scale multimedia semantic modeling.</title>
+<pages>1113-1114</pages>
+<year>2013</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2502081.2502235</ee>
+<crossref>conf/mm/2013</crossref>
+<url>db/conf/mm/mm2013.html#SmithC13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Smith13" mdate="2013-07-26">
+<author>John R. Smith</author>
+<title>Riding the multimedia big data wave.</title>
+<pages>1-2</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>http://doi.acm.org/10.1145/2484028.2494492</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#Smith13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mir/2013" mdate="2013-08-23">
+<editor>Ramesh Jain</editor>
+<editor>Balakrishnan Prabhakaran</editor>
+<editor>Marcel Worring</editor>
+<editor>John R. Smith</editor>
+<editor>Tat-Seng Chua</editor>
+<title>International Conference on Multimedia Retrieval, ICMR'13, Dallas, TX, USA, April 16-19, 2013</title>
+<publisher>ACM</publisher>
+<booktitle>ICMR</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-2033-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2461466</ee>
+<url>db/conf/mir/icmr2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ieeemm/Smith12" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Minding the Gap.</title>
+<pages>2-3</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>IEEE MultiMedia</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2012.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2012.9</ee>
+<url>db/journals/ieeemm/ieeemm19.html#Smith12</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith12a" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>A Virtual Opinion.</title>
+<pages>2-3</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2012.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2012.18</ee>
+<url>db/journals/ieeemm/ieeemm19.html#Smith12a</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith12b" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Rich Media, Poor Media.</title>
+<pages>2-3</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2012.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2012.40</ee>
+<url>db/journals/ieeemm/ieeemm19.html#Smith12b</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith12c" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Problems Gone By?</title>
+<pages>2-4</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2012.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2012.49</ee>
+<url>db/journals/ieeemm/ieeemm19.html#Smith12c</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/CaoCCMNS12" mdate="2014-09-24">
+<author>Liangliang Cao</author>
+<author>Yuan-Chi Chang</author>
+<author>Noel C. F. Codella</author>
+<author>Michele Merler</author>
+<author>Quoc-Bao Nguyen</author>
+<author>John R. Smith</author>
+<title>IBM T.J. Watson Research Center, Multimedia Analytics: Modality Classification and Case-Based Retrieval Tasks of ImageCLEF2012.</title>
+<year>2012</year>
+<booktitle>CLEF (Online Working Notes/Labs/Workshop)</booktitle>
+<ee>http://ceur-ws.org/Vol-1178/CLEF2012wn-ImageCLEF-CaoEt2012.pdf</ee>
+<ee>http://www.clef-initiative.eu/documents/71612/421f7233-c817-40f4-84e7-de375f1a915a</ee>
+<crossref>conf/clef/2012w</crossref>
+<url>db/conf/clef/clef2012w.html#CaoCCMNS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/LiCCSH12" mdate="2017-05-25">
+<author>Zhen Li</author>
+<author>Liangliang Cao</author>
+<author>Shiyu Chang</author>
+<author>John R. Smith</author>
+<author>Thomas S. Huang</author>
+<title>Beyond Mahalanobis distance: Learning second-order discriminant function for people verification.</title>
+<pages>45-50</pages>
+<year>2012</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2012.6239342</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2012.6239342</ee>
+<crossref>conf/cvpr/2012w</crossref>
+<url>db/conf/cvpr/cvprw2012.html#LiCCSH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/CaoMNCHS12" mdate="2017-05-19">
+<author>Liangliang Cao</author>
+<author>Yadong Mu</author>
+<author>Apostol Natsev</author>
+<author>Shih-Fu Chang</author>
+<author>Gang Hua</author>
+<author>John R. Smith</author>
+<title>Scene Aligned Pooling for Complex Video Recognition.</title>
+<pages>688-701</pages>
+<year>2012</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33709-3_49</ee>
+<crossref>conf/eccv/2012-2</crossref>
+<url>db/conf/eccv/eccv2012-2.html#CaoMNCHS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/CodellaNHHCGS12" mdate="2017-05-25">
+<author>Noel C. F. Codella</author>
+<author>Apostol Natsev</author>
+<author>Gang Hua</author>
+<author>Matthew L. Hill</author>
+<author>Liangliang Cao</author>
+<author>Leiguang Gong</author>
+<author>John R. Smith</author>
+<title>Video Event Detection Using Temporal Pyramids of Visual Semantics with Kernel Optimization and Model Subspace Boosting.</title>
+<pages>747-752</pages>
+<year>2012</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2012.190</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2012.190</ee>
+<crossref>conf/icmcs/2012</crossref>
+<url>db/conf/icmcs/icme2012.html#CodellaNHHCGS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/Smith12" mdate="2017-05-25">
+<author>John R. Smith</author>
+<title>Mining Multimedia Data for Meaning - (Extended Abstract).</title>
+<pages>2</pages>
+<year>2012</year>
+<booktitle>MMM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-27355-1_2</ee>
+<crossref>conf/mmm/2012</crossref>
+<url>db/conf/mmm/mmm2012.html#Smith12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/CaoSWYJH12" mdate="2017-11-11">
+<author>Liangliang Cao</author>
+<author>John R. Smith</author>
+<author>Zhen Wen</author>
+<author>Zhijun Yin</author>
+<author>Xin Jin 0001</author>
+<author>Jiawei Han 0001</author>
+<title>BlueFinder: estimate where a beach photo was taken.</title>
+<pages>469-470</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>http://doi.acm.org/10.1145/2187980.2188081</ee>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#CaoSWYJH12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mm/2012" mdate="2012-12-20">
+<editor>Noboru Babaguchi</editor>
+<editor>Kiyoharu Aizawa</editor>
+<editor>John R. Smith</editor>
+<editor>Shin'ichi Satoh</editor>
+<editor>Thomas Plagemann</editor>
+<editor>Xian-Sheng Hua</editor>
+<editor>Rong Yan</editor>
+<title>Proceedings of the 20th ACM Multimedia Conference, MM '12, Nara, Japan, October 29 - November 02, 2012</title>
+<publisher>ACM</publisher>
+<booktitle>ACM Multimedia</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1089-5</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2393347</ee>
+<url>db/conf/mm/mm2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-0623" mdate="2017-06-07">
+<author>Lexing Xie</author>
+<author>Apostol Natsev</author>
+<author>Xuming He</author>
+<author>John R. Kender</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Tracking Large-Scale Video Remix in Real-World Events</title>
+<ee>http://arxiv.org/abs/1210.0623</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.0623</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-0623</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith11" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Express Yourself.</title>
+<pages>2</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>IEEE MultiMedia</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2011.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2011.8</ee>
+<url>db/journals/ieeemm/ieeemm18.html#Smith11</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith11a" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>A Great Challenge.</title>
+<pages>2-3</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2011.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2011.24</ee>
+<url>db/journals/ieeemm/ieeemm18.html#Smith11a</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith11b" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>History Made Every Day.</title>
+<pages>2-3</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2011.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2011.47</ee>
+<url>db/journals/ieeemm/ieeemm18.html#Smith11b</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith11c" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Open Channel for News.</title>
+<pages>2-3</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2011.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2011.69</ee>
+<url>db/journals/ieeemm/ieeemm18.html#Smith11c</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEicics/CodellaHNS11" mdate="2017-05-17">
+<author>Noel C. F. Codella</author>
+<author>Gang Hua</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Towards large scale land-cover recognition of satellite images.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>ICICS</booktitle>
+<ee>https://doi.org/10.1109/ICICS.2011.6174291</ee>
+<crossref>conf/IEEEicics/2011</crossref>
+<url>db/conf/IEEEicics/IEEEicics2011.html#CodellaHNS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/XieNKHS11" mdate="2012-01-04">
+<author>Lexing Xie</author>
+<author>Apostol Natsev</author>
+<author>John R. Kender</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Tracking Visual Memes in Rich-Media Social Communities.</title>
+<year>2011</year>
+<booktitle>ICWSM</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2789</ee>
+<crossref>conf/icwsm/2011</crossref>
+<url>db/conf/icwsm/icwsm2011.html#XieNKHS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/XieNKHS11" mdate="2011-12-07">
+<author>Lexing Xie</author>
+<author>Apostol Natsev</author>
+<author>John R. Kender</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Visual memes in social media: tracking real-world news in YouTube videos.</title>
+<pages>53-62</pages>
+<year>2011</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2072298.2072307</ee>
+<crossref>conf/mm/2011</crossref>
+<url>db/conf/mm/mm2011.html#XieNKHS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/Smith10" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>The Red Balloon.</title>
+<pages>2-3</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2010.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2010.40</ee>
+<url>db/journals/ieeemm/ieeemm17.html#Smith10</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith10a" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>The Not So Newlywed Game.</title>
+<pages>2-3</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2010.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2010.65</ee>
+<url>db/journals/ieeemm/ieeemm17.html#Smith10a</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith10b" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Clicking on Things.</title>
+<pages>2-3</pages>
+<year>2010</year>
+<volume>17</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2010.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2010.76</ee>
+<url>db/journals/ieeemm/ieeemm17.html#Smith10b</url>
+</article>
+</r>
+<r><inproceedings key="conf/civr/XieNHSP10" mdate="2010-11-10">
+<author>Lexing Xie</author>
+<author>Apostol Natsev</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<author>Alex Phillips</author>
+<title>The accuracy and value of machine-generated image tags: design and user evaluation of an end-to-end image tagging system.</title>
+<pages>58-65</pages>
+<year>2010</year>
+<booktitle>CIVR</booktitle>
+<ee>http://doi.acm.org/10.1145/1816041.1816052</ee>
+<crossref>conf/civr/2010</crossref>
+<url>db/conf/civr/civr2010.html#XieNHSP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NatsevHS10" mdate="2017-05-25">
+<author>Apostol Natsev</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Design and evaluation of an effective and efficient video copy detection system.</title>
+<pages>1353-1358</pages>
+<year>2010</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2010.5583216</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2010.5583216</ee>
+<crossref>conf/icmcs/2010</crossref>
+<url>db/conf/icmcs/icme2010.html#NatsevHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/XieYTNS10" mdate="2010-11-10">
+<author>Lexing Xie</author>
+<author>Rong Yan</author>
+<author>Jelena Tesic</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Probabilistic visual concept trees.</title>
+<pages>867-870</pages>
+<year>2010</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1873951.1874099</ee>
+<crossref>conf/mm/2010</crossref>
+<url>db/conf/mm/mm2010.html#XieYTNS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/KenderHNSX10" mdate="2010-11-10">
+<author>John R. Kender</author>
+<author>Matthew L. Hill</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Lexing Xie</author>
+<title>Video genetics: a case study from YouTube.</title>
+<pages>1253-1258</pages>
+<year>2010</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1873951.1874198</ee>
+<crossref>conf/mm/2010</crossref>
+<url>db/conf/mm/mm2010.html#KenderHNSX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/HillHNSXHMOZ10" mdate="2012-02-03">
+<author>Matthew L. Hill</author>
+<author>Gang Hua</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Lexing Xie</author>
+<author>Bert Huang</author>
+<author>Michele Merler</author>
+<author>Hua Ouyang</author>
+<author>Mingyuan Zhou</author>
+<title>IBM Research TRECVID-2010 Video Copy Detection and Multimedia Event Detection System.</title>
+<year>2010</year>
+<booktitle>TRECVID</booktitle>
+<ee>http://www-nlpir.nist.gov/projects/tvpubs/tv10.papers/ibm.pdf</ee>
+<crossref>conf/trecvid/2010</crossref>
+<url>db/conf/trecvid/trecvid2010.html#HillHNSXHMOZ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/VarbanescuSRLNSL09" mdate="2017-05-20">
+<author>Ana Lucia Varbanescu</author>
+<author>Henk J. Sips</author>
+<author>Kenneth A. Ross</author>
+<author>Qiang Liu</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Lurng-Kuo Liu</author>
+<title>Evaluating application mapping scenarios on the Cell/B.E.</title>
+<pages>85-100</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Concurrency and Computation: Practice and Experience</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.1335</ee>
+<url>db/journals/concurrency/concurrency21.html#VarbanescuSRLNSL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/MerlerYS09" mdate="2017-05-25">
+<author>Michele Merler</author>
+<author>Rong Yan</author>
+<author>John R. Smith</author>
+<title>Imbalanced RankBoost for efficiently ranking large-scale image/video collections.</title>
+<pages>2607-2614</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206575</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CVPRW.2009.5206575</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#MerlerYS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YanSTS09" mdate="2009-10-28">
+<author>Rong Yan</author>
+<author>John R. Smith</author>
+<author>Qi Tian</author>
+<author>Rahul Sukthankar</author>
+<title>The 1st workshop on large-scale multimedia retrieval and mining (LS-MMRM'09).</title>
+<pages>1151-1152</pages>
+<year>2009</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1631272.1631545</ee>
+<crossref>conf/mm/2009</crossref>
+<url>db/conf/mm/mm2009.html#YanSTS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/SmithS08" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>The Search for Interoperability.</title>
+<pages>84-87</pages>
+<year>2008</year>
+<volume>15</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2008.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2008.63</ee>
+<url>db/journals/ieeemm/ieeemm15.html#SmithS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/civr/NatsevSTXY08" mdate="2009-01-02">
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Jelena Tesic</author>
+<author>Lexing Xie</author>
+<author>Rong Yan</author>
+<title>IBM multimedia analysis and retrieval system.</title>
+<pages>553-554</pages>
+<year>2008</year>
+<booktitle>CIVR</booktitle>
+<ee>http://doi.acm.org/10.1145/1386352.1386427</ee>
+<crossref>conf/civr/2008</crossref>
+<url>db/conf/civr/civr2008.html#NatsevSTXY08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/NatsevSTXYJM08" mdate="2009-11-19">
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Jelena Tesic</author>
+<author>Lexing Xie</author>
+<author>Rong Yan</author>
+<author>Wei Jiang</author>
+<author>Michele Merler</author>
+<title>IBM Research TRECVID-2008 Video Retrieval System.</title>
+<year>2008</year>
+<booktitle>TRECVID</booktitle>
+<ee>http://www-nlpir.nist.gov/projects/tvpubs/tv8.papers/ibm.pdf</ee>
+<crossref>conf/trecvid/2008</crossref>
+<url>db/conf/trecvid/trecvid2008.html#NatsevSTXYJM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiamis/Smith08" mdate="2017-05-23">
+<author>John R. Smith</author>
+<title>Unleashing Video Search.</title>
+<pages>2</pages>
+<year>2008</year>
+<booktitle>WIAMIS</booktitle>
+<ee>https://doi.org/10.1109/WIAMIS.2008.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WIAMIS.2008.64</ee>
+<crossref>conf/wiamis/2008</crossref>
+<url>db/conf/wiamis/wiamis2008.html#Smith08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/TesicNSS07" mdate="2007-12-04">
+<author>Jelena Tesic</author>
+<author>Apostol Natsev</author>
+<author>Joachim Seidl</author>
+<author>John R. Smith</author>
+<title>IBM multimodal interactive video threading.</title>
+<pages>124-126</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<ee>http://doi.acm.org/10.1145/1282280.1282302</ee>
+<url>db/conf/civr/civr2007.html#TesicNSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/TesicNS07" mdate="2007-12-04">
+<author>Jelena Tesic</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Cluster-based data modeling for semantic video search.</title>
+<pages>595-602</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<ee>http://doi.acm.org/10.1145/1282280.1282365</ee>
+<url>db/conf/civr/civr2007.html#TesicNS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/NatsevTXYS07" mdate="2007-12-04">
+<author>Apostol Natsev</author>
+<author>Jelena Tesic</author>
+<author>Lexing Xie</author>
+<author>Rong Yan</author>
+<author>John R. Smith</author>
+<title>IBM multimedia search and retrieval system.</title>
+<pages>645</pages>
+<year>2007</year>
+<crossref>conf/civr/2007</crossref>
+<booktitle>CIVR</booktitle>
+<ee>http://doi.acm.org/10.1145/1282280.1282373</ee>
+<url>db/conf/civr/civr2007.html#NatsevTXYS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiuLNRSV07" mdate="2017-05-25">
+<author>Lurng-Kuo Liu</author>
+<author>Qiang Liu</author>
+<author>Apostol Natsev</author>
+<author>Kenneth A. Ross</author>
+<author>John R. Smith</author>
+<author>Ana Lucia Varbanescu</author>
+<title>Digital Media Indexing on the Cell Processor.</title>
+<pages>1866-1869</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4285038</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#LiuLNRSV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/TesicNXS07" mdate="2017-05-25">
+<author>Jelena Tesic</author>
+<author>Apostol Natsev</author>
+<author>Lexing Xie</author>
+<author>John R. Smith</author>
+<title>Data Modeling Strategies for Imbalanced Learning in Visual Search.</title>
+<pages>1990-1993</pages>
+<year>2007</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2007.4285069</ee>
+<crossref>conf/icmcs/2007</crossref>
+<url>db/conf/icmcs/icme2007.html#TesicNXS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/VarbanescuSRLLNS07" mdate="2017-05-19">
+<author>Ana Lucia Varbanescu</author>
+<author>Henk J. Sips</author>
+<author>Kenneth A. Ross</author>
+<author>Qiang Liu</author>
+<author>Lurng-Kuo Liu</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>An Effective Strategy for Porting C++ Applications on Cell.</title>
+<pages>59</pages>
+<year>2007</year>
+<crossref>conf/icpp/2007</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2007.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2007.15</ee>
+<url>db/conf/icpp/icpp2007.html#VarbanescuSRLLNS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/YanTS07" mdate="2007-08-23">
+<author>Rong Yan</author>
+<author>Jelena Tesic</author>
+<author>John R. Smith</author>
+<title>Model-shared subspace boosting for multi-label classification.</title>
+<pages>834-843</pages>
+<year>2007</year>
+<crossref>conf/kdd/2007</crossref>
+<booktitle>KDD</booktitle>
+<ee>http://doi.acm.org/10.1145/1281192.1281281</ee>
+<url>db/conf/kdd/kdd2007.html#YanTS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcam/Smith07" mdate="2017-05-25">
+<author>John R. Smith</author>
+<title>The Real Problem of Bridging the &#34;Semantic Gap&#34;.</title>
+<pages>16-17</pages>
+<year>2007</year>
+<crossref>conf/mcam/2007</crossref>
+<booktitle>MCAM</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73417-8_4</ee>
+<url>db/conf/mcam/mcam2007.html#Smith07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/CampbellHLNSTXYY07" mdate="2010-03-09">
+<author>Murray Campbell</author>
+<author>Alexander Haubold</author>
+<author>Ming Liu</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Jelena Tesic</author>
+<author>Lexing Xie</author>
+<author>Rong Yan</author>
+<author>Jun Yang 0003</author>
+<title>IBM Research TRECVID-2007 Video Retrieval System.</title>
+<year>2007</year>
+<booktitle>TRECVID</booktitle>
+<ee>http://www-nlpir.nist.gov/projects/tvpubs/tv7.papers/ibm.pdf</ee>
+<crossref>conf/trecvid/2007</crossref>
+<url>db/conf/trecvid/trecvid2007.html#CampbellHLNSTXYY07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/SmithS06" mdate="2017-05-18">
+<author>John R. Smith</author>
+<author>Peter Schirling</author>
+<title>Metadata Standards Roundup.</title>
+<pages>84-88</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MMUL.2006.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2006.34</ee>
+<url>db/journals/ieeemm/ieeemm13.html#SmithS06</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/NaphadeSTCHKHC06" mdate="2017-05-18">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<author>Jelena Tesic</author>
+<author>Shih-Fu Chang</author>
+<author>Winston H. Hsu</author>
+<author>Lyndon S. Kennedy</author>
+<author>Alexander G. Hauptmann</author>
+<author>Jon Curtis</author>
+<title>Large-Scale Concept Ontology for Multimedia.</title>
+<pages>86-91</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2006.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2006.63</ee>
+<url>db/journals/ieeemm/ieeemm13.html#NaphadeSTCHKHC06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/LeiHKPALWDSK06" mdate="2017-05-24">
+<author>Zhou Lei</author>
+<author>Dayong Huang</author>
+<author>Archit Kulshrestha</author>
+<author>Santiago Pe&#241;a</author>
+<author>Gabrielle Allen</author>
+<author>Xin Li</author>
+<author>Christopher D. White</author>
+<author>Richard Duff</author>
+<author>John R. Smith</author>
+<author>Subhash Kalla</author>
+<title>ResGrid: A Grid-aware Toolkit for Reservoir Uncertainty Analysis.</title>
+<pages>249-252</pages>
+<year>2006</year>
+<crossref>conf/ccgrid/2006</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2006.86</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CCGRID.2006.86</ee>
+<url>db/conf/ccgrid/ccgrid2006.html#LeiHKPALWDSK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/EbadollahiXAPCS06" mdate="2017-05-23">
+<author>Shahram Ebadollahi</author>
+<author>Lexing Xie</author>
+<author>Andres Abreu</author>
+<author>Mark Podlaseck</author>
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<title>Exploring the Dynamics of Visual Events in the Multi-dimensional Semantic Concept Space.</title>
+<pages>503-505</pages>
+<year>2006</year>
+<crossref>conf/civr/2006</crossref>
+<booktitle>CIVR</booktitle>
+<ee>https://doi.org/10.1007/11788034_54</ee>
+<url>db/conf/civr/civr2006.html#EbadollahiXAPCS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/TesicS06" mdate="2017-05-23">
+<author>Jelena Tesic</author>
+<author>John R. Smith</author>
+<title>Efficient Summarizing of Multimedia Archives Using Cluster Labeling.</title>
+<pages>518-520</pages>
+<year>2006</year>
+<crossref>conf/civr/2006</crossref>
+<booktitle>CIVR</booktitle>
+<ee>https://doi.org/10.1007/11788034_58</ee>
+<url>db/conf/civr/civr2006.html#TesicS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/EbadollahiXCS06" mdate="2017-05-25">
+<author>Shahram Ebadollahi</author>
+<author>Lexing Xie</author>
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<title>Visual Event Detection using Multi-Dimensional Concept Dynamics.</title>
+<pages>881-884</pages>
+<year>2006</year>
+<crossref>conf/icmcs/2006</crossref>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2006.262691</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2006.262691</ee>
+<url>db/conf/icmcs/icme2006.html#EbadollahiXCS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/TesicS06" mdate="2017-05-25">
+<author>Jelena Tesic</author>
+<author>John R. Smith</author>
+<title>Semantic Labeling of Multimedia Content Clusters.</title>
+<pages>1493-1496</pages>
+<year>2006</year>
+<crossref>conf/icmcs/2006</crossref>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2006.262825</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2006.262825</ee>
+<url>db/conf/icmcs/icme2006.html#TesicS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mrcs/Smith06" mdate="2017-05-17">
+<author>John R. Smith</author>
+<title>Multimedia Content-Based Indexing and Search: Challenges and Research Directions.</title>
+<pages>370</pages>
+<year>2006</year>
+<crossref>conf/mrcs/2006</crossref>
+<booktitle>MRCS</booktitle>
+<url>db/conf/mrcs/mrcs2006.html#Smith06</url>
+<ee>https://doi.org/10.1007/11848035_49</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/civr/2006" mdate="2017-06-02">
+<editor>Hari Sundaram</editor>
+<editor>Milind R. Naphade</editor>
+<editor>John R. Smith</editor>
+<editor>Yong Rui</editor>
+<title>Image and Video Retrieval, 5th International Conference, CIVR 2006, Tempe, AZ, USA, July 13-15, 2006, Proceedings</title>
+<volume>4071</volume>
+<year>2006</year>
+<isbn>3-540-36018-2</isbn>
+<booktitle>CIVR</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11788034</ee>
+<url>db/conf/civr/civr2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ejasp/LalorKFBSRM05" mdate="2017-06-05">
+<author orcid="0000-0002-2498-6631">Edmund C. Lalor</author>
+<author>Simon P. Kelly</author>
+<author>Ciar&#225;n Finucane</author>
+<author>R. Burke</author>
+<author>John R. Smith</author>
+<author orcid="0000-0001-8578-1245">Richard B. Reilly</author>
+<author>Gary McDarby</author>
+<title>Steady-State VEP-Based Brain-Computer Interface Control in an Immersive 3D Gaming Environment.</title>
+<pages>3156-3164</pages>
+<year>2005</year>
+<volume>2005</volume>
+<journal>EURASIP J. Adv. Sig. Proc.</journal>
+<number>19</number>
+<ee>https://doi.org/10.1155/ASP.2005.3156</ee>
+<url>db/journals/ejasp/ejasp2005.html#LalorKFBSRM05</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/Smith05" mdate="2017-05-18">
+<author>John R. Smith</author>
+<title>Guest Editor's Introduction: What's New with MPEG?</title>
+<pages>16-17</pages>
+<year>2005</year>
+<volume>12</volume>
+<journal>IEEE MultiMedia</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2005.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2005.72</ee>
+<url>db/journals/ieeemm/ieeemm12.html#Smith05</url>
+</article>
+</r>
+<r><article key="journals/pr/LuoHSZ05" mdate="2017-05-18">
+<author>Jiebo Luo</author>
+<author>Thomas S. Huang</author>
+<author>John R. Smith</author>
+<author>HongJiang Zhang</author>
+<title>Special Issue on Image Understanding for Digital Photographs.</title>
+<pages>781-785</pages>
+<year>2005</year>
+<volume>38</volume>
+<journal>Pattern Recognition</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.patcog.2004.08.018</ee>
+<url>db/journals/pr/pr38.html#LuoHSZ05</url>
+</article>
+</r>
+<r><article key="journals/tomccap/PlagemannSS05" mdate="2006-02-09">
+<author>Thomas Plagemann</author>
+<author>Prashant J. Shenoy</author>
+<author>John R. Smith</author>
+<title>Selected papers from the ACM multimedia conference 2003.</title>
+<pages>127</pages>
+<year>2005</year>
+<volume>1</volume>
+<journal>TOMCCAP</journal>
+<number>2</number>
+<ee>http://doi.acm.org/10.1145/1062253.1062254</ee>
+<url>db/journals/tomccap/tomccap1.html#PlagemannSS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/civr/SmithNNT05" mdate="2017-05-23">
+<author>John R. Smith</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Jelena Tesic</author>
+<title>Multimedia Research Challenges for Industry.</title>
+<pages>28-37</pages>
+<year>2005</year>
+<crossref>conf/civr/2005</crossref>
+<booktitle>CIVR</booktitle>
+<ee>https://doi.org/10.1007/11526346_4</ee>
+<url>db/conf/civr/civr2005.html#SmithNNT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvdb/SmithDGGSR05" mdate="2008-11-23">
+<author>John R. Smith</author>
+<author>David S. Doermann</author>
+<author>Amarnath Gupta</author>
+<author>Jonathan Goldstein</author>
+<author>Uri Shaft</author>
+<author>Nalini K. Ratha</author>
+<title>Multimedia applications: beyond similarity searches.</title>
+<pages>71-72</pages>
+<year>2005</year>
+<booktitle>CVDB</booktitle>
+<ee>http://doi.acm.org/10.1145/1160939.1160957</ee>
+<crossref>conf/cvdb/2005</crossref>
+<url>db/conf/cvdb/cvdb2005.html#SmithDGGSR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/NaphadeS05" mdate="2017-05-19">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>A generalized multiple instance learning algorithm for large scale modeling of multimedia semantics.</title>
+<pages>341-344</pages>
+<year>2005</year>
+<booktitle>ICASSP (5)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2005.1416310</ee>
+<crossref>conf/icassp/2005</crossref>
+<url>db/conf/icassp/icassp2005-5.html#NaphadeS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/RuiJGZNSK05" mdate="2007-11-19">
+<author>Yong Rui</author>
+<author>Ramesh Jain</author>
+<author>Nicolas D. Georganas</author>
+<author>HongJiang Zhang</author>
+<author>Klara Nahrstedt</author>
+<author>John R. Smith</author>
+<author>Mohan S. Kankanhalli</author>
+<title>What is the state of our community?</title>
+<pages>666-668</pages>
+<year>2005</year>
+<crossref>conf/mm/2005</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1101149.1101297</ee>
+<url>db/conf/mm/mm2005.html#RuiJGZNSK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/VolkmerSN05" mdate="2006-02-08">
+<author>Timo Volkmer</author>
+<author>John R. Smith</author>
+<author>Apostol Natsev</author>
+<title>A web-based system for collaborative annotation of large image and video collections: an evaluation and user study.</title>
+<pages>892-901</pages>
+<year>2005</year>
+<crossref>conf/mm/2005</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1101149.1101341</ee>
+<url>db/conf/mm/mm2005.html#VolkmerSN05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mir/2005" mdate="2008-12-29">
+<editor>HongJiang Zhang</editor>
+<editor>John R. Smith</editor>
+<editor>Qi Tian</editor>
+<title>Proceedings of the 7th ACM SIGMM International Workshop on Multimedia Information Retrieval, MIR 2005, November 10-11, 2005, Singapore</title>
+<booktitle>Multimedia Information Retrieval</booktitle>
+<publisher>ACM</publisher>
+<isbn>1-59593-244-5</isbn>
+<year>2005</year>
+<url>db/conf/mir/mir2005.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cviu/AmirBILNSST04" mdate="2017-05-28">
+<author>Arnon Amir</author>
+<author>Sankar Basu</author>
+<author>Giridharan Iyengar</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<author>Savitha Srinivasan</author>
+<author>Belle L. Tseng</author>
+<title>A multi-modal system for the retrieval of semantic video events.</title>
+<pages>216-236</pages>
+<year>2004</year>
+<volume>96</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.cviu.2004.02.006</ee>
+<url>db/journals/cviu/cviu96.html#AmirBILNSST04</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/TsengLS04" mdate="2017-05-18">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Using MPEG-7 and MPEG-21 for Personalizing Video.</title>
+<pages>42-53</pages>
+<year>2004</year>
+<volume>11</volume>
+<journal>IEEE MultiMedia</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2004.1261105</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2004.1261105</ee>
+<url>db/journals/ieeemm/ieeemm11.html#TsengLS04</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/SmithJ04" mdate="2017-05-18">
+<author>John R. Smith</author>
+<author>Marwan A. Jabri</author>
+<title>The 3G-324M Protocol for Conversational Video Telephony.</title>
+<pages>102-105</pages>
+<year>2004</year>
+<volume>11</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MMUL.2004.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2004.18</ee>
+<url>db/journals/ieeemm/ieeemm11.html#SmithJ04</url>
+</article>
+</r>
+<r><article key="journals/jvcir/LiSZC04" mdate="2017-05-18">
+<author>Ying Li</author>
+<author>John R. Smith</author>
+<author>Tong Zhang 0007</author>
+<author>Shih-Fu Chang</author>
+<title>Multimedia database management systems.</title>
+<pages>261-264</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>J. Visual Communication and Image Representation</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jvcir.2004.08.004</ee>
+<url>db/journals/jvcir/jvcir15.html#LiSZC04</url>
+</article>
+</r>
+<r><article key="journals/jvcir/TsengLS04" mdate="2017-05-18">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Video personalization and summarization system for usage environment.</title>
+<pages>370-392</pages>
+<year>2004</year>
+<volume>15</volume>
+<journal>J. Visual Communication and Image Representation</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jvcir.2004.04.011</ee>
+<url>db/journals/jvcir/jvcir15.html#TsengLS04</url>
+</article>
+</r>
+<r><article key="journals/tkde/SmithLJ04" mdate="2017-05-20">
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<author>Anant Jhingran</author>
+<title>A Wavelet Framework for Adapting Data Cube Views for OLAP.</title>
+<pages>552-565</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2004.1277817</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.1277817</ee>
+<url>db/journals/tkde/tkde16.html#SmithLJ04</url>
+</article>
+</r>
+<r><article key="journals/tkde/LangCS04" mdate="2017-05-20">
+<author>Christian A. Lang</author>
+<author>Yuan-Chi Chang</author>
+<author>John R. Smith</author>
+<title>Making the Threshold Algorithm Access Cost Aware.</title>
+<pages>1297-1301</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2004.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2004.60</ee>
+<url>db/journals/tkde/tkde16.html#LangCS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/AmirILNNNNST04" mdate="2017-05-19">
+<author>Arnon Amir</author>
+<author>Giridharan Iyengar</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Chalapathy Neti</author>
+<author>Harriet J. Nock</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<title>Multimodal video search techniques: late fusion of speech-based retrieval and visual content-based retrieval.</title>
+<pages>1048-1051</pages>
+<year>2004</year>
+<booktitle>ICASSP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2004.1326728</ee>
+<crossref>conf/icassp/2004</crossref>
+<url>db/conf/icassp/icassp2004-3.html#AmirILNNNNST04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NatsevNS04" mdate="2017-05-25">
+<author>Apostol Natsev</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Over-complete representation and fusion for semantic concept detection.</title>
+<pages>2375-2378</pages>
+<year>2004</year>
+<crossref>conf/icip/2004</crossref>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2004.1421578</ee>
+<url>db/conf/icip/icip2004-4.html#NatsevNS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WuLCS04" mdate="2017-05-25">
+<author>Yi Wu 0005</author>
+<author>Ching-Yung Lin</author>
+<author>Edward Y. Chang</author>
+<author>John R. Smith</author>
+<title>Multimodal information fusion for video concept detection.</title>
+<pages>2391-2394</pages>
+<year>2004</year>
+<crossref>conf/icip/2004</crossref>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2004.1421582</ee>
+<url>db/conf/icip/icip2004-4.html#WuLCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NaphadeS04" mdate="2005-05-23">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Active learning for simultaneous annotation of multiple binary semantic concepts.</title>
+<pages>77-80</pages>
+<year>2004</year>
+<crossref>conf/icmcs/2004</crossref>
+<booktitle>ICME</booktitle>
+<url>db/conf/icmcs/icme2004.html#NaphadeS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NaphadeNLS04" mdate="2005-05-23">
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Multi-granular detection of regional semantic concepts.</title>
+<pages>109-112</pages>
+<year>2004</year>
+<crossref>conf/icmcs/2004</crossref>
+<booktitle>ICME</booktitle>
+<url>db/conf/icmcs/icme2004.html#NaphadeNLS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ZhangLCS04" mdate="2005-05-24">
+<author>DongQing Zhang</author>
+<author>Ching-Yung Lin</author>
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<title>Semantic video clustering across sources using bipartite spectral clustering.</title>
+<pages>117-120</pages>
+<year>2004</year>
+<crossref>conf/icmcs/2004</crossref>
+<booktitle>ICME</booktitle>
+<url>db/conf/icmcs/icme2004.html#ZhangLCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/WuTS04" mdate="2005-05-23">
+<author>Y. Wu</author>
+<author>Belle L. Tseng</author>
+<author>John R. Smith</author>
+<title>Ontology-based multi-classification learning for video concept detection.</title>
+<pages>1003-1006</pages>
+<year>2004</year>
+<crossref>conf/icmcs/2004</crossref>
+<booktitle>ICME</booktitle>
+<url>db/conf/icmcs/icme2004.html#WuTS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LinNTHSL04" mdate="2010-11-10">
+<author>Ching-Yung Lin</author>
+<author>Apostol Natsev</author>
+<author>Belle L. Tseng</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>Content transcoding middleware for pervasive geospatial intelligence access.</title>
+<pages>2139-2142</pages>
+<year>2004</year>
+<crossref>conf/icmcs/2004</crossref>
+<booktitle>ICME</booktitle>
+<url>db/conf/icmcs/icme2004.html#LinNTHSL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/NatsevNS04" mdate="2006-02-13">
+<author>Apostol Natsev</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Semantic representation: search and mining of multimedia content.</title>
+<pages>641-646</pages>
+<year>2004</year>
+<crossref>conf/kdd/2004</crossref>
+<booktitle>KDD</booktitle>
+<ee>http://doi.acm.org/10.1145/1014052.1014133</ee>
+<url>db/conf/kdd/kdd2004.html#NatsevNS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WuCCS04" mdate="2015-10-28">
+<author>Yi Wu 0005</author>
+<author>Edward Y. Chang</author>
+<author>Kevin Chen-Chuan Chang</author>
+<author>John R. Smith</author>
+<title>Optimal multimodal fusion for multimedia data analysis.</title>
+<pages>572-579</pages>
+<year>2004</year>
+<crossref>conf/mm/2004</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1027527.1027665</ee>
+<url>db/conf/mm/mm2004.html#WuCCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/NaphadeS04" mdate="2006-02-08">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>On the detection of semantic concepts at TRECVID.</title>
+<pages>660-667</pages>
+<year>2004</year>
+<crossref>conf/mm/2004</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1027527.1027680</ee>
+<url>db/conf/mm/mm2004.html#NaphadeS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/SmithLNNT04" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Belle L. Tseng</author>
+<title>Validity-weighted model vector-based retrieval of video.</title>
+<pages>271-279</pages>
+<year>2004</year>
+<booktitle>Storage and Retrieval Methods and Applications for Multimedia</booktitle>
+<ee>https://doi.org/10.1117/12.536579</ee>
+<crossref>conf/spieSR/2004</crossref>
+<url>db/conf/spieSR/spieSR2004.html#SmithLNNT04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/AdamsILNNNS03" mdate="2017-05-26">
+<author>W. H. Adams</author>
+<author>Giridharan Iyengar</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Chalapathy Neti</author>
+<author>Harriet J. Nock</author>
+<author>John R. Smith</author>
+<title>Semantic Indexing of Multimedia Content Using Visual, Audio, and Text Cues.</title>
+<pages>170-185</pages>
+<year>2003</year>
+<volume>2003</volume>
+<journal>EURASIP J. Adv. Sig. Proc.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1155/S1110865703211173</ee>
+<url>db/journals/ejasp/ejasp2003.html#AdamsILNNNS03</url>
+</article>
+</r>
+<r><article key="journals/imst/SmithWC03" mdate="2017-05-28">
+<author>John R. Smith</author>
+<author>Thomas Wiegand</author>
+<author>Tihao Chiang</author>
+<title>Guest editorial.</title>
+<pages>235</pages>
+<year>2003</year>
+<volume>13</volume>
+<journal>Int. J. Imaging Systems and Technology</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/ima.10061</ee>
+<url>db/journals/imst/imst13.html#SmithWC03</url>
+</article>
+</r>
+<r><article key="journals/tcsv/TabatabaiPSYH03" mdate="2017-05-26">
+<author>Ali J. Tabatabai</author>
+<author>Sethuraman Panchanathan</author>
+<author>John R. Smith</author>
+<author>Hiroshi Yasuda</author>
+<author>Siegfried Handschuh</author>
+<title>Introduction to the special issue on conceptual and dynamical aspects of multimedia content description.</title>
+<pages>1-4</pages>
+<year>2003</year>
+<volume>13</volume>
+<journal>IEEE Trans. Circuits Syst. Video Techn.</journal>
+<number>1</number>
+<url>db/journals/tcsv/tcsv13.html#TabatabaiPSYH03</url>
+<ee>https://doi.org/10.1109/TCSVT.2002.808092</ee>
+</article>
+</r>
+<r><inproceedings key="conf/civr/NaphadeS03" mdate="2017-05-23">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>A Hybrid Framework for Detecting the Semantics of Concepts and Context.</title>
+<pages>196-205</pages>
+<ee>https://doi.org/10.1007/3-540-45113-7_20</ee>
+<year>2003</year>
+<crossref>conf/civr/2003</crossref>
+<booktitle>CIVR</booktitle>
+<url>db/conf/civr/civr2003.html#NaphadeS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/JaimesTS03" mdate="2017-05-23">
+<author>Alejandro Jaimes</author>
+<author>Belle L. Tseng</author>
+<author>John R. Smith</author>
+<title>Modal Keywords, Ontologies, and Reasoning for Video Understanding.</title>
+<pages>248-259</pages>
+<ee>https://doi.org/10.1007/3-540-45113-7_25</ee>
+<year>2003</year>
+<crossref>conf/civr/2003</crossref>
+<booktitle>CIVR</booktitle>
+<url>db/conf/civr/civr2003.html#JaimesTS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/LinTNNS03" mdate="2017-05-25">
+<author>Ching-Yung Lin</author>
+<author>Belle L. Tseng</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>VideoAL: a novel end-to-end MPEG-7 video automatic labeling system.</title>
+<pages>53-56</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2003-3.html#LinTNNS03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1247179</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NaphadeS03" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Learning visual models of semantic concepts.</title>
+<pages>531-534</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip2003-2.html#NaphadeS03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246734</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/TsengLNNS03" mdate="2017-05-25">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Normalized classifier fusion for semantic visual concept detection.</title>
+<pages>535-538</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip2003-2.html#TsengLNNS03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246735</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NaphadeS03a" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Learning regional semantic concepts from incomplete annotation.</title>
+<pages>603-606</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip2003-2.html#NaphadeS03a</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1246752</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NaphadeNS03" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Exploring semantic dependencies for scalable concept detection.</title>
+<pages>625-628</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2003-3.html#NaphadeNS03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1247322</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithJLNNT03" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Alejandro Jaimes</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Belle L. Tseng</author>
+<title>Interactive search fusion methods for video database retrieval.</title>
+<pages>741-744</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2003-1.html#SmithJLNNT03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1247068</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NaphadeLNTS03" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Ching-Yung Lin</author>
+<author>Apostol Natsev</author>
+<author>Belle L. Tseng</author>
+<author>John R. Smith</author>
+<title>A framework for moderate vocabulary semantic visual concept detection.</title>
+<pages>437-440</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1220948</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1220948</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#NaphadeLNTS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NatsevS03" mdate="2017-05-25">
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>Active selection for multi-example querying by content.</title>
+<pages>445-448</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1220950</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1220950</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#NatsevS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SmithNN03" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<title>Multimedia semantic indexing using model vectors.</title>
+<pages>445-448</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1221649</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1221649</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#SmithNN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/TsengLZS03" mdate="2017-05-25">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>DongQing Zhang</author>
+<author>John R. Smith</author>
+<title>Improved text overlay detection in videos using a fusion-based classifier.</title>
+<pages>473-476</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1221351</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1221351</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#TsengLZS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiACCGIJLNSTWWY03" mdate="2018-03-01">
+<author>Chung-Sheng Li</author>
+<author>Charu C. Aggarwal</author>
+<author>Murray Campbell</author>
+<author>Yuan-Chi Chang</author>
+<author>Gregory Glass</author>
+<author>Vijay S. Iyengar</author>
+<author>Mahesh Joshi</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<author>Min Wang 0001</author>
+<author>Kun-Lung Wu</author>
+<author>Philip S. Yu</author>
+<title>Epi-SPIRE: a system for environmental and public health activity monitoring.</title>
+<pages>713-716</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1221017</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1221017</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#LiACCGIJLNSTWWY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/JaimesS03" mdate="2017-05-25">
+<author>Alejandro Jaimes</author>
+<author>John R. Smith</author>
+<title>Semi-automatic, data-driven construction of multimedia ontologies.</title>
+<pages>781-784</pages>
+<year>2003</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2003.1221034</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2003.1221034</ee>
+<crossref>conf/icmcs/2003</crossref>
+<url>db/conf/icmcs/icme2003.html#JaimesS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/LinTNNS03" mdate="2006-02-08">
+<author>Ching-Yung Lin</author>
+<author>Belle L. Tseng</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>MPEG-7 video automatic labeling system.</title>
+<pages>98-99</pages>
+<year>2003</year>
+<crossref>conf/mm/2003</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://doi.acm.org/10.1145/957013.957033</ee>
+<url>db/conf/mm/mm2003.html#LinTNNS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigecom/ChangLS03" mdate="2014-02-24">
+<author>Yuan-Chi Chang</author>
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<title>Searching dynamically bundled goods with pairwise relations.</title>
+<pages>135-143</pages>
+<year>2003</year>
+<crossref>conf/sigecom/2003</crossref>
+<booktitle>EC</booktitle>
+<ee>http://doi.acm.org/10.1145/779928.779945</ee>
+<url>db/conf/sigecom/sigecom2003.html#ChangLS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/LinNNNSTNA03" mdate="2011-02-28">
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Apostol Natsev</author>
+<author>Chalapathy Neti</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<author>Harriet J. Nock</author>
+<author>W. H. Adams</author>
+<title>User-trainable video annotation using multimodal cues.</title>
+<pages>403-404</pages>
+<year>2003</year>
+<crossref>conf/sigir/2003</crossref>
+<booktitle>SIGIR</booktitle>
+<ee>http://doi.acm.org/10.1145/860435.860522</ee>
+<url>db/conf/sigir/sigir2003.html#LinNNNSTNA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/NaphadeS03" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>Role of classifiers in multimedia content management.</title>
+<pages>89-99</pages>
+<year>2003</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.479746</ee>
+<crossref>conf/spieSR/2003</crossref>
+<url>db/conf/spieSR/spieSR2003.html#NaphadeS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/JaimesNNST03" mdate="2017-05-25">
+<author>Alejandro Jaimes</author>
+<author>Milind R. Naphade</author>
+<author>Harriet J. Nock</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<title>Context-enhanced video understanding.</title>
+<pages>277-288</pages>
+<year>2003</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.479745</ee>
+<crossref>conf/spieSR/2003</crossref>
+<url>db/conf/spieSR/spieSR2003.html#JaimesNNST03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/NatsevS03" mdate="2017-05-25">
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<title>New anchor selection methods for image retrieval.</title>
+<pages>474-481</pages>
+<year>2003</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.479744</ee>
+<crossref>conf/spieSR/2003</crossref>
+<url>db/conf/spieSR/spieSR2003.html#NatsevS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlbv/Smith03" mdate="2017-05-24">
+<author>John R. Smith</author>
+<title>Towards Semantic Universal Multimedia Access.</title>
+<pages>13-14</pages>
+<ee>https://doi.org/10.1007/978-3-540-39798-4_3</ee>
+<year>2003</year>
+<crossref>conf/vlbv/2003</crossref>
+<booktitle>VLBV</booktitle>
+<url>db/conf/vlbv/vlbv2003.html#Smith03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mm/2003" mdate="2011-12-09">
+<editor>Lawrence A. Rowe</editor>
+<editor>Harrick M. Vin</editor>
+<editor>Thomas Plagemann</editor>
+<editor>Prashant J. Shenoy</editor>
+<editor>John R. Smith</editor>
+<title>Proceedings of the Eleventh ACM International Conference on Multimedia, Berkeley, CA, USA, November 2-8, 2003</title>
+<booktitle>ACM Multimedia</booktitle>
+<isbn>1-58113-722-2</isbn>
+<publisher>ACM</publisher>
+<year>2003</year>
+<url>db/conf/mm/mm2003.html</url>
+<ee>http://dl.acm.org/citation.cfm?id=957013</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/rfc/rfc3614" mdate="2017-11-26">
+<author>John R. Smith</author>
+<title>A Uniform Resource Name (URN) Namespace for the Motion Picture Experts Group (MPEG).</title>
+<year>2003</year>
+<pages>1-6</pages>
+<journal>RFC</journal>
+<volume>3614</volume>
+<month>September</month>
+<ee>https://doi.org/10.17487/RFC3614</ee>
+<url>db/journals/rfc/rfc3600-3699.html</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEmsp/TsengLS02" mdate="2017-05-19">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Video personalization and summarization system.</title>
+<pages>424-427</pages>
+<year>2002</year>
+<crossref>conf/IEEEmsp/2002</crossref>
+<booktitle>IEEE Workshop on Multimedia Signal Processing</booktitle>
+<url>db/conf/IEEEmsp/msp2002.html#TsengLS02</url>
+<ee>https://doi.org/10.1109/MMSP.2002.1203336</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/SmeatonOCVDHRSW02" mdate="2017-05-26">
+<author>Alan F. Smeaton</author>
+<author>Paul Over</author>
+<author>Cash Costello</author>
+<author>Arjen P. de Vries</author>
+<author>David S. Doermann</author>
+<author>Alexander G. Hauptmann</author>
+<author>Mark E. Rorvig</author>
+<author>John R. Smith</author>
+<author>Lide Wu</author>
+<title>The TREC2001 Video Track: Information Retrieval on Digital Video Information.</title>
+<pages>266-275</pages>
+<year>2002</year>
+<crossref>conf/ercimdl/2002</crossref>
+<booktitle>ECDL</booktitle>
+<ee>https://doi.org/10.1007/3-540-45747-X_20</ee>
+<url>db/conf/ercimdl/ecdl2002.html#SmeatonOCVDHRSW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BasuNS02" mdate="2017-05-19">
+<author>Sankar Basu</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<title>A statistical modeling approach to content based retrieval.</title>
+<pages>4080-4083</pages>
+<year>2002</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2002.5745554</ee>
+<crossref>conf/icassp/2002</crossref>
+<url>db/conf/icassp/icassp2002.html#BasuNS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NaphadeBSLT02" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Sankar Basu</author>
+<author>John R. Smith</author>
+<author>Ching-Yung Lin</author>
+<author>Belle L. Tseng</author>
+<title>Modeling semantic concepts to support query by keywords in video.</title>
+<pages>145-148</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2002-1.html#NaphadeBSLT02</url>
+<ee>https://doi.org/10.1109/ICIP.2002.1037980</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NaphadeLS02" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Video texture indexing using spatio-temporal wavelets.</title>
+<pages>437-440</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (2)</booktitle>
+<url>db/conf/icip/icip2002-2.html#NaphadeLS02</url>
+<ee>https://doi.org/10.1109/ICIP.2002.1039981</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithBLNT02" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Sankar Basu</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Belle L. Tseng</author>
+<title>Interactive content-based retrieval of video.</title>
+<pages>976-979</pages>
+<year>2002</year>
+<crossref>conf/icip/2002</crossref>
+<booktitle>ICIP (1)</booktitle>
+<url>db/conf/icip/icip2002-1.html#SmithBLNT02</url>
+<ee>https://doi.org/10.1109/ICIP.2002.1038191</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LinTS02" mdate="2017-05-25">
+<author>Ching-Yung Lin</author>
+<author>Belle L. Tseng</author>
+<author>John R. Smith</author>
+<title>Universal MPEG content access using compressed-domain system stream editing techniques.</title>
+<pages>73-76</pages>
+<year>2002</year>
+<booktitle>ICME (2)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035419</ee>
+<crossref>conf/icmcs/2002-2</crossref>
+<url>db/conf/icmcs/icme2002-2.html#LinTS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SmithN02" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Paul Natsev</author>
+<title>Spatial and feature normalization for content-based retrieval.</title>
+<pages>193-196</pages>
+<year>2002</year>
+<booktitle>ICME (1)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035751</ee>
+<crossref>conf/icmcs/2002-1</crossref>
+<url>db/conf/icmcs/icme2002-1.html#SmithN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NatsevS02" mdate="2017-05-25">
+<author>Paul Natsev</author>
+<author>John R. Smith</author>
+<title>A study of image retrieval by anchoring.</title>
+<pages>421-424</pages>
+<year>2002</year>
+<booktitle>ICME (2)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035628</ee>
+<crossref>conf/icmcs/2002-2</crossref>
+<url>db/conf/icmcs/icme2002-2.html#NatsevS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/NaphadeLS02" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Learning semantic multimedia representations from a small set of examples.</title>
+<pages>513-516</pages>
+<year>2002</year>
+<booktitle>ICME (2)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035661</ee>
+<crossref>conf/icmcs/2002-2</crossref>
+<url>db/conf/icmcs/icme2002-2.html#NaphadeLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/TsengLS02" mdate="2017-05-25">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Real-time video surveillance for traffic monitoring using virtual line analysis.</title>
+<pages>541-544</pages>
+<year>2002</year>
+<booktitle>ICME (2)</booktitle>
+<ee>https://doi.org/10.1109/ICME.2002.1035671</ee>
+<crossref>conf/icmcs/2002-2</crossref>
+<url>db/conf/icmcs/icme2002-2.html#TsengLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/NaphadeBSLT02" mdate="2017-05-24">
+<author>Milind R. Naphade</author>
+<author>Sankar Basu</author>
+<author>John R. Smith</author>
+<author>Ching-Yung Lin</author>
+<author>Belle L. Tseng</author>
+<title>A Statistical Modeling Approach to Content Based Video Retrieval.</title>
+<pages>953-956</pages>
+<year>2002</year>
+<crossref>conf/icpr/2002</crossref>
+<booktitle>ICPR (2)</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2002.1048463</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2002.1048463</ee>
+<url>db/conf/icpr/icpr2002-2.html#NaphadeBSLT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcis/ChangHLS02" mdate="2003-05-19">
+<author>Yuan-Chi Chang</author>
+<author>Richard Han</author>
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<title>Secure Transcoding of Internet Content.</title>
+<pages>940-943</pages>
+<year>2002</year>
+<crossref>conf/jcis/2002</crossref>
+<booktitle>JCIS</booktitle>
+<url>db/conf/jcis/jcis2002.html#ChangHLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/NaphadeLSTB02" mdate="2017-05-25">
+<author>Milind R. Naphade</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<author>Sankar Basu</author>
+<title>Learning to annotate video databases.</title>
+<pages>264-275</pages>
+<year>2002</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.451096</ee>
+<crossref>conf/spieSR/2002</crossref>
+<url>db/conf/spieSR/spieSR2002.html#NaphadeLSTB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/TsengLS02" mdate="2017-05-25">
+<author>Belle L. Tseng</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<title>Video summarization and personalization for pervasive mobile devices.</title>
+<pages>359-370</pages>
+<year>2002</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.451106</ee>
+<crossref>conf/spieSR/2002</crossref>
+<url>db/conf/spieSR/spieSR2002.html#TsengLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/AdamsINNAPSDJLLNNSTGSAZ02" mdate="2015-04-07">
+<author>Bill Adams</author>
+<author>Giridharan Iyengar</author>
+<author>Chalapathy Neti</author>
+<author>Harriet J. Nock</author>
+<author>Arnon Amir</author>
+<author>Haim H. Permuter</author>
+<author>Savitha Srinivasan</author>
+<author>Chitra Dorai</author>
+<author>Alejandro Jaimes</author>
+<author>Christian A. Lang</author>
+<author>Ching-Yung Lin</author>
+<author>Apostol Natsev</author>
+<author>Milind R. Naphade</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<author>Sugata Ghosal</author>
+<author>Raghavendra Singh</author>
+<author>T. V. Ashwin</author>
+<author>DongQing Zhang</author>
+<title>IBM Research TREC 2002 Video Retrieval System.</title>
+<year>2002</year>
+<crossref>conf/trec/2002</crossref>
+<booktitle>TREC</booktitle>
+<ee>http://trec.nist.gov/pubs/trec11/papers/ibm.smith.vid.pdf</ee>
+<url>db/conf/trec/trec2002.html#AdamsINNAPSDJLLNNSTGSAZ02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasis/Smith01" mdate="2017-05-28">
+<author>John R. Smith</author>
+<title>Quantitative assessment of image retrieval effectiveness.</title>
+<pages>969-979</pages>
+<year>2001</year>
+<volume>52</volume>
+<journal>JASIST</journal>
+<number>11</number>
+<url>db/journals/jasis/jasis52.html#Smith01</url>
+<ee>https://doi.org/10.1002/asi.1162</ee>
+</article>
+</r>
+<r><article key="journals/tcsv/SalembierS01" mdate="2017-05-26">
+<author>Philippe Salembier</author>
+<author>John R. Smith</author>
+<title>MPEG-7 multimedia description schemes.</title>
+<pages>748-759</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>IEEE Trans. Circuits Syst. Video Techn.</journal>
+<number>6</number>
+<url>db/journals/tcsv/tcsv11.html#SalembierS01</url>
+<ee>https://doi.org/10.1109/76.927435</ee>
+</article>
+</r>
+<r><inproceedings key="conf/caip/BenitezZCS01" mdate="2017-05-21">
+<author>Ana B. Benitez</author>
+<author>Di Zhong</author>
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<title>MPEG-7 MDS Content Description Tools and Applications.</title>
+<pages>41-52</pages>
+<year>2001</year>
+<crossref>conf/caip/2001</crossref>
+<booktitle>CAIP</booktitle>
+<ee>https://doi.org/10.1007/3-540-44692-3_6</ee>
+<url>db/conf/caip/caip2001.html#BenitezZCS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithCL01" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Yuan-Chi Chang</author>
+<author>Chung-Sheng Li</author>
+<title>Multi-object multi-feature content based search using MPEG-7.</title>
+<pages>584-587</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2001.958186</ee>
+<url>db/conf/icip/icip2001-3.html#SmithCL01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/HillCLCBST01" mdate="2017-05-25">
+<author>Matthew L. Hill</author>
+<author>Vittorio Castelli</author>
+<author>Chung-Sheng Li</author>
+<author>Yuan-Chi Chang</author>
+<author>Lawrence D. Bergman</author>
+<author>John R. Smith</author>
+<author>Barbara J. Thompson</author>
+<title>Solarspire: querying temporal solar imagery by content.</title>
+<pages>834-837</pages>
+<year>2001</year>
+<crossref>conf/icip/2001</crossref>
+<booktitle>ICIP (1)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2001.959175</ee>
+<url>db/conf/icip/icip2001-1.html#HillCLCBST01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/LiCS01" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>Yuan-Chi Chang</author>
+<author>John R. Smith</author>
+<title>An e-Marketplace Infrastructure for Model-Based Matchmaking between Consumers and Providers of Multimodal Earth Science Data.</title>
+<year>2001</year>
+<crossref>conf/icmcs/2001</crossref>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2001.1237952</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICME.2001.1237952</ee>
+<url>db/conf/icmcs/icme2001.html#LiCS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/BenitezCS01" mdate="2011-12-23">
+<author>Ana B. Benitez</author>
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<title>IMKA: a multimedia organization system combining perceptual and semantic knowledge.</title>
+<pages>630-631</pages>
+<year>2001</year>
+<crossref>conf/mm/2001</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=500141.500267</ee>
+<url>db/conf/mm/mm2001.html#BenitezCS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/HanLSTH01" mdate="2011-12-23">
+<author>Richard Han</author>
+<author>Ching-Yung Lin</author>
+<author>John R. Smith</author>
+<author>Belle L. Tseng</author>
+<author>Vida Ha</author>
+<title>CPU/power-constrained mobile devices.</title>
+<pages>632-633</pages>
+<year>2001</year>
+<crossref>conf/mm/2001</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=500141.500268</ee>
+<url>db/conf/mm/mm2001.html#HanLSTH01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Smith01" mdate="2012-09-14">
+<author>John R. Smith</author>
+<title>MPEG-7 Standard for Multimedia Databases.</title>
+<pages>627</pages>
+<year>2001</year>
+<crossref>conf/sigmod/2001</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2001.html#Smith01</url>
+<ee>http://doi.acm.org/10.1145/375663.375814</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/NatsevSCLV01" mdate="2017-05-25">
+<author>Apostol Natsev</author>
+<author>John R. Smith</author>
+<author>Yuan-Chi Chang</author>
+<author>Chung-Sheng Li</author>
+<author>Jeffrey Scott Vitter</author>
+<title>Constrained querying of multimedia databases: issues and approaches.</title>
+<pages>74-85</pages>
+<year>2001</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.410976</ee>
+<crossref>conf/spieSR/2001</crossref>
+<url>db/conf/spieSR/spieSR2001.html#NatsevSCLV01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/BenitezS01" mdate="2017-05-25">
+<author>Ana B. Benitez</author>
+<author>John R. Smith</author>
+<title>New frontiers for intelligent content-based retrieval.</title>
+<pages>141-152</pages>
+<year>2001</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.410922</ee>
+<crossref>conf/spieSR/2001</crossref>
+<url>db/conf/spieSR/spieSR2001.html#BenitezS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiBCCHS01" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<author>Yuan-Chi Chang</author>
+<author>Matthew L. Hill</author>
+<author>John R. Smith</author>
+<title>Distributed resource discovery through exchanges of examples and classifiers.</title>
+<pages>153-160</pages>
+<year>2001</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.410923</ee>
+<crossref>conf/spieSR/2001</crossref>
+<url>db/conf/spieSR/spieSR2001.html#LiBCCHS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/SmithSABILNPT01" mdate="2015-04-07">
+<author>John R. Smith</author>
+<author>Savitha Srinivasan</author>
+<author>Arnon Amir</author>
+<author>Sankar Basu</author>
+<author>Giridharan Iyengar</author>
+<author>Ching-Yung Lin</author>
+<author>Milind R. Naphade</author>
+<author>Dulce B. Ponceleon</author>
+<author>Belle L. Tseng</author>
+<title>Integrating Features, Models, and Semantics for TREC Video Retrieval.</title>
+<year>2001</year>
+<crossref>conf/trec/2001</crossref>
+<booktitle>TREC</booktitle>
+<ee>http://trec.nist.gov/pubs/trec10/papers/IBM-TREC-VIDEO-2001.pdf</ee>
+<url>db/conf/trec/trec2001.html#SmithSABILNPT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/NatsevCSLV01" mdate="2012-09-17">
+<author>Apostol Natsev</author>
+<author>Yuan-Chi Chang</author>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<author>Jeffrey Scott Vitter</author>
+<title>Supporting Incremental Join Queries on Ranked Inputs.</title>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#NatsevCSLV01</url>
+<pages>281-290</pages>
+<ee>http://www.vldb.org/conf/2001/P281.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jodl/BergmanCLS00" mdate="2015-03-06">
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<title>SPIRE: a digital library for scientific information.</title>
+<pages>85-99</pages>
+<year>2000</year>
+<volume>3</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>1</number>
+<ee>http://link.springer.com/article/10.1007/PL00021478</ee>
+<url>db/journals/jodl/jodl3.html#BergmanCLS00</url>
+</article>
+</r>
+<r><article key="journals/spic/BenitezPCPHSLBJ00" mdate="2017-05-28">
+<author>Ana B. Benitez</author>
+<author>Seungyup Paek</author>
+<author>Shih-Fu Chang</author>
+<author>Atul Puri</author>
+<author>Qian Huang</author>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<author>Lawrence D. Bergman</author>
+<author>Charles N. Judice</author>
+<title>Object-based multimedia content description schemes and applications for MPEG-7.</title>
+<pages>235-269</pages>
+<year>2000</year>
+<volume>16</volume>
+<journal>Sig. Proc.: Image Comm.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1016/S0923-5965(00)00030-8</ee>
+<url>db/journals/spic/spic16.html#BenitezPCPHSLBJ00</url>
+</article>
+</r>
+<r><inproceedings key="conf/delos/Smith00" mdate="2017-11-06">
+<author>John R. Smith</author>
+<title>Interoperable Content-based Access of Multimedia in Digital Libraries (invited talk).</title>
+<year>2000</year>
+<booktitle>DELOS</booktitle>
+<ee>http://www.ercim.org/publication/ws-proceedings/DelNoe01/23_Smith.pdf</ee>
+<url>db/conf/delos/delos2000.html#Smith00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/LiCBS00" mdate="2002-01-03">
+<author>Chung-Sheng Li</author>
+<author>Yuan-Chi Chang</author>
+<author>Lawrence D. Bergman</author>
+<author>John R. Smith</author>
+<title>Model-Based Multi-Modal Information Retrieval from Large Archives.</title>
+<pages>F38-F44</pages>
+<year>2000</year>
+<crossref>conf/icdcsw/2000</crossref>
+<booktitle>ICDCS Workshop of Knowledge Discovery and Data Mining in the World-Wide Web</booktitle>
+<url>db/conf/icdcsw/icdcsw2000.html#LiCBS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SmithL00" mdate="2014-10-17">
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>Adaptive Synthesis in Progressive Retrieval of Audio-Visual Data.</title>
+<pages>339-342</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (I)</booktitle>
+<url>db/conf/icmcs/icme2000.html#SmithL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SmithB00" mdate="2014-10-17">
+<author>John R. Smith</author>
+<author>Ana B. Benitez</author>
+<title>Conceptual Modeling of Audio-Visual Content.</title>
+<pages>915-</pages>
+<year>2000</year>
+<crossref>conf/icmcs/2000</crossref>
+<booktitle>IEEE International Conference on Multimedia and Expo (II)</booktitle>
+<url>db/conf/icmcs/icme2000.html#SmithB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChangBCLLS00" mdate="2013-12-09">
+<ee>http://doi.acm.org/10.1145/342009.335433</ee>
+<author>Yuan-Chi Chang</author>
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<author>Chung-Sheng Li</author>
+<author>Ming-Ling Lo</author>
+<author>John R. Smith</author>
+<title>The Onion Technique: Indexing for Linear Optimization Queries.</title>
+<pages>391-402</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#ChangBCLLS00</url>
+<cite>conf/pods/AgarwalAEFV98</cite>
+<cite>conf/icdt/BeyerGRS99</cite>
+<cite>conf/sigmod/BerchtoldBK98</cite>
+<cite>conf/compgeom/Chan96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/Fagin98</cite>
+<cite>...</cite>
+<cite>conf/pods/GoldsteinRSY97</cite>
+<cite>conf/compgeom/MatousekS92</cite>
+<cite>...</cite>
+<cite>conf/compgeom/Seidel90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiBCS00" mdate="2013-12-09">
+<ee>http://doi.acm.org/10.1145/342009.336583</ee>
+<author>Chung-Sheng Li</author>
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<author>John R. Smith</author>
+<title>SPIRE: A Progressive Content-Based Spatial Image Retrieval Engine.</title>
+<pages>598</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#LiBCS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiCSBC00" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>Yuan-Chi Chang</author>
+<author>John R. Smith</author>
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<title>Framework for efficient processing of content-based fuzzy Cartesian queries.</title>
+<pages>64-75</pages>
+<year>2000</year>
+<booktitle>Storage and Retrieval for Media Databases</booktitle>
+<ee>https://doi.org/10.1117/12.373593</ee>
+<crossref>conf/spieSR/2000</crossref>
+<url>db/conf/spieSR/spieSR2000.html#LiCSBC00</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/SmithL99" mdate="2017-05-28">
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>Image Classification and Querying Using Composite Region Templates.</title>
+<pages>165-174</pages>
+<year>1999</year>
+<volume>75</volume>
+<journal>Computer Vision and Image Understanding</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1006/cviu.1999.0771</ee>
+<url>db/journals/cviu/cviu75.html#SmithL99</url>
+</article>
+</r>
+<r><article key="journals/mms/SmithC99" mdate="2017-05-26">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Integrated Spatial and Feature Image Query.</title>
+<pages>129-140</pages>
+<year>1999</year>
+<volume>7</volume>
+<journal>Multimedia Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s005300050116</ee>
+<url>db/journals/mms/mms7.html#SmithC99</url>
+</article>
+</r>
+<r><article key="journals/tmm/MohanSL99" mdate="2017-05-28">
+<author>Rakesh Mohan</author>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>Adapting Multimedia Internet Content for Universal Access.</title>
+<pages>104-114</pages>
+<year>1999</year>
+<volume>1</volume>
+<journal>IEEE Trans. Multimedia</journal>
+<number>1</number>
+<url>db/journals/tmm/tmm1.html#MohanSL99</url>
+<ee>https://doi.org/10.1109/6046.748175</ee>
+</article>
+</r>
+<r><article key="journals/tmm/Smith99" mdate="2017-05-28">
+<author>John R. Smith</author>
+<title>VideoZoom Spatio-Temporal Video Browser.</title>
+<pages>157-171</pages>
+<year>1999</year>
+<volume>1</volume>
+<journal>IEEE Trans. Multimedia</journal>
+<number>2</number>
+<url>db/journals/tmm/tmm1.html#Smith99</url>
+<ee>https://doi.org/10.1109/6046.766737</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/SmithL99" mdate="2012-09-12">
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>An Adaptive View Element Framework for Multi-Dimensional Data Management.</title>
+<pages>308-315</pages>
+<cdrom>CIKM1999/P308.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/cikm/99</crossref>
+<booktitle>CIKM</booktitle>
+<ee>http://doi.acm.org/10.1145/319950.320021</ee>
+<url>db/conf/cikm/cikm99.html#SmithL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/MohanSL99" mdate="2017-05-25">
+<author>Rakesh Mohan</author>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<title>Adapting Content to Client Resources in the Internet.</title>
+<pages>302-307</pages>
+<year>1999</year>
+<crossref>conf/icmcs/1999-1</crossref>
+<booktitle>ICMCS, Vol. 1</booktitle>
+<ee>https://doi.org/10.1109/MMCS.1999.779221</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMCS.1999.779221</ee>
+<url>db/conf/icmcs/icmcs99-1.html#MohanSL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SmithML99" mdate="2011-12-23">
+<author>John R. Smith</author>
+<author>Rakesh Mohan</author>
+<author>Chung-Sheng Li</author>
+<title>Scalable multimedia delivery for pervasive computing.</title>
+<pages>131-140</pages>
+<year>1999</year>
+<crossref>conf/mm/1999-1</crossref>
+<booktitle>ACM Multimedia (1)</booktitle>
+<ee>http://doi.acm.org/10.1145/319463.319480</ee>
+<url>db/conf/mm/mm1999-1.html#SmithML99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiSCB99" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<author>Vittorio Castelli</author>
+<author>Lawrence D. Bergman</author>
+<title>Comparing texture feature sets for retrieving core images in petroleum applications.</title>
+<pages>2-11</pages>
+<year>1999</year>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<ee>https://doi.org/10.1117/12.333828</ee>
+<crossref>conf/spieSR/1999</crossref>
+<url>db/conf/spieSR/spieSR99.html#LiSCB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiCSB99" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>Vittorio Castelli</author>
+<author>John R. Smith</author>
+<author>Lawrence D. Bergman</author>
+<title>Combining indexing and learning in iterative refinement.</title>
+<pages>390-401</pages>
+<year>1999</year>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<ee>https://doi.org/10.1117/12.333858</ee>
+<crossref>conf/spieSR/1999</crossref>
+<url>db/conf/spieSR/spieSR99.html#LiCSB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/SmithCL99" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Vittorio Castelli</author>
+<author>Chung-Sheng Li</author>
+<title>Adaptive storage and retrieval of large compressed images.</title>
+<pages>467-479</pages>
+<year>1999</year>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<ee>https://doi.org/10.1117/12.333866</ee>
+<crossref>conf/spieSR/1999</crossref>
+<url>db/conf/spieSR/spieSR99.html#SmithCL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/Smith99" mdate="2017-05-25">
+<author>John R. Smith</author>
+<title>Query vector projection access method.</title>
+<pages>511-522</pages>
+<year>1999</year>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<ee>https://doi.org/10.1117/12.333871</ee>
+<crossref>conf/spieSR/1999</crossref>
+<url>db/conf/spieSR/spieSR99.html#Smith99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drr/PaekS98" mdate="2017-05-24">
+<author>Seungyup Paek</author>
+<author>John R. Smith</author>
+<title>Detecting image purpose in World Wide Web documents.</title>
+<pages>151-159</pages>
+<year>1998</year>
+<booktitle>Document Recognition</booktitle>
+<ee>https://doi.org/10.1117/12.304628</ee>
+<crossref>conf/drr/1998</crossref>
+<url>db/conf/drr/dr1998.html#PaekS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/CastelliBLS98" mdate="2017-05-23">
+<author>Vittorio Castelli</author>
+<author>Lawrence D. Bergman</author>
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<title>Search and Progressive Image Retrieval from Distributed Image/Video Databases: The SPIRE Project.</title>
+<pages>157-168</pages>
+<ee>https://doi.org/10.1007/3-540-49653-X_10</ee>
+<year>1998</year>
+<crossref>conf/ercimdl/1998</crossref>
+<booktitle>ECDL</booktitle>
+<url>db/conf/ercimdl/ercimdl98.html#CastelliBLS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hvei/RogowitzFSBK98" mdate="2017-05-21">
+<author>Bernice E. Rogowitz</author>
+<author>Thomas Frese</author>
+<author>John R. Smith</author>
+<author>Charles A. Bouman</author>
+<author>Edward B. Kalin</author>
+<title>Perceptual image similarity experiments.</title>
+<pages>576-590</pages>
+<year>1998</year>
+<booktitle>Human Vision and Electronic Imaging</booktitle>
+<ee>https://doi.org/10.1117/12.320148</ee>
+<crossref>conf/hvei/1998</crossref>
+<url>db/conf/hvei/hvei1998.html#RogowitzFSBK98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LiMS98" mdate="2017-05-19">
+<author>Chung-Sheng Li</author>
+<author>Rakesh Mohan</author>
+<author>John R. Smith</author>
+<title>Multimedia content description in the InfoPyramid.</title>
+<pages>3789-3792</pages>
+<year>1998</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1998.679709</ee>
+<crossref>conf/icassp/1998</crossref>
+<url>db/conf/icassp/icassp1998.html#LiMS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithML98" mdate="2017-02-02">
+<author>John R. Smith</author>
+<author>Rakesh Mohan</author>
+<author>Chung-Sheng Li</author>
+<title>Content-based Transcoding of Images in the Internet.</title>
+<pages>7-11</pages>
+<year>1998</year>
+<crossref>conf/icip/1998</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip1998-3.html#SmithML98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/SmithLCJ98" mdate="2017-03-29">
+<crossref>conf/pods/98</crossref>
+<author>John R. Smith</author>
+<author>Chung-Sheng Li</author>
+<author>Vittorio Castelli</author>
+<author>Anant Jhingran</author>
+<title>Dynamic Assembly of Views in Data Cubes.</title>
+<pages>274-283</pages>
+<year>1998</year>
+<booktitle>PODS</booktitle>
+<url>db/conf/pods/pods98.html#SmithLCJ98</url>
+<ee>http://doi.acm.org/10.1145/275487.275518</ee>
+<cdrom>journals/anthology/cd1-3:PODS98/P274.PDF</cdrom>
+<cdrom>journals/anthology/dvd1:text/1-3/PODS98/P274.PDF</cdrom>
+<cite>conf/icde/AgrawalGS97</cite>
+<cite>conf/vldb/AgarwalADGNRS96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/GrayBLP96</cite>
+<cite>conf/icde/GuptaHRU97</cite>
+<cite>conf/sigmod/HarinarayanRU96</cite>
+<cite>conf/sigmod/HoAMS97</cite>
+<cite>conf/vldb/RossS97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ZhaoDN97</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiSBC98" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<author>Lawrence D. Bergman</author>
+<author>Vittorio Castelli</author>
+<title>Sequential Processing for Content-Based Retrieval of Composite Objects.</title>
+<pages>2-13</pages>
+<year>1998</year>
+<crossref>conf/spieSR/1998</crossref>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<url>db/conf/spieSR/spieSR98.html#LiSBC98</url>
+<ee>https://doi.org/10.1117/12.298434</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/LiSC98" mdate="2017-05-25">
+<author>Chung-Sheng Li</author>
+<author>John R. Smith</author>
+<author>Vittorio Castelli</author>
+<title>S-STIR: Similarity Search Through Iterative Refinement.</title>
+<pages>250-258</pages>
+<year>1998</year>
+<crossref>conf/spieSR/1998</crossref>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<url>db/conf/spieSR/spieSR98.html#LiSC98</url>
+<ee>https://doi.org/10.1117/12.298458</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/ChangSBB97" mdate="2011-06-07">
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<author>Mandis Beigi</author>
+<author>Ana B. Benitez</author>
+<title>Visual Information Retrieval from Large Distributed Online Repositories.</title>
+<pages>63-71</pages>
+<year>1997</year>
+<volume>40</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm40.html#ChangSBB97</url>
+<ee>http://doi.acm.org/10.1145/265563.265573</ee>
+</article>
+</r>
+<r><article key="journals/dlib/ChangSMWZ97" mdate="2012-03-20">
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<author>Horace J. Meng</author>
+<author>Hualu Wang</author>
+<author>Di Zhong</author>
+<title>Finding Images/Video in Large Archives: Columbia's Content-Based Visual Query Project.</title>
+<year>1997</year>
+<volume>3</volume>
+<journal>D-Lib Magazine</journal>
+<number>2</number>
+<ee>http://www.dlib.org/dlib/february97/columbia/02chang.html</ee>
+<url>db/journals/dlib/dlib3.html#ChangSMWZ97</url>
+</article>
+</r>
+<r><article key="journals/ieeemm/SmithC97" mdate="2017-05-18">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Visually Searching the Web for Content.</title>
+<pages>12-20</pages>
+<year>1997</year>
+<volume>4</volume>
+<journal>IEEE MultiMedia</journal>
+<number>3</number>
+<url>db/journals/ieeemm/ieeemm4.html#SmithC97</url>
+<ee>https://doi.org/10.1109/93.621578</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/93.621578</ee>
+</article>
+</r>
+<r><article key="journals/jodl/AhoCMRSZ98" mdate="2017-05-17">
+<author>Alfred V. Aho</author>
+<author>Shih-Fu Chang</author>
+<author>Kathleen McKeown</author>
+<author>Dragomir R. Radev</author>
+<author>John R. Smith</author>
+<author>Kazi A. Zaman</author>
+<title>Columbia Digital News Project: An Environment for Briefing and Search over Multimedia Information.</title>
+<pages>377-385</pages>
+<year>1997</year>
+<volume>1</volume>
+<journal>Int. J. on Digital Libraries</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s007990050030</ee>
+<url>db/journals/jodl/jodl1.html#AhoCMRSZ98</url>
+</article>
+</r>
+<r><inproceedings key="conf/adl/AhoCMRSZ97" mdate="2017-05-23">
+<author>Alfred V. Aho</author>
+<author>Shih-Fu Chang</author>
+<author>Kathleen McKeown</author>
+<author>Dragomir R. Radev</author>
+<author>John R. Smith</author>
+<author>Kazi A. Zaman</author>
+<title>Columbia Digital News System An Environment for Briefing and Search over Multimedia Information.</title>
+<pages>82-94</pages>
+<year>1997</year>
+<crossref>conf/adl/1997</crossref>
+<booktitle>ADL</booktitle>
+<ee>https://doi.org/10.1109/ADL.1997.601203</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ADL.1997.601203</ee>
+<url>db/conf/adl/adl97.html#AhoCMRSZ97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/ChangSM97" mdate="2017-05-25">
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<author>Horace J. Meng</author>
+<title>Exploring Image Functionalities in WWW Applications- Development of Image/Video Search and Editing Engines.</title>
+<pages>1-4</pages>
+<year>1997</year>
+<crossref>conf/icip/1997</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.1997.631953</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIP.1997.631953</ee>
+<url>db/conf/icip/icip1997-3.html#ChangSM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithC97" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Joint adaptive space and frequency basis selection.</title>
+<pages>702-705</pages>
+<year>1997</year>
+<crossref>conf/icip/1997</crossref>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.1997.632218</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIP.1997.632218</ee>
+<url>db/conf/icip/icip1997-3.html#SmithC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/SmithC97" mdate="2017-05-21">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>SaFe: a general framework for integrated spatial and feature image search.</title>
+<pages>301-306</pages>
+<year>1997</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.1997.602652</ee>
+<crossref>conf/mmsp/1997</crossref>
+<url>db/conf/mmsp/mmsp1997.html#SmithC97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/SmithC97a" mdate="2017-05-21">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Enhancing image search engines in visual information environments.</title>
+<pages>545-552</pages>
+<year>1997</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.1997.602691</ee>
+<crossref>conf/mmsp/1997</crossref>
+<url>db/conf/mmsp/mmsp1997.html#SmithC97a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/SmithC97" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Image and Video Search Engine for the World Wide Web.</title>
+<pages>84-95</pages>
+<year>1997</year>
+<crossref>conf/spieSR/1997</crossref>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<url>db/conf/spieSR/spieSR97.html#SmithC97</url>
+<ee>https://doi.org/10.1117/12.263446</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dpc/ChangSM96" mdate="2002-01-03">
+<author>Shih-Fu Chang</author>
+<author>John R. Smith</author>
+<author>Jianhao Meng</author>
+<title>Efficient Techniques for Feature-Based Image/Video Access and Manipulation.</title>
+<pages>0-</pages>
+<year>1996</year>
+<booktitle>Data Processing Clinic</booktitle>
+<url>db/conf/dpc/dpc96.html#ChangSM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SmithC96" mdate="2017-05-19">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Automated binary texture feature sets for image retrieval.</title>
+<pages>2239-2242</pages>
+<year>1996</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1996.545867</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1996.545867</ee>
+<crossref>conf/icassp/1996</crossref>
+<url>db/conf/icassp/icassp1996.html#SmithC96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithC96" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Local color and texture extraction and spatial query.</title>
+<pages>1011-1014</pages>
+<year>1996</year>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.1996.560998</ee>
+<crossref>conf/icip/1996</crossref>
+<url>db/conf/icip/icip1996-3.html#SmithC96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/SmithC96" mdate="2011-12-23">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>VisualSEEk: A Fully Automated Content-Based Image Query System.</title>
+<pages>87-98</pages>
+<year>1996</year>
+<crossref>conf/mm/1996</crossref>
+<booktitle>ACM Multimedia</booktitle>
+<url>db/conf/mm/mm96.html#SmithC96</url>
+<ee>http://doi.acm.org/10.1145/244130.244151</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spieSR/SmithC96" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Tools and Techniques for Color Image Retrieval.</title>
+<pages>426-437</pages>
+<year>1996</year>
+<crossref>conf/spieSR/1996</crossref>
+<booktitle>Storage and Retrieval for Image and Video Databases (SPIE)</booktitle>
+<url>db/conf/spieSR/spieSR96.html#SmithC96</url>
+<ee>https://doi.org/10.1117/12.234781</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/SmithC95" mdate="2017-05-19">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Frequency and spatially adaptive wavelet packets.</title>
+<pages>2233-2236</pages>
+<year>1995</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1995.479921</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1995.479921</ee>
+<crossref>conf/icassp/1995</crossref>
+<url>db/conf/icassp/icassp1995.html#SmithC95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithC95" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Single color extraction and image query.</title>
+<pages>528-531</pages>
+<year>1995</year>
+<booktitle>ICIP (3)</booktitle>
+<ee>https://doi.org/10.1109/ICIP.1995.537688</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICIP.1995.537688</ee>
+<crossref>conf/icip/1995</crossref>
+<url>db/conf/icip/icip1995-3.html#SmithC95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SmithC94" mdate="2017-05-25">
+<author>John R. Smith</author>
+<author>Shih-Fu Chang</author>
+<title>Transform Features for Texture Classification and Discrimination in Large Image Databases.</title>
+<pages>407-411</pages>
+<year>1994</year>
+<crossref>conf/icip/1994</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip1994-3.html#SmithC94</url>
+<ee>https://doi.org/10.1109/ICIP.1994.413817</ee>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/WilsonADSSBGSW89" mdate="2017-05-27">
+<author>William D. Wilson</author>
+<author>Robert J. Asaro</author>
+<author>Robert W. Dutton</author>
+<author>Juan M. Sanchez</author>
+<author>David J. Srolovitz</author>
+<author>Richard H. Boyd</author>
+<author>William A. Goddard III</author>
+<author>John R. Smith</author>
+<author>Wilhelm G. Wolfer</author>
+<title>The impact of supercomputing capabilities on U.S. materials science and technology.</title>
+<pages>283-293</pages>
+<year>1989</year>
+<volume>5</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/0167-739X(89)90048-4</ee>
+<url>db/journals/fgcs/fgcs5.html#WilsonADSSBGSW89</url>
+</article>
+</r>
+<r><article key="journals/tc/SmithH68" mdate="2017-05-20">
+<author>John R. Smith</author>
+<author>Cyrus O. Harbourt</author>
+<title>An Adaptive Threshold Logic Gate Using Capacitive Analog Weights.</title>
+<pages>78-81</pages>
+<year>1968</year>
+<volume>17</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TC.1968.5008875</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.1968.5008875</ee>
+<url>db/journals/tc/tc17.html#SmithH68</url>
+</article>
+</r>
+<coauthors n="219" nc="4">
+<co c="0"><na f="a/Abedini:Mani">Mani Abedini</na></co>
+<co c="0"><na f="a/Abreu:Andres">Andres Abreu</na></co>
+<co c="0"><na f="a/Adams:Bill">Bill Adams</na></co>
+<co c="0"><na f="a/Adams:W=_H=">W. H. Adams</na></co>
+<co c="0"><na f="a/Aggarwal:Charu_C=">Charu C. Aggarwal</na></co>
+<co c="0"><na f="a/Aho:Alfred_V=">Alfred V. Aho</na></co>
+<co c="0"><na f="a/Aizawa:Kiyoharu">Kiyoharu Aizawa</na></co>
+<co c="0"><na f="a/Allen:Gabrielle">Gabrielle Allen</na></co>
+<co c="0"><na f="a/Amir:Arnon">Arnon Amir</na></co>
+<co c="1"><na f="a/Asaro:Robert_J=">Robert J. Asaro</na></co>
+<co c="0"><na f="a/Ashour:Gal">Gal Ashour</na></co>
+<co c="0"><na f="a/Ashwin:T=_V=">T. V. Ashwin</na></co>
+<co c="0"><na f="b/Babaguchi:Noboru">Noboru Babaguchi</na></co>
+<co c="0"><na f="b/Ballas:Nicolas">Nicolas Ballas</na></co>
+<co c="0"><na f="b/Basu:Sankar">Sankar Basu</na></co>
+<co c="0"><na f="b/Beigi:Mandis">Mandis Beigi</na></co>
+<co c="0"><na f="b/Bengio:Yoshua">Yoshua Bengio</na></co>
+<co c="0"><na f="b/Benitez:Ana_B=">Ana B. Benitez</na></co>
+<co c="0"><na f="b/Bergman:Lawrence_D=">Lawrence D. Bergman</na></co>
+<co c="0"><na f="b/Bhattacharjee:B=">B. Bhattacharjee</na></co>
+<co c="0"><na f="b/Boll:Susanne">Susanne Boll</na></co>
+<co c="0"><na f="b/Bouman:Charles_A=">Charles A. Bouman</na></co>
+<co c="1"><na f="b/Boyd:Richard_H=">Richard H. Boyd</na></co>
+<co c="2"><na f="b/Burke:R=">R. Burke</na></co>
+<co c="0"><na f="c/Cai:Junjie">Junjie Cai</na></co>
+<co c="0"><na f="c/Campbell:Murray">Murray Campbell</na></co>
+<co c="0"><na f="c/Cao:Liangliang">Liangliang Cao</na></co>
+<co c="0"><na f="c/Castelli:Vittorio">Vittorio Castelli</na></co>
+<co c="0"><na f="c/Chakravorty:Rajib">Rajib Chakravorty</na></co>
+<co c="0"><na f="c/Chandakkar:P=_S=">P. S. Chandakkar</na></co>
+<co c="0"><na f="c/Chang:Edward_Y=">Edward Y. Chang</na></co>
+<co c="0"><na f="c/Chang:Kevin_Chen=Chuan">Kevin Chen-Chuan Chang</na></co>
+<co c="0"><na f="c/Chang:Shih=Fu">Shih-Fu Chang</na></co>
+<co c="0"><na f="c/Chang:Shiyu">Shiyu Chang</na></co>
+<co c="0"><na f="c/Chang:Yuan=Chi">Yuan-Chi Chang</na></co>
+<co c="0"><na f="c/Chen:Tao">Tao Chen</na></co>
+<co c="3"><na f="c/Chiang:Tihao">Tihao Chiang</na></co>
+<co c="0" n="2"><na f="c/Cho:Kyunghyun">Kyunghyun Cho</na><na>KyungHyun Cho</na></co>
+<co c="0"><na f="c/Chua:Tat=Seng">Tat-Seng Chua</na></co>
+<co c="0"><na f="c/Codella:Noel_C=_F=">Noel C. F. Codella</na></co>
+<co c="0"><na f="c/Connell:Jonathan_H=">Jonathan H. Connell</na></co>
+<co c="0"><na f="c/Costello:Cash">Cash Costello</na></co>
+<co c="0"><na f="c/Cota:Jozef">Jozef Cota</na></co>
+<co c="0"><na f="c/Curtis:Jon">Jon Curtis</na></co>
+<co c="0"><na f="d/Doermann:David_S=">David S. Doermann</na></co>
+<co c="0"><na f="d/Dorai:Chitra">Chitra Dorai</na></co>
+<co c="0"><na f="d/Duff:Richard">Richard Duff</na></co>
+<co c="1"><na f="d/Dutton:Robert_W=">Robert W. Dutton</na></co>
+<co c="0"><na f="e/Ebadollahi:Shahram">Shahram Ebadollahi</na></co>
+<co c="0"><na f="f/Feris:Rog=eacute=rio_Schmidt">Rog&#233;rio Schmidt Feris</na></co>
+<co c="2"><na f="f/Finucane:Ciar=aacute=n">Ciar&#225;n Finucane</na></co>
+<co c="0"><na f="f/Frese:Thomas">Thomas Frese</na></co>
+<co c="0"><na f="g/Garnavi:Rahil">Rahil Garnavi</na></co>
+<co c="0"><na f="g/Georganas:Nicolas_D=">Nicolas D. Georganas</na></co>
+<co c="0"><na f="g/Ghosal:Sugata">Sugata Ghosal</na></co>
+<co c="0"><na f="g/Glass:Gregory">Gregory Glass</na></co>
+<co c="1"><na f="g/Goddard_III:William_A=">William A. Goddard III</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan">Jonathan Goldstein</na></co>
+<co c="0"><na f="g/Gong:Leiguang">Leiguang Gong</na></co>
+<co c="0"><na f="g/Guo:Guodong">Guodong Guo</na></co>
+<co c="0"><na f="g/Gupta:Amarnath">Amarnath Gupta</na></co>
+<co c="0"><na f="g/Gutman:David">David Gutman</na></co>
+<co c="0"><na f="h/Ha:Vida">Vida Ha</na></co>
+<co c="0" n="2"><na f="h/Halpern:Alan">Alan Halpern</na><na>Allan Halpern</na></co>
+<co c="0"><na f="h/Hammer:Stephen">Stephen Hammer</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Han:Richard">Richard Han</na></co>
+<co c="0"><na f="h/Handschuh:Siegfried">Siegfried Handschuh</na></co>
+<co c="-1"><na f="h/Harbourt:Cyrus_O=">Cyrus O. Harbourt</na></co>
+<co c="0"><na f="h/Haubold:Alexander">Alexander Haubold</na></co>
+<co c="0"><na f="h/Hauptmann:Alexander_G=">Alexander G. Hauptmann</na></co>
+<co c="0"><na f="h/He:Xuming">Xuming He</na></co>
+<co c="0"><na f="h/Helba:Brian">Brian Helba</na></co>
+<co c="0"><na f="h/Hill:Matthew_L=">Matthew L. Hill</na></co>
+<co c="0"><na f="h/Hsu:Winston_H=">Winston H. Hsu</na></co>
+<co c="0"><na f="h/Hua:Gang">Gang Hua</na></co>
+<co c="0"><na f="h/Hua:Xian=Sheng">Xian-Sheng Hua</na></co>
+<co c="0"><na f="h/Huang:Bert">Bert Huang</na></co>
+<co c="0"><na f="h/Huang:Dayong">Dayong Huang</na></co>
+<co c="0"><na f="h/Huang:Qian">Qian Huang</na></co>
+<co c="0"><na f="h/Huang:Thomas_S=">Thomas S. Huang</na></co>
+<co c="0"><na f="h/Huet:Benoit">Benoit Huet</na></co>
+<co c="0"><na f="i/Iyengar:Giridharan">Giridharan Iyengar</na></co>
+<co c="0"><na f="i/Iyengar:Vijay_S=">Vijay S. Iyengar</na></co>
+<co c="-1"><na f="j/Jabri:Marwan_A=">Marwan A. Jabri</na></co>
+<co c="0"><na f="j/Jaimes:Alejandro">Alejandro Jaimes</na></co>
+<co c="0"><na f="j/Jain:Ramesh">Ramesh Jain</na></co>
+<co c="0"><na f="j/Jhingran:Anant">Anant Jhingran</na></co>
+<co c="0"><na f="j/Ji:Rongrong">Rongrong Ji</na></co>
+<co c="0"><na f="j/Jiang:Wei">Wei Jiang</na></co>
+<co c="0"><na f="j/Jin_0001:Xin">Xin Jin 0001</na></co>
+<co c="0"><na f="j/Joshi:Dhiraj">Dhiraj Joshi</na></co>
+<co c="0"><na f="j/Joshi:Mahesh">Mahesh Joshi</na></co>
+<co c="0"><na f="j/Judice:Charles_N=">Charles N. Judice</na></co>
+<co c="0"><na f="k/Kalin:Edward_B=">Edward B. Kalin</na></co>
+<co c="0"><na f="k/Kalla:Subhash">Subhash Kalla</na></co>
+<co c="0"><na f="k/Kambhamettu:Chandra">Chandra Kambhamettu</na></co>
+<co c="0"><na f="k/Kankanhalli:Mohan_S=">Mohan S. Kankanhalli</na></co>
+<co c="2"><na f="k/Kelly:Simon_P=">Simon P. Kelly</na></co>
+<co c="0"><na f="k/Kender:John_R=">John R. Kender</na></co>
+<co c="0"><na f="k/Kennedy:Lyndon_S=">Lyndon S. Kennedy</na></co>
+<co c="0"><na f="k/Kent:John">John Kent</na></co>
+<co c="0"><na f="k/Kulshrestha:Archit">Archit Kulshrestha</na></co>
+<co c="2"><na f="l/Lalor:Edmund_C=">Edmund C. Lalor</na></co>
+<co c="0"><na f="l/Lang:Christian_A=">Christian A. Lang</na></co>
+<co c="0"><na f="l/Lei:Zhou">Zhou Lei</na></co>
+<co c="0"><na f="l/Li:Chung=Sheng">Chung-Sheng Li</na></co>
+<co c="0"><na f="l/Li:Xin">Xin Li</na></co>
+<co c="0"><na f="l/Li:Ying">Ying Li</na></co>
+<co c="0"><na f="l/Li:Zhen">Zhen Li</na></co>
+<co c="0"><na f="l/Liang:Feng">Feng Liang</na></co>
+<co c="0"><na f="l/Lin:Ching=Yung">Ching-Yung Lin</na></co>
+<co c="0"><na f="l/Lin:Chung=Ching">Chung-Ching Lin</na></co>
+<co c="0"><na f="l/Liu:Lurng=Kuo">Lurng-Kuo Liu</na></co>
+<co c="0"><na f="l/Liu:Ming">Ming Liu</na></co>
+<co c="0"><na f="l/Liu:Qiang">Qiang Liu</na></co>
+<co c="0"><na f="l/Liu_0005:Wei">Wei Liu 0005</na></co>
+<co c="0"><na f="l/Lo:Ming=Ling">Ming-Ling Lo</na></co>
+<co c="0"><na f="l/Luo:Jiebo">Jiebo Luo</na></co>
+<co c="0"><na f="m/Ma:Shiqian">Shiqian Ma</na></co>
+<co c="2"><na f="m/McDarby:Gary">Gary McDarby</na></co>
+<co c="0"><na f="m/McKeown:Kathleen">Kathleen McKeown</na></co>
+<co c="0"><na f="m/Meng:Horace_J=">Horace J. Meng</na></co>
+<co c="0"><na f="m/Meng:Jianhao">Jianhao Meng</na></co>
+<co c="0"><na f="m/Merler:Michele">Michele Merler</na></co>
+<co c="0"><na f="m/Meyer:David_A=">David A. Meyer</na></co>
+<co c="0"><na f="m/Mohan:Rakesh">Rakesh Mohan</na></co>
+<co c="0"><na f="m/Mu:Cun">Cun Mu</na></co>
+<co c="0"><na f="m/Mu:Yadong">Yadong Mu</na></co>
+<co c="0"><na f="n/Nahrstedt:Klara">Klara Nahrstedt</na></co>
+<co c="0"><na f="n/Naphade:Milind_R=">Milind R. Naphade</na></co>
+<co c="0" n="2"><na f="n/Natsev:Apostol">Apostol Natsev</na><na>Paul Natsev</na></co>
+<co c="0"><na f="n/Neti:Chalapathy">Chalapathy Neti</na></co>
+<co c="0"><na f="n/Nguyen:Quoc=Bao">Quoc-Bao Nguyen</na></co>
+<co c="0"><na f="n/Nock:Harriet_J=">Harriet J. Nock</na></co>
+<co c="0"><na f="o/Ouyang:Hua">Hua Ouyang</na></co>
+<co c="0"><na f="o/Over:Paul">Paul Over</na></co>
+<co c="0"><na f="p/Paek:Seungyup">Seungyup Paek</na></co>
+<co c="0"><na f="p/Panchanathan:Sethuraman">Sethuraman Panchanathan</na></co>
+<co c="0"><na f="p/Pankanti:Sharath">Sharath Pankanti</na></co>
+<co c="0"><na f="p/Pe=ntilde=a:Santiago">Santiago Pe&#241;a</na></co>
+<co c="0"><na f="p/Permuter:Haim_H=">Haim H. Permuter</na></co>
+<co c="0"><na f="p/Phillips:Alex">Alex Phillips</na></co>
+<co c="0"><na f="p/Plagemann:Thomas">Thomas Plagemann</na></co>
+<co c="0"><na f="p/Podlaseck:Mark">Mark Podlaseck</na></co>
+<co c="0"><na f="p/Ponceleon:Dulce_B=">Dulce B. Ponceleon</na></co>
+<co c="0"><na f="p/Porat:Dror">Dror Porat</na></co>
+<co c="0" n="2"><na f="p/Prabhakaran:B=">B. Prabhakaran</na><na>Balakrishnan Prabhakaran</na></co>
+<co c="0"><na f="p/Pring:E=">E. Pring</na></co>
+<co c="0"><na f="p/Puri:Atul">Atul Puri</na></co>
+<co c="0"><na f="r/Radev:Dragomir_R=">Dragomir R. Radev</na></co>
+<co c="0"><na f="r/Ratha:Nalini_K=">Nalini K. Ratha</na></co>
+<co c="2"><na f="r/Reilly:Richard_B=">Richard B. Reilly</na></co>
+<co c="0"><na f="r/Rogowitz:Bernice_E=">Bernice E. Rogowitz</na></co>
+<co c="0"><na f="r/Rohith:M=_V=">M. V. Rohith</na></co>
+<co c="0"><na f="r/Rorvig:Mark_E=">Mark E. Rorvig</na></co>
+<co c="0"><na f="r/Ross:Kenneth_A=">Kenneth A. Ross</na></co>
+<co c="0"><na f="r/Rowe:Lawrence_A=">Lawrence A. Rowe</na></co>
+<co c="0"><na f="r/Rui:Yong">Yong Rui</na></co>
+<co c="0"><na f="s/Salembier:Philippe">Philippe Salembier</na></co>
+<co c="1"><na f="s/Sanchez:Juan_M=">Juan M. Sanchez</na></co>
+<co c="0"><na f="s/Satoh:Shin=ichi">Shin'ichi Satoh</na></co>
+<co c="-1"><na f="s/Schirling:Peter">Peter Schirling</na></co>
+<co c="0"><na f="s/Seidl:Joachim">Joachim Seidl</na></co>
+<co c="0"><na f="s/Shaft:Uri">Uri Shaft</na></co>
+<co c="0"><na f="s/Shenoy:Prashant_J=">Prashant J. Shenoy</na></co>
+<co c="0"><na f="s/Singh:Raghavendra">Raghavendra Singh</na></co>
+<co c="0"><na f="s/Sips:Henk_J=">Henk J. Sips</na></co>
+<co c="0"><na f="s/Smeaton:Alan_F=">Alan F. Smeaton</na></co>
+<co c="0"><na f="s/Song:Dongjin">Dongjin Song</na></co>
+<co c="0"><na f="s/Srinivasan:Savitha">Savitha Srinivasan</na></co>
+<co c="1"><na f="s/Srolovitz:David_J=">David J. Srolovitz</na></co>
+<co c="0"><na f="s/Sukthankar:Rahul">Rahul Sukthankar</na></co>
+<co c="0"><na f="s/Sundaram:Hari">Hari Sundaram</na></co>
+<co c="0"><na f="s/Syeda=Mahmood:Tanveer_F=">Tanveer F. Syeda-Mahmood</na></co>
+<co c="0"><na f="t/Tabatabai:Ali_J=">Ali J. Tabatabai</na></co>
+<co c="0"><na f="t/Tesic:Jelena">Jelena Tesic</na></co>
+<co c="0"><na f="t/Thompson:Barbara_J=">Barbara J. Thompson</na></co>
+<co c="0"><na f="t/Tian:Qi">Qi Tian</na></co>
+<co c="0"><na f="t/Tseng:Belle_L=">Belle L. Tseng</na></co>
+<co c="0" n="2"><na f="u/Uceda=Sosa:Rosario">Rosario Uceda-Sosa</na><na>Rosario A. Uceda-Sosa</na></co>
+<co c="0"><na f="v/Varbanescu:Ana_Lucia">Ana Lucia Varbanescu</na></co>
+<co c="0"><na f="v/Vin:Harrick_M=">Harrick M. Vin</na></co>
+<co c="0"><na f="v/Vitter:Jeffrey_Scott">Jeffrey Scott Vitter</na></co>
+<co c="0"><na f="v/Volkmer:Timo">Timo Volkmer</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de">Arjen P. de Vries</na></co>
+<co c="0"><na f="w/Wang:Hualu">Hualu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Min">Min Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Xiaolong">Xiaolong Wang</na></co>
+<co c="0"><na f="w/Wegman:M=_N=">M. N. Wegman</na></co>
+<co c="0"><na f="w/Wen:Zhen">Zhen Wen</na></co>
+<co c="0"><na f="w/White:Christopher_D=">Christopher D. White</na></co>
+<co c="3"><na f="w/Wiegand:Thomas">Thomas Wiegand</na></co>
+<co c="1"><na f="w/Wilson:William_D=">William D. Wilson</na></co>
+<co c="1"><na f="w/Wolfer:Wilhelm_G=">Wilhelm G. Wolfer</na></co>
+<co c="0"><na f="w/Worring:Marcel">Marcel Worring</na></co>
+<co c="0"><na f="w/Wu:H=">H. Wu</na></co>
+<co c="0"><na f="w/Wu:Hui">Hui Wu</na></co>
+<co c="0"><na f="w/Wu:Kun=Lung">Kun-Lung Wu</na></co>
+<co c="0"><na f="w/Wu:Lide">Lide Wu</na></co>
+<co c="0"><na f="w/Wu:Y=">Y. Wu</na></co>
+<co c="0"><na f="w/Wu_0005:Yi">Yi Wu 0005</na></co>
+<co c="0"><na f="x/Xie:Lexing">Lexing Xie</na></co>
+<co c="0"><na f="y/Yan:Rong">Rong Yan</na></co>
+<co c="0"><na f="y/Yan:Zhicheng">Zhicheng Yan</na></co>
+<co c="0"><na f="y/Yang_0003:Jun">Jun Yang 0003</na></co>
+<co c="0"><na f="y/Yao:Li">Li Yao</na></co>
+<co c="0"><na f="y/Yasuda:Hiroshi">Hiroshi Yasuda</na></co>
+<co c="0"><na f="y/Yin:Zhijun">Zhijun Yin</na></co>
+<co c="0"><na f="y/You:Quanzeng">Quanzeng You</na></co>
+<co c="0"><na f="y/Yu:Felix_X=">Felix X. Yu</na></co>
+<co c="0"><na f="y/Yu:Philip_S=">Philip S. Yu</na></co>
+<co c="0"><na f="z/Zaman:Kazi_A=">Kazi A. Zaman</na></co>
+<co c="0"><na f="z/Zhang:DongQing">DongQing Zhang</na></co>
+<co c="0"><na f="z/Zhang:HongJiang">HongJiang Zhang</na></co>
+<co c="0"><na f="z/Zhang_0007:Tong">Tong Zhang 0007</na></co>
+<co c="0"><na f="z/Zhong:Di">Di Zhong</na></co>
+<co c="0"><na f="z/Zhou:Mingyuan">Mingyuan Zhou</na></co>
+<co c="0"><na f="z/Zhu:Junhuan">Junhuan Zhu</na></co>
+</coauthors>
+</dblpperson>
+

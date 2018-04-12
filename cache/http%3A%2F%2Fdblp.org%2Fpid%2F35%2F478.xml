@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<dblpperson name="John D. Smith" n="8">
+<person key="homepages/35/478" mdate="2009-06-09">
+<author>John D. Smith</author>
+</person>
+<r><article key="journals/ijebm/ChenSM08" mdate="2013-06-10">
+<author>Injazz J. Chen</author>
+<author>John D. Smith</author>
+<author>Richard J. Miller</author>
+<title>Electronic Reverse Auction (e-RA) and Supply Chain Management: A Blessing or a Curse.</title>
+<pages>80-92</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>IJEBM</journal>
+<number>2</number>
+<ee>http://ijebm.ie.nthu.edu.tw/IJEBM_Web/IJEBM_static/Paper-V6_N2/A03.pdf</ee>
+<url>db/journals/ijebm/ijebm6.html#ChenSM08</url>
+</article>
+</r>
+<r><article key="journals/elearn/SmithT06" mdate="2018-01-09">
+<author>John D. Smith</author>
+<author>Beverly Trayner</author>
+<title>Online course design from a communities-of-practice perspective.</title>
+<pages>3</pages>
+<year>2006</year>
+<volume>2006</volume>
+<journal>eLearn Magazine</journal>
+<number>9</number>
+<ee>http://doi.acm.org/10.1145/1165348.1165354</ee>
+<url>db/journals/elearn/elearn2006.html#SmithT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/webist/TraynerSB06" mdate="2006-09-18">
+<author>Beverly Trayner</author>
+<author>John D. Smith</author>
+<author>Marco C. Bettoni</author>
+<title>Participation in International Virtual Learning Communities - A Social Learning Perspective.</title>
+<pages>229-236</pages>
+<year>2006</year>
+<crossref>conf/webist/2006-2</crossref>
+<booktitle>WEBIST (2)</booktitle>
+<url>db/conf/webist/webist2006-2.html#TraynerSB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/TraynerSB06a" mdate="2017-05-21">
+<author>Beverly Trayner</author>
+<author>John D. Smith</author>
+<author>Marco C. Bettoni</author>
+<title>Participation in International Virtual Learning Communities.</title>
+<pages>402-413</pages>
+<year>2006</year>
+<crossref>conf/webist/2006sp</crossref>
+<booktitle>WEBIST (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74063-6_32</ee>
+<url>db/conf/webist/webist2006sp.html#TraynerSB06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uist/SmithVS05" mdate="2006-02-15">
+<author>John D. Smith</author>
+<author>Roel Vertegaal</author>
+<author>Changuk Sohn</author>
+<title>ViewPointer: lightweight calibration-free eye tracking for ubiquitous handsfree deixis.</title>
+<pages>53-61</pages>
+<year>2005</year>
+<crossref>conf/uist/2005</crossref>
+<booktitle>UIST</booktitle>
+<ee>http://doi.acm.org/10.1145/1095034.1095043</ee>
+<url>db/conf/uist/uist2005.html#SmithVS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/CourniaSD03" mdate="2006-02-10">
+<author>Nathan Cournia</author>
+<author>John D. Smith</author>
+<author>Andrew T. Duchowski</author>
+<title>Gaze- vs. hand-based pointing in virtual environments.</title>
+<pages>772-773</pages>
+<year>2003</year>
+<crossref>conf/chi/2003a</crossref>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>http://doi.acm.org/10.1145/765891.765982</ee>
+<url>db/conf/chi/chi2003a.html#CourniaSD03</url>
+</inproceedings>
+</r>
+<r><article key="journals/nca/YuSM96" mdate="2017-05-26">
+<author>Xing Huo Yu</author>
+<author>John D. Smith</author>
+<author>Masoud Mohammadian</author>
+<title>Automated Fuzzy Knowledge Acquisition with Connectionist Adaptation.</title>
+<pages>27-24</pages>
+<year>1996</year>
+<volume>4</volume>
+<journal>Neural Computing and Applications</journal>
+<number>1</number>
+<url>db/journals/nca/nca4.html#YuSM96</url>
+<ee>https://doi.org/10.1007/BF01413867</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ausai/HegartySH88" mdate="2017-05-19">
+<author>Maree Hegarty</author>
+<author>John D. Smith</author>
+<author>David Hamilton</author>
+<title>Herbicide Advisory Systems: Weeds in Wheat and other Crops.</title>
+<pages>14-29</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#HegartySH88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_67</ee>
+</inproceedings>
+</r>
+<coauthors n="12" nc="5">
+<co c="2"><na f="b/Bettoni:Marco_C=">Marco C. Bettoni</na></co>
+<co c="1"><na f="c/Chen:Injazz_J=">Injazz J. Chen</na></co>
+<co c="0"><na f="c/Cournia:Nathan">Nathan Cournia</na></co>
+<co c="0"><na f="d/Duchowski:Andrew_T=">Andrew T. Duchowski</na></co>
+<co c="3"><na f="h/Hamilton:David">David Hamilton</na></co>
+<co c="3"><na f="h/Hegarty:Maree">Maree Hegarty</na></co>
+<co c="1"><na f="m/Miller:Richard_J=">Richard J. Miller</na></co>
+<co c="4"><na f="m/Mohammadian:Masoud">Masoud Mohammadian</na></co>
+<co c="0"><na f="s/Sohn:Changuk">Changuk Sohn</na></co>
+<co c="2"><na f="t/Trayner:Beverly">Beverly Trayner</na></co>
+<co c="0"><na f="v/Vertegaal:Roel">Roel Vertegaal</na></co>
+<co c="4"><na f="y/Yu:Xing_Huo">Xing Huo Yu</na></co>
+</coauthors>
+</dblpperson>
+
